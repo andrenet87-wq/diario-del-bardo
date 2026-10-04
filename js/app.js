@@ -58,7 +58,7 @@ if($('#wbStats')){
 
 // v0.4 mobile navigation
 const mm=document.getElementById('mobileMenu'), sb=document.querySelector('.side');
-if(mm&&sb){mm.onclick=()=>sb.classList.toggle('mobileOpen');sb.addEventListener('click',e=>{if(e.target.closest('button'))sb.classList.remove('mobileOpen')});}
+// Mobile navigation is handled by the accessible menu listener below.
 
 // v0.5 cinematic production database
 const BP=window.BARD_PRODUCTION||{production:[],theories:[],pipeline:[]};
@@ -203,6 +203,9 @@ const _labAction14=labAction;labAction=function(step){let [t,a,v]=step;if(!Strin
  const menu=document.getElementById('mobileMenu'), side=document.querySelector('.side');
  if(menu&&side){
    menu.setAttribute('aria-expanded','false');
+   menu.setAttribute('aria-label','Apri menu delle sezioni');
+   side.id='sectionMenu';menu.setAttribute('aria-controls','sectionMenu');
+   document.addEventListener('click',ev=>{if(window.innerWidth<=760&&!side.contains(ev.target)&&!menu.contains(ev.target)){side.classList.remove('mobileOpen');menu.setAttribute('aria-expanded','false');}});
    menu.addEventListener('click',function(ev){ev.preventDefault(); const on=side.classList.toggle('mobileOpen'); menu.setAttribute('aria-expanded',String(on));});
    side.addEventListener('click',function(ev){if(ev.target.closest('.nav button') && window.innerWidth<=760){side.classList.remove('mobileOpen');menu.setAttribute('aria-expanded','false');}});
    document.addEventListener('keydown',function(ev){if(ev.key==='Escape'){side.classList.remove('mobileOpen');menu.setAttribute('aria-expanded','false');}});

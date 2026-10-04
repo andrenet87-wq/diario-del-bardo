@@ -59,3 +59,14 @@
   .stage { height:clamp(460px,68vh,780px); }
   .subtitle { max-width:1000px; margin:auto; }
 }
+
+/* Mobile section drawer: replace the horizontal navigation strip. */
+@media(max-width:760px){
+ .side{display:block!important;position:fixed!important;z-index:999;top:54px;bottom:0;left:0;width:min(84vw,310px);height:auto!important;padding:20px 16px!important;overflow-y:auto;background:#0b111afa;transform:translateX(-110%);visibility:hidden;transition:transform .2s ease,visibility .2s;box-shadow:18px 0 50px #0009}
+ .side.mobileOpen{transform:translateX(0);visibility:visible}
+ .side .nav{display:grid!important;overflow:visible!important;white-space:normal;gap:4px}
+ .side .nav button{width:100%;min-width:0;text-align:left;white-space:normal;min-height:44px}
+ .mobileTop{display:flex}
+ #mobileMenu{cursor:pointer;min-width:44px;min-height:44px}
+}
+@media(prefers-reduced-motion:reduce){.side{transition:none}}
