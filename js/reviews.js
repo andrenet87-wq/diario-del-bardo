@@ -1,0 +1,12 @@
+(()=>{
+const base='https://github.com/andrenet87-wq/diario-del-bardo/issues';
+function request(label,image,section){const body=['## Richiesta di revisione','',`Sezione: ${section}`,`Elemento: ${label}`,image?`Immagine: ${image}`:'',`Pagina: ${location.href}`,'','Ruolo (master / giocatore):','Nome:','','### Modifica richiesta','Descrivi qui la correzione e il motivo.','','### Riferimenti del master','Aggiungi eventuali fonti o allegati.','','Le richieste saranno gestite dal proprietario. Nessuna modifica automatica alle reference canoniche approvate.'].filter(x=>x!==undefined).join('\n');return base+'/new?title='+encodeURIComponent('[Revisione] '+label)+'&body='+encodeURIComponent(body);}
+function sectionName(view){return view?.querySelector('h1,h2')?.textContent.trim()||view?.id||'Diario';}
+document.querySelectorAll('.view').forEach(view=>{const box=document.createElement('div');box.className='reviewLinks';const link=document.createElement('a');link.textContent='Richiedi revisione della sezione';link.href=request(sectionName(view),'',sectionName(view));link.target='_blank';link.rel='noopener';const list=document.createElement('a');list.textContent='Richieste aperte';list.href=base;list.target='_blank';list.rel='noopener';const note=document.createElement('small');note.textContent='Master e giocatori: invio su GitHub con account. Le richieste sono pubbliche.';box.append(link,list,note);view.prepend(box);});
+const link=document.createElement('a');link.id='ivReview';link.textContent='Richiedi revisione';link.target='_blank';link.rel='noopener';link.title='Si apre GitHub: serve un account. La richiesta sarà pubblica.';document.querySelector('.ivActions')?.prepend(link);
+function refresh(){const img=document.getElementById('ivImage');const view=document.querySelector('.view.active');link.href=request(document.getElementById('ivTitle').textContent,img.getAttribute('src')||'',sectionName(view));}
+new MutationObserver(refresh).observe(document.getElementById('ivImage'),{attributes:true,attributeFilter:['src']});
+// Make every rendered image accessible through the existing zoom/review viewer.
+function enable(){document.querySelectorAll('img:not(#ivImage)').forEach(img=>img.classList.add('zoomableImage'));}
+enable();new MutationObserver(enable).observe(document.querySelector('main'),{childList:true,subtree:true});
+})();
