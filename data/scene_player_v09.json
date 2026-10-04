@@ -1,0 +1,187 @@
+{
+  "scenes": [
+    {
+      "id": "R001",
+      "title": "I travois",
+      "place": "Deserto di Thrantir",
+      "bg": "assets/placeholders/place.svg",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 31
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 67
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Lascia stare… non sono di molte parole. Ho chiesto perché queste barelle avessero delle lame per fendere la sabbia, mi hanno dato un pugno e sono tornati a trascinarci."
+        },
+        {
+          "speaker": "Xarion",
+          "text": "E perché hai chiesto una cosa così stupida!?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Perché… Tu conosci la risposta?"
+        }
+      ]
+    },
+    {
+      "id": "R002",
+      "title": "Inception o Interstellar?",
+      "place": "Deserto di Thrantir",
+      "bg": "assets/placeholders/place.svg",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 30
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 70
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Tu l’hai visto Inception?"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Il film dell’era atomica!?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Vedi, quello che stiamo osservando, è un buco nero!"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Interstellar. Matthew McConaughey."
+        }
+      ]
+    },
+    {
+      "id": "R003",
+      "title": "Finalmente un posto dove bere",
+      "place": "Ramo Discendente",
+      "bg": "assets/places/ramo_discendente.jpg",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 18
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 38
+        },
+        {
+          "name": "Marcus",
+          "img": "assets/characters/marcus.jpg",
+          "x": 62
+        },
+        {
+          "name": "Dregan",
+          "img": "assets/characters/dregan.jpg",
+          "x": 82
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Finalmente un posto dove bere!"
+        }
+      ]
+    },
+    {
+      "id": "R004",
+      "title": "Il cognome di Dregan",
+      "place": "Ramo Discendente",
+      "bg": "assets/places/ramo_discendente.jpg",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 30
+        },
+        {
+          "name": "Dregan",
+          "img": "assets/characters/dregan.jpg",
+          "x": 70
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Dregan e basta? Non hai un cognome?"
+        },
+        {
+          "speaker": "Dregan",
+          "text": "Il mio cognome… lo avevo un cognome, poi un giorno mi trovavo nell'arena. Ricevetti sul volto un pugno così forte e me lo scordai. Da allora non ne ho più uno."
+        }
+      ]
+    },
+    {
+      "id": "R005",
+      "title": "Vael e le conseguenze",
+      "place": "Nostromo",
+      "bg": "assets/ships/nostromo_plan.png",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 31
+        },
+        {
+          "name": "Vael",
+          "img": "assets/characters/vael.jpg",
+          "x": 69
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Vael",
+          "text": "Questo è l’unico motivo per cui ti starò accanto fino alla fine dei nostri giorni. Dopo quello che hai fatto, non saranno poi molti."
+        }
+      ]
+    },
+    {
+      "id": "R006",
+      "title": "Il tempio di Vael",
+      "place": "Nostromo",
+      "bg": "assets/ships/nostromo_plan.png",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 22
+        },
+        {
+          "name": "Loox",
+          "img": "assets/characters/loox.png",
+          "x": 50
+        },
+        {
+          "name": "Dregan",
+          "img": "assets/characters/dregan.jpg",
+          "x": 78
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Siete entrati nel tempio di Vael, araldo dell’occhio del creatore. Deponete le armi e avvicinatevi alla sua guida."
+        }
+      ]
+    }
+  ]
+}

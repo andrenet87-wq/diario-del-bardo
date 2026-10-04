@@ -1,0 +1,7 @@
+{
+  "schema": "voice-contract-v1",
+  "backend_current": "Web Speech API",
+  "backend_future": "TTS locale per voice_id",
+  "rule": "Il testo del dialogo non dipende dal backend vocale.",
+  "characters": ["Lucien", "Xarion", "Marcus", "Dregan", "Vael", "Loox", "Sable", "Ivona", "Orren", "Fagus", "Cronaca", "Sistema", "Voce", "Capitano dei Figli"]
+}

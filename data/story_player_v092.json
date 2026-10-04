@@ -1,0 +1,542 @@
+{
+  "version": "0.9.2",
+  "scenes": [
+    {
+      "id": "BG01",
+      "title": "Oceano",
+      "place": "Pianeta Oceano",
+      "bg": "assets/worlds/oceano_concept.webp",
+      "source": "Background · Oceano",
+      "status": "CANONICO",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Oceano è interamente ricoperto da un oceano. Nelle profondità sorgono città sotto cupole di vetroceramica, mentre in superficie vivono i Veleggianti."
+        }
+      ]
+    },
+    {
+      "id": "BG02",
+      "title": "Cupola Cinque",
+      "place": "Cupola Cinque · distretto dei manutentori",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 62
+        },
+        {
+          "name": "Darios",
+          "img": "assets/placeholders/human.svg",
+          "x": 32
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Duemila anni dopo l’ultimo segnale da Thrantir, Lucien vive nella Cupola Cinque, un villaggio medievale sottomarino costruito sui resti dell’Era Atomica."
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Suo padre Darios vorrebbe per lui una vita diversa da quella che Lucien sceglierà."
+        }
+      ]
+    },
+    {
+      "id": "BG03",
+      "title": "Il musicista improvvisato",
+      "place": "Taverne degli Abitanti del Profondo",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "La madre gli ha insegnato le basi del liuto e del violino. Lucien lascia casa e comincia a improvvisarsi musicista nelle taverne degli Abitanti del Profondo."
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Più che un musicista preparato è un ottimo interprete: nessuno sembra accorgersi di quanto stia improvvisando."
+        }
+      ]
+    },
+    {
+      "id": "BG04",
+      "title": "DAM e musica dell’Era Atomica",
+      "place": "Oceano · taverne e distretti",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Nel suo vagabondare Lucien colleziona DAM, i Diamanti ad Archiviazione Massiva che hanno conservato dati dell’Era Atomica."
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Adatta a liuto e violino musiche antiche, in particolare dei Blind Guardian, e chiude spesso le serate con The Bard Song."
+        }
+      ]
+    },
+    {
+      "id": "BG05",
+      "title": "Dutch Schaefer",
+      "place": "Oceano",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Tra i reperti dell’Era Atomica Lucien guarda ripetutamente Predator. Dutch Schaefer diventa per lui un modello di coraggio."
+        }
+      ]
+    },
+    {
+      "id": "BG06",
+      "title": "Il crollo di LV-426",
+      "place": "Tunnel LV-426",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 52
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Cosa avrebbe fatto Dutch Schaefer al mio posto?"
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Il tunnel LV-426 crolla. Lucien è l’unico superstite e vede morire i suoi genitori."
+        }
+      ]
+    },
+    {
+      "id": "BG07",
+      "title": "I vecchi moli",
+      "place": "Moli dell’Era Atomica · Oceano",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Sotto shock, Lucien raggiunge i vecchi moli dell’Era Atomica. Le spelljammer sono inattive da millenni, coperte di alghe e coralli."
+        }
+      ]
+    },
+    {
+      "id": "BG08",
+      "title": "La spelljammer sommersa",
+      "place": "Spelljammer abbandonata",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Lucien entra in una spelljammer abbandonata, chiude il portellone e si siede al timone. Sa che la nave non dovrebbe più accendersi."
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Sgancia l’ancoraggio e lascia che le correnti di Oceano la riportino verso la superficie."
+        }
+      ]
+    },
+    {
+      "id": "BG09",
+      "title": "Ritorno alla superficie",
+      "place": "Superficie di Oceano",
+      "bg": "assets/worlds/oceano_concept.webp",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 48
+        },
+        {
+          "name": "Veleggiante",
+          "img": "assets/placeholders/human.svg",
+          "x": 75
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "La spelljammer riemerge davanti a un vascello di Veleggianti. Lucien baratta reperti dell’Era Atomica per trasformarla in una nave utilizzabile sulla superficie."
+        }
+      ]
+    },
+    {
+      "id": "BG10",
+      "title": "Anni da Veleggiante",
+      "place": "Superficie di Oceano",
+      "bg": "assets/worlds/oceano_concept.webp",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Lucien trascorre anni come Veleggiante: ripara lentamente la spelljammer, razzia ciò che trova e guarda sulle DAM gli stessi video dell’Era Atomica."
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Intanto relitti di spelljammer e asteroidi cadono sempre più spesso su Oceano e la navigazione diventa pericolosa."
+        }
+      ]
+    },
+    {
+      "id": "BG11",
+      "title": "L’Orda demoniaca",
+      "place": "Oceano",
+      "bg": "assets/worlds/oceano_concept.webp",
+      "source": "Background + informazione del giocatore: l’Orda è composta da demoni",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 38
+        },
+        {
+          "name": "Orda",
+          "img": "assets/placeholders/creature.svg",
+          "x": 72
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "L’Orda demoniaca attacca Oceano. Le esplosioni generano onde gargantuesche e l’obiettivo dell’attacco è raggiungere il nucleo del pianeta e farlo esplodere."
+        }
+      ]
+    },
+    {
+      "id": "BG12",
+      "title": "Rientro forzato",
+      "place": "Spelljammer di Lucien",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Un’antica sequenza militare di rientro forzato tenta di riportare la spelljammer verso Thrantir. Il database locale e le scansioni orbitali continuano però a segnalare incongruenze."
+        }
+      ]
+    },
+    {
+      "id": "BG13",
+      "title": "Ignora dati di navigazione",
+      "place": "Centro di comando della spelljammer",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Sistema",
+          "text": "Siete sicuri di voler navigare senza database locale?"
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Lucien seleziona Ignora Dati di Navigazione."
+        },
+        {
+          "speaker": "Sistema",
+          "text": "Impostare una tipologia di partenza…"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Parti stupida troia! Questa è una fottuta emergenza!"
+        },
+        {
+          "speaker": "Sistema",
+          "text": "Partenza d’emergenza attivata!"
+        }
+      ]
+    },
+    {
+      "id": "BG14",
+      "title": "Partenza da Oceano",
+      "place": "Orbita di Oceano",
+      "bg": "assets/worlds/oceano_concept.webp",
+      "source": "Background · Lucien Vhaar",
+      "status": "CANONICO",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_oceano.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "I propulsori si attivano alla massima potenza e scaraventano Lucien dal lato opposto della sala di comando. La spelljammer lascia Oceano."
+        }
+      ]
+    },
+    {
+      "id": "TH-S01",
+      "title": "I travois",
+      "place": "Deserto di Thrantir",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Riassunto · Capitolo 1 / Sessione 0",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 32
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 68
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Lascia stare… non sono di molte parole. Ho chiesto perché questi trabiccoli avessero delle lame per fendere la sabbia. Mi hanno dato un pugno e sono tornati a trascinarci."
+        },
+        {
+          "speaker": "Xarion",
+          "text": "E perché hai chiesto una cosa così stupida!?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Perché… Tu conosci la risposta?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Sono precipitato anche io… ho anche avuto un attacco di panico come te e un pugno dai disgraziati che ci hanno salvato. Ho pensato semplicemente che sarei morto e ho realizzato di essere vivo. Credo possa bastarmi come spiegazione, per il momento."
+        }
+      ]
+    },
+    {
+      "id": "TH-S02",
+      "title": "Inception o Interstellar?",
+      "place": "Deserto di Thrantir",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Riassunto · Capitolo 1",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 32
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 68
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Tu l’hai visto Inception?"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Il film dell’era atomica!?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Vedi, quello che stiamo osservando, è un buco nero!"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "In Inception non ci sono buchi neri, parla di innestare sogni nelle menti altrui."
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Ma che dici!? Leonardo DiCaprio ci si lascia cadere all’interno del buco nero con una spelljammer!!!"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Quello era Matthew McConaughey! E il film era Interstellar!!!"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Matthew McConaughey, Leonardo DiCaprio, due modi diversi per dire la stessa identica cosa, comunque hai capito, no!?"
+        }
+      ]
+    },
+    {
+      "id": "TH-S03",
+      "title": "Finalmente i nomi",
+      "place": "Itoigawa",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Riassunto · Capitolo 1",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 32
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 68
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Xarion",
+          "text": "Xarion Reed, tu sei?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Lucien Vhaar! Piacere!"
+        }
+      ]
+    },
+    {
+      "id": "TH-S04",
+      "title": "Ramo Discendente",
+      "place": "Ramo Discendente",
+      "bg": "assets/places/ramo_discendente.jpg",
+      "source": "Riassunto · Capitolo 1",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 20
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 40
+        },
+        {
+          "name": "Marcus",
+          "img": "assets/characters/marcus.jpg",
+          "x": 65
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Finalmente un posto dove bere!"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Frena l'entusiasmo, come intendi pagare?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Fogli di vetroceramica. Veniva prodotta sul mio pianeta e il vecchio Fagus mi ha detto che ci potrei campare per un anno."
+        },
+        {
+          "speaker": "Marcus",
+          "text": "Amici miei, sono Marcus! Venite al bancone e lasciatevi offrire qualcosa. Siete coloni, vero? Non vi ho mai visti qui intorno, siete appena precipitati?"
+        }
+      ]
+    },
+    {
+      "id": "TH-S05",
+      "title": "Promiscuous Mode",
+      "place": "Plancia della Nostromo",
+      "bg": "assets/ships/nostromo_plan.png",
+      "source": "Lucien Vhaar · C4 - Promiscuous Mode",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Discepoli di Kethara! Parlo a voi attraverso i poteri dell'Era Atomica! A mio profondo rammarico vedo che i miei insegnamenti sono stati travisati!"
+        },
+        {
+          "speaker": "Voce",
+          "text": "...Devi scrivere questa storia..."
+        },
+        {
+          "speaker": "Voce",
+          "text": "Devi vivere questa storia."
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Marcus, Xarion, interrompete le ricerche! Qui dalla plancia risulta tutto esplorato. Muovete il culo! Ho appena inviato un messaggio a Kethara e la mia trovata potrebbe aver alzato un polverone."
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "L’Orda è demoniaca: informazione confermata dal giocatore il 30/09/2026.",
+    "Le regie visive non aggiungono fatti canonici.",
+    "Gli asset mancanti restano placeholder fino all’asset pass."
+  ]
+}

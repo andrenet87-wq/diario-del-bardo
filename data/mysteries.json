@@ -1,0 +1,27 @@
+[
+  {
+    "name": "L’Occhio del Creatore",
+    "state": "APERTO",
+    "text": "Divinità dei Figli dell’Orizzonte, manifestata come buco nero. Natura religiosa e natura cosmologica non vanno confuse."
+  },
+  {
+    "name": "Voce nella rete",
+    "state": "APERTO",
+    "text": "Durante Promiscuous Mode Lucien riceve una trasmissione senza intestazione che gli dice di vivere/scrivere la storia."
+  },
+  {
+    "name": "Oron Esgail",
+    "state": "APERTO",
+    "text": "Coordinate associate al messaggio ricevuto da Marcus/Otto e a fenomeni percepiti da Xarion."
+  },
+  {
+    "name": "Otto von Sieg Hail",
+    "state": "APERTO",
+    "text": "Baatezu legato a Marcus; sostiene che raggiungere le coordinate sia necessario per sopravvivere."
+  },
+  {
+    "name": "Resheph",
+    "state": "IDENTIFICATO",
+    "text": "Drone ad alta energia dei Figli dell’Orizzonte: agile, resistente, immune a veleno/connessioni psioniche e capace di autodistruzione."
+  }
+]

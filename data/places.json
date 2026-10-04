@@ -1,0 +1,56 @@
+[
+  {
+    "id": "thrantir",
+    "name": "Thrantir",
+    "kind": "Mondo",
+    "image": "assets/characters/lucien_thrantir.png",
+    "text": "Pianeta madre devastato. Il cielo come un tempo non esiste più; sopra il mondo domina l’astro oscuro identificato religiosamente come Occhio del Creatore.",
+    "x": 48,
+    "y": 43
+  },
+  {
+    "id": "itoigawa",
+    "name": "Itoigawa",
+    "kind": "Insediamento",
+    "image": "assets/places/ramo_discendente.jpg",
+    "text": "Piccola baraccopoli di alcune migliaia di abitanti sviluppata sulla mesa e costruita in gran parte con materiali di recupero. È secca, polverosa e priva di acqua libera visibile: l’acqua decontaminata è razionata e controllata dai Figli dell’Orizzonte.",
+    "x": 34,
+    "y": 62
+  },
+  {
+    "id": "kethara",
+    "name": "Kethara",
+    "kind": "Cittadella",
+    "image": null,
+    "text": "Kethara non è ancora stata visitata dal gruppo. Lucien ne ha ricostruito soltanto la topologia dei server/rete in anelli concentrici: non va trattata come una mappa urbana verificata.",
+    "x": 70,
+    "y": 30
+  },
+  {
+    "id": "nostromo",
+    "name": "La Nostromo",
+    "kind": "Spelljammer",
+    "image": "assets/ships/nostromo_plan.png",
+    "text": "Spelljammer utilizzata dal gruppo come base. La nave dispone di sistemi controllabili, gravità locale, porte e infrastrutture dell’Era Atomica.",
+    "x": 56,
+    "y": 65
+  },
+  {
+    "id": "ramo",
+    "name": "Il Ramo Discendente",
+    "kind": "Taverna",
+    "image": "assets/places/ramo_discendente.jpg",
+    "text": "Taverna di Itoigawa, uno dei primi punti di incontro del gruppo.",
+    "x": 30,
+    "y": 68
+  },
+  {
+    "id": "oceano",
+    "name": "Oceano",
+    "kind": "Mondo/colonia",
+    "image": "assets/characters/lucien_oceano.png",
+    "text": "Pianeta interamente oceanico e patria di Lucien. Colonia dell’Impero Atomico, con Abitatori del Profondo e Veleggianti. Il mondo viene attaccato dall’Orda e Lucien fugge poco prima della catastrofe.",
+    "x": 12,
+    "y": 18
+  }
+]

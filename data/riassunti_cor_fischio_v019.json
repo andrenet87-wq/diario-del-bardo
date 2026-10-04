@@ -1,0 +1,121 @@
+{
+  "version": "0.19.0",
+  "source": "Google Drive · Riassunto · capitoli 1–5",
+  "rule": "Solo eventi importanti per la trama. Nessun raccordo romanzato, nessuna battuta ornamentale, nessun dettaglio inventato.",
+  "chapters": [
+    {
+      "id": "R1",
+      "source_chapter": "Capitolo 1",
+      "title": "La Fine che era Scritta",
+      "session": "19/06/2026",
+      "fischio": [
+        "Lucien e Xarion precipitano su Thrantir e vengono recuperati da una squadra di pellegrini.",
+        "Scoprono l’Occhio del Creatore, la Linea Termica e il controllo dei Figli dell’Orizzonte su tributi e acqua.",
+        "A Itoigawa incontrano Fagus e raggiungono il Ramo Discendente.",
+        "Conoscono Marcus e Dregan e apprendono della guerra fra demoni e draghi a est.",
+        "Il gruppo decide di cercare una via alternativa fuori dal controllo dei Fratelli."
+      ],
+      "normal": [
+        "Lucien e Xarion sopravvivono ai rispettivi schianti e vengono trascinati verso Itoigawa sui travois della Squadra #6.",
+        "Thrantir è illuminato dall’Occhio del Creatore; la Linea Termica divide in modo netto deserto e ghiaccio.",
+        "I Figli dell’Orizzonte controllano i tributi, l’acqua decontaminata e gli accessi alla colonia. Fratello Zlatan presidia il rientro delle squadre.",
+        "Fagus spiega a Lucien il sistema dei crediti, dei tributi e del monopolio dell’acqua.",
+        "Al Ramo Discendente Lucien e Xarion incontrano Marcus Shamrock e Dregan; emergono anche Sable, Ivona e Fratello Orren.",
+        "Orren tenta di convertire Dregan e, durante un’esibizione musicale, il locale dimentica per un momento la pressione dei Fratelli.",
+        "Marcus e Dregan spiegano che Kethara è fuori portata, a est infuria la guerra tra demoni e draghi e a ovest esistono rotte meno controllate.",
+        "Il gruppo sceglie di cercare Torren per uscire da Itoigawa senza passare dai normali registri."
+      ]
+    },
+    {
+      "id": "R2",
+      "source_chapter": "Capitolo 2",
+      "title": "Le Lande ad Ovest",
+      "session": "01/07/2026",
+      "fischio": [
+        "Xarion capisce che la cronologia di Thrantir non coincide con quella di Ion e Oceano.",
+        "Il gruppo lascia Itoigawa grazie a Torren e si dirige a ovest.",
+        "Compare Loox; un suo missile uccide un Fratello che poco dopo si rigenera: è Vael.",
+        "Vael si unisce al gruppo e rivela di aver firmato un contratto misterioso.",
+        "Fen Borskov conduce tutti a un relitto gigantesco dell’Era Atomica: la futura Nostromo."
+      ],
+      "normal": [
+        "Le differenze temporali fra Ion, Oceano e Thrantir spingono Xarion a sospettare effetti relativistici o anomalie del tempo.",
+        "Alla distribuzione dell’acqua il gruppo assiste alla rigidità del sistema dei crediti; Marcus aiuta Estrella e i suoi figli malati.",
+        "Torren permette al gruppo di uscire da Itoigawa lungo una rotta non registrata.",
+        "Nel deserto Xarion stabilisce il contatto con Loox, procione solare modificato da sua madre Vyna.",
+        "Loox lancia un missile contro un Fratello. Il bersaglio muore ma il corpo si ricompone e torna in vita.",
+        "Il Fratello si presenta come Vael, ammette di non sapere più se appartiene davvero all’Ordine e decide di accompagnare il gruppo.",
+        "Fen Borskov e la sua famiglia stanno sorvegliando un relitto enorme trovato a ovest.",
+        "Il relitto è una spelljammer dell’Era Atomica lunga chilometri. Lucien riesce ad attivare alcuni sistemi esterni."
+      ]
+    },
+    {
+      "id": "R3",
+      "source_chapter": "Capitolo 3",
+      "title": "Dottoressa Elena Ripli",
+      "session": "NON INDICATA NEL TAB",
+      "fischio": [
+        "Il gruppo entra nel relitto e scopre che molti sistemi sono ancora attivi, compreso il controllo della gravità.",
+        "Una DAM ricostruisce la caduta della civiltà di Thrantir: guerra atomica, draghi e fuga di Paikon.",
+        "La registrazione è firmata dalla Dott.ssa Elena Ripli, ultima sopravvissuta della Nostromo.",
+        "Voci impossibili parlano attraverso i sistemi della nave e indicano coordinate sull’Oron Esgail.",
+        "Il corpo della Ripli appare morto da poco, nonostante la nave dovrebbe avere oltre duemila anni."
+      ],
+      "normal": [
+        "Il gruppo raggiunge uno spazioporto interno, riattiva la gravità artificiale ed esplora corridoi, alloggi, mensa e sala comando.",
+        "Una DAM contiene il diario della Dott.ssa Elena Ripli e descrive Thrantir quando era una civiltà planetaria unificata.",
+        "I draghi vengono presentati come risposta al collasso delle leyline, non come causa della crisi.",
+        "I Mizrahi avviano attacchi atomici contro i draghi; la guerra tra nazioni porta infine alla distruzione globale e alla fuga di Paikon.",
+        "La registrazione termina identificando Elena Ripli come ultima sopravvissuta della Nostromo.",
+        "Interferenze audio riproducono le voci dei personaggi e forniscono indicazioni apparentemente impossibili.",
+        "Una voce sconosciuta contatta Marcus, cita un precedente contratto e ordina di raggiungere coordinate nell’Oron Esgail.",
+        "Il gruppo trova il corpo di Elena Ripli quasi intatto: un ulteriore indizio che sulla nave il tempo non funziona normalmente."
+      ]
+    },
+    {
+      "id": "R4",
+      "source_chapter": "Capitolo 4",
+      "title": "L’Ultima Buona Stagione",
+      "session": "NON INDICATA NEL TAB",
+      "fischio": [
+        "I log mostrano che la Nostromo partì nel 4273 e si schiantò nel 6382: mancano 2109 anni di viaggio.",
+        "Vael rinuncia di fatto ai Figli dell’Orizzonte e racconta come funziona Kethara.",
+        "Il gruppo conclude che Nostromo, Ripli e le interferenze sono legate a una forte anomalia temporale.",
+        "Nelle stive vengono trovate armi dell’Era Atomica, che il gruppo prende con sé."
+      ],
+      "normal": [
+        "La cronistoria di bordo registra il decollo nel 4273 e lo schianto nel 6382 senza alcun dato per i 2109 anni intermedi.",
+        "Elena Ripli porta medagliette della Nostromo e lascia un messaggio: chi la trova sta guardando il passato e non deve fermarsi.",
+        "Vael racconta di aver sottratto tributi, di essere stato punito e di aver firmato un contratto misterioso che lo ha salvato.",
+        "Descrive Kethara come una città di mura concentriche presso la Linea Termica, con acqua corrente mentre Itoigawa muore di sete.",
+        "Vael dichiara di non essere un credente e si schiera contro l’Ordine.",
+        "Il gruppo collega lo stato del corpo della Ripli, il salto temporale della nave e le voci radio a un’anomalia del tempo.",
+        "Durante l’esplorazione vengono trovate armi dell’Era Atomica: Dregan prende un AK-47, Marcus un Remington 870, Xarion un Voltek Mag-9 e Lucien una Coil-Pistol M-400."
+      ]
+    },
+    {
+      "id": "R5",
+      "source_chapter": "Capitolo 5",
+      "title": "La Trappola di Dregan",
+      "session": "NON INDICATA NEL TAB",
+      "fischio": [
+        "Loox si presenta nella sua forma evoluta e Xarion spiega il legame neurale con lui e con le spelljammer.",
+        "Marcus identifica il suo salvatore come il baatezu che chiama Otto von Sieg Hail e conferma la rotta verso l’Oron Esgail.",
+        "Vael spiega che il falso broadcast di Lucien può provocare scismi, purghe e migliaia di morti.",
+        "Xarion usa il timone della Nostromo e rileva due Resheph e una spelljammer dei Figli in arrivo.",
+        "La trappola di Dregan riesce: il capitano muore, tre soldati si arrendono e Lucien inganna Kethara sul destino della nave catturata."
+      ],
+      "normal": [
+        "Loox appare in forma evoluta e parlante; Xarion spiega che Vyna lo modificò come passo preliminare agli interventi neurali su di lui.",
+        "Marcus racconta che il suo interlocutore è un baatezu che si fa chiamare Otto von Sieg Hail e che le coordinate dell’Oron Esgail sarebbero l’unica via di sopravvivenza.",
+        "Vael affronta Lucien sul falso messaggio religioso: prevede scissioni tra fedeli, purghe, accuse opportunistiche e migliaia di possibili condanne a morte.",
+        "Xarion indossa il timone della Nostromo, si fonde percettivamente con la nave e rileva tre segnali: due droni sferici e una spelljammer da ricognizione dei Figli.",
+        "La ricognizione rivela che i Figli usano segretamente spelljammer funzionanti per trasportare i tributi verso Kethara e nascondono tecnologia dell’Era Atomica e arcana.",
+        "Un’interferenza psichica porta Xarion a percepire un’altra nave e coordinate coincidenti con quelle indicate da Marcus.",
+        "Il gruppo decide di restare sulla Nostromo e usare porte e sistemi di bordo per guidare gli abbordatori in una trappola.",
+        "Lucien inscena il tempio di Vael; Dregan uccide il capitano e costringe i tre superstiti ad accettare un accordo che protegga Fen e gli altri di Itoigawa.",
+        "Lucien accede ai droni Resheph tramite la radio del capitano e invia a Kethara un falso segnale di rientro automatico della spelljammer catturata."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "schema": "diario-reference-lock-v1",
+  "rule": "APPROVED assets are immutable visual references. Never replace, redraw, restyle or infer over them unless the user explicitly requests a new version.",
+  "main_characters": [
+    {
+      "id": "lucien",
+      "name": "Lucien Vhaar",
+      "status": "APPROVED",
+      "original": "assets/characters/lucien_thrantir.png",
+      "director": "assets/references/director/lucien_thrantir_sheet.png",
+      "constraints": [
+        "human",
+        "not elf",
+        "preserve face, hair, clothing and equipment"
+      ]
+    },
+    {
+      "id": "marcus",
+      "name": "Marcus Shamrock",
+      "status": "APPROVED",
+      "original": "assets/characters/marcus.jpg",
+      "director": "assets/references/director/marcus_sheet.png",
+      "constraints": [
+        "preserve face, body, armour and equipment"
+      ]
+    },
+    {
+      "id": "dregan",
+      "name": "Dregan",
+      "status": "APPROVED",
+      "original": "assets/characters/dregan.jpg",
+      "director": "assets/references/director/dregan_sheet.png",
+      "constraints": [
+        "gladiator/fighter",
+        "hammer",
+        "preserve face, build and equipment"
+      ]
+    },
+    {
+      "id": "xarion",
+      "name": "Xarion Reed",
+      "status": "APPROVED",
+      "original": "assets/characters/xarion_01.jpg",
+      "director": "assets/references/director/xarion_reed_sheet.png",
+      "constraints": [
+        "preserve face, hair, glasses/clothing/equipment as reference"
+      ]
+    },
+    {
+      "id": "vael",
+      "name": "Fratello Vael",
+      "status": "APPROVED",
+      "original": "assets/characters/vael.jpg",
+      "director": "assets/references/director/vael_sheet.png",
+      "constraints": [
+        "current approved Director version uses six-pointed star, not eye symbol",
+        "do not restore old eye emblem"
+      ]
+    },
+    {
+      "id": "loox_v01",
+      "name": "Loox Prime",
+      "status": "APPROVED",
+      "original": "assets/characters/loox_prime.png",
+      "director": "assets/references/director/loox_v01_sheet.png",
+      "constraints": [
+        "initial form"
+      ]
+    },
+    {
+      "id": "loox_v02",
+      "name": "Loox Overloaded",
+      "status": "APPROVED",
+      "original": "assets/characters/loox_overloaded.png",
+      "director": "assets/references/director/loox_v02_sheet.png",
+      "constraints": [
+        "current/evolved form"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "itoigawa",
+      "status": "CANON_VISUAL_CONTRACT",
+      "constraints": [
+        "small shantytown on/around a mesa",
+        "few thousand inhabitants at most",
+        "sand and rock",
+        "scrap/recovered atomic-era material reused in buildings and clothing",
+        "NO rivers, canals, lakes, fountains or abundant visible water",
+        "clean water is rationed and controlled by the Figli dell’Orizzonte",
+        "do not depict as a dense monumental metropolis"
+      ]
+    },
+    {
+      "id": "kethara",
+      "status": "NOT_VISUALLY_OBSERVED",
+      "constraints": [
+        "players have not visited it",
+        "known mapping is server/network topology, not a verified city map",
+        "do not present speculative architecture as canon"
+      ]
+    }
+  ],
+  "chapter_covers": [
+    {
+      "chapter": 0,
+      "title": "Oceano",
+      "asset": "assets/covers/strato01_oceano.png",
+      "status": "APPROVED"
+    },
+    {
+      "chapter": 1,
+      "title": "Thrantir",
+      "asset": "assets/covers/strato02_thrantir.png",
+      "status": "APPROVED"
+    },
+    {
+      "chapter": 2,
+      "title": "Itoigawa e il Ramo Discendente",
+      "asset": "assets/covers/strato03_itoigawa.png",
+      "status": "APPROVED"
+    },
+    {
+      "chapter": 3,
+      "title": "Nostromo e rotta per Kethara",
+      "asset": "assets/covers/strato04_kethara.png",
+      "status": "APPROVED"
+    }
+  ],
+  "forbidden_substitutions": [
+    "generated UI mockups",
+    "generic fantasy portraits",
+    "generic elven versions of Lucien",
+    "water-rich Itoigawa",
+    "new renditions of approved main-character references without explicit request"
+  ],
+  "v019_provisional_visuals": [
+    {
+      "id": "otto",
+      "path": "assets/profiles_v019/otto_v019.svg",
+      "status": "PROVISIONAL_MASTER_VALIDATION"
+    },
+    {
+      "id": "capitano",
+      "path": "assets/profiles_v019/capitano_figli_v019.svg",
+      "status": "PROVISIONAL_MASTER_VALIDATION"
+    },
+    {
+      "id": "estrella",
+      "path": "assets/profiles_v019/estrella_v019.svg",
+      "status": "PROVISIONAL_MASTER_VALIDATION"
+    },
+    {
+      "id": "elena_ripli",
+      "path": "assets/profiles_v019/elena_ripli_v019.svg",
+      "status": "PROVISIONAL_MASTER_VALIDATION"
+    }
+  ],
+  "v019_rule": "These provisional visuals are additions only. They must never replace APPROVED references until explicitly validated by the master."
+}

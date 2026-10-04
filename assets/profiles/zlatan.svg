@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b28"/><stop offset="1" stop-color="#261d16"/></linearGradient>
+<radialGradient id="r"><stop stop-color="#d5b46b" stop-opacity=".35"/><stop offset="1" stop-color="#d5b46b" stop-opacity="0"/></radialGradient></defs>
+<rect width="720" height="900" fill="url(#g)"/><circle cx="360" cy="320" r="280" fill="url(#r)"/>
+<circle cx="360" cy="305" r="126" fill="#202b34" stroke="#b99555" stroke-width="4"/>
+<path d="M185 715c18-155 92-240 175-240s157 85 175 240" fill="#202b34" stroke="#b99555" stroke-width="4"/>
+<text x="360" y="340" text-anchor="middle" font-family="sans-serif" font-size="112" fill="#d7c28d">Z</text>
+<rect x="52" y="720" width="616" height="126" rx="18" fill="#071019" fill-opacity=".88" stroke="#4d5966"/>
+<text x="78" y="764" font-family="sans-serif" font-size="30" fill="#f2e6c8">Zlatan</text>
+<text x="78" y="800" font-family="sans-serif" font-size="20" fill="#d5b46b">Figlio dell&#x27;Orizzonte · PROFILO PROVVISORIO</text>
+<text x="78" y="830" font-family="sans-serif" font-size="15" fill="#93a2b2">desert guard, white rough armor, uncovered face</text></svg>

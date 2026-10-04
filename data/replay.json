@@ -1,0 +1,273 @@
+[
+  {
+    "id": "bg-oceano",
+    "chapter": "BG",
+    "title": "Cupola Cinque — Oceano",
+    "place": "Oceano",
+    "image": "assets/characters/lucien_oceano.png",
+    "duration": 12,
+    "summary": "Lucien cresce nel distretto dei manutentori della Cupola Cinque. Rifiuta la strada del padre Darios, si improvvisa musicista e colleziona DAM.",
+    "dialogue": [
+      {
+        "speaker": "Lucien",
+        "kind": "RECONSTRUCTION",
+        "text": "La musica almeno mi porta fuori da qui."
+      }
+    ],
+    "cast": [
+      "lucien"
+    ],
+    "canon": "Background"
+  },
+  {
+    "id": "bg-lv426",
+    "chapter": "BG",
+    "title": "Il crollo del tunnel LV-426",
+    "place": "Oceano",
+    "image": "assets/characters/lucien_oceano.png",
+    "duration": 10,
+    "summary": "Il tunnel LV-426 crolla. Lucien è l’unico superstite e perde i genitori. Abbandona le profondità e raggiunge i vecchi moli.",
+    "dialogue": [
+      {
+        "speaker": "Lucien",
+        "kind": "CANONICO",
+        "text": "Cosa avrebbe fatto Dutch Schaefer al mio posto?"
+      }
+    ],
+    "cast": [
+      "lucien"
+    ],
+    "canon": "Background"
+  },
+  {
+    "id": "bg-spelljammer",
+    "chapter": "BG",
+    "title": "Il Veleggiante",
+    "place": "Oceano",
+    "image": "assets/characters/lucien_oceano.png",
+    "duration": 12,
+    "summary": "Lucien sgancia una vecchia spelljammer dalla cittadella sommersa e sfrutta la spinta dell’acqua per tornare in superficie. La converte poi in nave da superficie.",
+    "dialogue": [],
+    "cast": [
+      "lucien"
+    ],
+    "canon": "Background"
+  },
+  {
+    "id": "bg-fuga",
+    "chapter": "BG",
+    "title": "Fuga da Oceano",
+    "place": "Oceano",
+    "image": "assets/characters/lucien_oceano.png",
+    "duration": 11,
+    "summary": "Mentre l’Orda devasta Oceano, la vecchia sequenza di rientro forza la rotta verso Thrantir. Lucien ordina una partenza d’emergenza.",
+    "dialogue": [
+      {
+        "speaker": "Lucien",
+        "kind": "CANONICO",
+        "text": "Parti stupida troia! Questa è una fottuta emergenza!"
+      },
+      {
+        "speaker": "Nave",
+        "kind": "CANONICO",
+        "text": "Partenza d’emergenza attivata!"
+      }
+    ],
+    "cast": [
+      "lucien"
+    ],
+    "canon": "Background / Sessione 0"
+  },
+  {
+    "id": "s0-deserto",
+    "chapter": "S0",
+    "title": "Sopravvissuti nel deserto",
+    "place": "Thrantir",
+    "image": "assets/characters/lucien_thrantir.png",
+    "duration": 14,
+    "summary": "Lucien e Xarion riprendono conoscenza su travois trascinati da pellegrini. Entrambi sono sopravvissuti allo schianto.",
+    "dialogue": [
+      {
+        "speaker": "Lucien",
+        "kind": "CANONICO",
+        "text": "Ho chiesto perché questi trabiccoli avessero delle lame per fendere la sabbia. Mi hanno dato un pugno e sono tornati a trascinarci."
+      },
+      {
+        "speaker": "Xarion",
+        "kind": "CANONICO",
+        "text": "E perché hai chiesto una cosa così stupida!?"
+      },
+      {
+        "speaker": "Lucien",
+        "kind": "CANONICO",
+        "text": "Perché… Tu conosci la risposta?"
+      }
+    ],
+    "cast": [
+      "lucien",
+      "xarion"
+    ],
+    "canon": "Sessione 0 / Riassunto"
+  },
+  {
+    "id": "s1-occhio",
+    "chapter": "S1",
+    "title": "Il cielo spezzato",
+    "place": "Thrantir",
+    "image": "assets/characters/lucien_thrantir.png",
+    "duration": 13,
+    "summary": "Il sole è scomparso. Un astro oscuro domina il cielo e l’universo sembra convergere verso il buco nero.",
+    "dialogue": [
+      {
+        "speaker": "Lucien",
+        "kind": "CANONICO",
+        "text": "Vedi, quello che stiamo osservando, è un buco nero!"
+      },
+      {
+        "speaker": "Xarion",
+        "kind": "CANONICO",
+        "text": "Quello era Matthew McConaughey! E il film era Interstellar!!!"
+      }
+    ],
+    "cast": [
+      "lucien",
+      "xarion"
+    ],
+    "canon": "Riassunto 19/06/2026"
+  },
+  {
+    "id": "s1-itoigawa",
+    "chapter": "S1",
+    "title": "Ingresso a Itoigawa",
+    "place": "Itoigawa",
+    "image": "assets/places/ramo_discendente.jpg",
+    "duration": 14,
+    "summary": "I superstiti raggiungono la mesa. Scoprono tributi, razionamento dell’acqua e il simbolo dei Figli dell’Orizzonte.",
+    "dialogue": [
+      {
+        "speaker": "Fagus",
+        "kind": "CANONICO",
+        "text": "Ti suggerisco di nascondere il contenuto della tua borsa, ragazzo mio."
+      }
+    ],
+    "cast": [
+      "lucien",
+      "xarion"
+    ],
+    "canon": "Riassunto 19/06/2026"
+  },
+  {
+    "id": "s1-ramo",
+    "chapter": "S1",
+    "title": "Il Ramo Discendente",
+    "place": "Itoigawa",
+    "image": "assets/places/ramo_discendente.jpg",
+    "duration": 16,
+    "summary": "Lucien e Xarion incontrano Marcus e Dregan. Il gruppo prende forma nella taverna di Sable.",
+    "dialogue": [
+      {
+        "speaker": "Lucien",
+        "kind": "CANONICO",
+        "text": "Finalmente un posto dove bere!"
+      },
+      {
+        "speaker": "Dregan",
+        "kind": "CANONICO",
+        "text": "Dregan e basta? Il mio cognome lo avevo… poi un giorno ricevetti un pugno così forte e me lo scordai."
+      }
+    ],
+    "cast": [
+      "lucien",
+      "xarion",
+      "marcus",
+      "dregan"
+    ],
+    "canon": "Riassunto 19/06/2026"
+  },
+  {
+    "id": "c4-promiscuous",
+    "chapter": "C4",
+    "title": "Promiscuous Mode",
+    "place": "Nostromo",
+    "image": "assets/ships/nostromo_plan.png",
+    "duration": 18,
+    "summary": "Lucien ricostruisce la rete di Kethara e trasmette un falso proclama dell’Occhio del Creatore, nominando Vael suo araldo.",
+    "dialogue": [
+      {
+        "speaker": "Lucien / broadcast",
+        "kind": "CANONICO",
+        "text": "Discepoli di Kethara! Parlo a voi attraverso i poteri dell'Era Atomica!"
+      },
+      {
+        "speaker": "Voce sconosciuta",
+        "kind": "CANONICO",
+        "text": "Devi vivere questa storia."
+      }
+    ],
+    "cast": [
+      "lucien"
+    ],
+    "canon": "C4 - Promiscuous Mode"
+  },
+  {
+    "id": "now-vael",
+    "chapter": "ORA",
+    "title": "Il conto arriva a Vael",
+    "place": "Nostromo",
+    "image": "assets/characters/vael.jpg",
+    "duration": 15,
+    "summary": "Vael affronta Lucien sulle conseguenze del falso messaggio: scisma, purghe e accuse opportunistiche possono trasformare chiunque gli sia vicino in un bersaglio.",
+    "dialogue": [
+      {
+        "speaker": "Vael",
+        "kind": "CANONICO",
+        "text": "Questo è l’unico motivo per cui ti starò accanto fino alla fine dei nostri giorni. Dopo quello che hai fatto, non saranno poi molti."
+      }
+    ],
+    "cast": [
+      "lucien",
+      "vael"
+    ],
+    "canon": "Riassunto"
+  },
+  {
+    "id": "now-abbordaggio",
+    "chapter": "ORA",
+    "title": "Abbording della Nostromo",
+    "place": "Nostromo",
+    "image": "assets/ships/nostromo_plan.png",
+    "duration": 18,
+    "summary": "Una spelljammer dei Figli dell’Orizzonte attracca. Il gruppo usa porte e corridoi della Nostromo per preparare un’imboscata.",
+    "dialogue": [
+      {
+        "speaker": "Lucien / PA",
+        "kind": "CANONICO",
+        "text": "Siete entrati nel tempio di Vael, araldo dell’occhio del creatore. Deponete le armi e avvicinatevi alla sua guida."
+      }
+    ],
+    "cast": [
+      "lucien",
+      "xarion",
+      "dregan",
+      "marcus",
+      "vael",
+      "loox"
+    ],
+    "canon": "Riassunto"
+  },
+  {
+    "id": "now-resheph",
+    "chapter": "ORA",
+    "title": "Resheph e nave catturata",
+    "place": "Nostromo",
+    "image": "assets/ships/nostromo_plan.png",
+    "duration": 14,
+    "summary": "Il capitano nemico viene ucciso, tre Fratelli si arrendono. Lucien accede ai droni Resheph e falsifica il rientro della nave catturata verso Kethara.",
+    "dialogue": [],
+    "cast": [
+      "lucien",
+      "dregan"
+    ],
+    "canon": "Riassunto"
+  }
+]

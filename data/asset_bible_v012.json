@@ -1,0 +1,956 @@
+{
+  "version": "0.19.0-reference-lock",
+  "scope": "ASSET_BIBLE_COMPLETA_REFERENCE_STUDIO_ZOOM",
+  "assets": [
+    {
+      "id": "lucien_thrantir",
+      "name": "Lucien Vhaar · Thrantir",
+      "type": "PERSONAGGIO",
+      "state": "REFERENCE",
+      "path": "assets/characters/lucien_thrantir.png",
+      "group": "Lucien",
+      "note": "Reference Drive sincronizzata nel pacchetto offline",
+      "variants": [
+        "assets/characters/lucien_thrantir.png"
+      ],
+      "director_sheet": "assets/references/director/lucien_thrantir_sheet.png",
+      "director_status": "APPROVATA",
+      "display_path": "assets/references/director/lucien_thrantir_sheet.png"
+    },
+    {
+      "id": "lucien_oceano",
+      "name": "Lucien Vhaar · Oceano",
+      "type": "PERSONAGGIO",
+      "state": "REFERENCE",
+      "path": "assets/characters/lucien_oceano.png",
+      "group": "Lucien",
+      "note": "Reference Drive + cutout tecnico v0.11; il cutout non è un rig definitivo",
+      "variants": [
+        "assets/characters/lucien_oceano.png",
+        "assets/characters/lucien_oceano_cutout.png"
+      ]
+    },
+    {
+      "id": "xarion",
+      "name": "Xarion Reed",
+      "type": "PERSONAGGIO",
+      "state": "REFERENCE",
+      "path": "assets/characters/xarion_01.jpg",
+      "group": "Party",
+      "note": "2 reference Drive disponibili: Xarion 01 e Xarion 02",
+      "variants": [
+        "assets/characters/xarion_01.jpg",
+        "assets/characters/xarion_02.jpg"
+      ],
+      "director_sheet": "assets/references/director/xarion_reed_sheet.png",
+      "director_status": "APPROVATA",
+      "display_path": "assets/references/director/xarion_reed_sheet.png"
+    },
+    {
+      "id": "marcus",
+      "name": "Marcus Shamrock",
+      "type": "PERSONAGGIO",
+      "state": "REFERENCE",
+      "path": "assets/characters/marcus.jpg",
+      "group": "Party",
+      "note": "Reference disponibile · file Drive sincronizzato nel pacchetto offline",
+      "director_sheet": "assets/references/director/marcus_sheet.png",
+      "director_status": "APPROVATA",
+      "display_path": "assets/references/director/marcus_sheet.png"
+    },
+    {
+      "id": "dregan",
+      "name": "Dregan",
+      "type": "PERSONAGGIO",
+      "state": "REFERENCE",
+      "path": "assets/characters/dregan.jpg",
+      "group": "Party",
+      "note": "Reference disponibile · file Drive sincronizzato nel pacchetto offline",
+      "director_sheet": "assets/references/director/dregan_sheet.png",
+      "director_status": "APPROVATA",
+      "display_path": "assets/references/director/dregan_sheet.png"
+    },
+    {
+      "id": "vael",
+      "name": "Fratello Vael",
+      "type": "PERSONAGGIO",
+      "state": "REFERENCE",
+      "path": "assets/references/director/vael_sheet.png",
+      "group": "Figli dell’Orizzonte",
+      "note": "Reference corrente approvata: stella a 6 punte sul petto. La vecchia immagine con l’occhio è archiviata come sorgente superata e NON è la visuale canonica corrente.",
+      "director_sheet": "assets/references/director/vael_sheet.png",
+      "director_status": "APPROVATA · SIMBOLO CORRETTO",
+      "archive_path": "assets/characters/vael.jpg",
+      "display_path": "assets/references/director/vael_sheet.png"
+    },
+    {
+      "id": "loox",
+      "name": "Loox",
+      "type": "CREATURA",
+      "state": "REFERENCE",
+      "path": "assets/characters/loox_prime.png",
+      "group": "Party",
+      "note": "Una sola identità con due stati temporali. v01/Prime = forma iniziale all’incontro; v02/Overloaded = forma evoluta attuale. Entrambe disponibili come reference originale e tavola Director.",
+      "variants": [
+        "assets/characters/loox_prime.png",
+        "assets/characters/loox_overloaded.png"
+      ],
+      "director_sheet": "assets/references/director/loox_v02_sheet.png",
+      "director_status": "APPROVATE · v01 + v02",
+      "timeline_states": {
+        "v01_prime": {
+          "label": "v01 · Prime · incontro",
+          "original": "assets/characters/loox_prime.png",
+          "director": "assets/references/director/loox_v01_sheet.png"
+        },
+        "v02_overloaded": {
+          "label": "v02 · Overloaded · attuale",
+          "original": "assets/characters/loox_overloaded.png",
+          "director": "assets/references/director/loox_v02_sheet.png"
+        }
+      },
+      "display_path": "assets/references/director/loox_v02_sheet.png"
+    },
+    {
+      "id": "fagus",
+      "name": "Fagus",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/fagus.svg",
+      "group": "Itoigawa",
+      "note": "Profilo provvisorio; serve reference definitiva"
+    },
+    {
+      "id": "sable",
+      "name": "Sable",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/sable.svg",
+      "group": "Ramo Discendente",
+      "note": "Profilo provvisorio; descrizione canonica disponibile"
+    },
+    {
+      "id": "ivona",
+      "name": "Ivona",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/ivona.svg",
+      "group": "Ramo Discendente",
+      "note": "Profilo provvisorio; descrizione canonica disponibile"
+    },
+    {
+      "id": "orren",
+      "name": "Fratello Orren",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/orren.svg",
+      "group": "Figli dell’Orizzonte",
+      "note": "Profilo provvisorio"
+    },
+    {
+      "id": "zlatan",
+      "name": "Fratello Zlatan",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/zlatan.svg",
+      "group": "Figli dell’Orizzonte",
+      "note": "Profilo provvisorio"
+    },
+    {
+      "id": "vorath",
+      "name": "Vorath",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/vorath.svg",
+      "group": "Figli dell’Orizzonte",
+      "note": "Capo dei Figli; NON è la divinità"
+    },
+    {
+      "id": "otto",
+      "name": "Otto von Sieg Hail",
+      "type": "PERSONAGGIO",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/human.svg",
+      "group": "Misteri",
+      "note": "Baatezu; nessuna reference definitiva",
+      "variants": [
+        "assets/profiles_v019/otto_v019.svg"
+      ],
+      "v019_provisional_reference": "assets/profiles_v019/otto_v019.svg",
+      "validation": "DA VALIDARE DAL MASTER"
+    },
+    {
+      "id": "capitano",
+      "name": "Capitano dei Figli",
+      "type": "PERSONAGGIO",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/human.svg",
+      "group": "Abbording",
+      "note": "Aspetto non definito",
+      "variants": [
+        "assets/profiles_v019/capitano_figli_v019.svg"
+      ],
+      "v019_provisional_reference": "assets/profiles_v019/capitano_figli_v019.svg",
+      "validation": "DA VALIDARE DAL MASTER"
+    },
+    {
+      "id": "fratelli_soldati",
+      "name": "Soldati dei Figli",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/placeholders/human.svg",
+      "group": "Figli dell’Orizzonte",
+      "note": "Canone visuale: lunghi mantelli bianchi sporchi di sabbia, armatura d’acciaio a smaltatura bianca grossolana, casco bianco e maschera antigas nera; simbolo cerchio con punto sul pettorale."
+    },
+    {
+      "id": "thrantir_deserto",
+      "name": "Deserto di Thrantir",
+      "type": "LUOGO",
+      "state": "CONCEPT",
+      "path": "assets/worlds/thrantir_eye.svg",
+      "group": "Thrantir",
+      "note": "Visual bible vettoriale: sabbia/roccia, ex fondali erosi, cielo aperto e illuminazione dell’Occhio; direzione visuale, non fotografia canonica."
+    },
+    {
+      "id": "linea_termica",
+      "name": "Linea Termica",
+      "type": "LUOGO",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/place.svg",
+      "group": "Thrantir",
+      "note": "Deserto/ghiaccio con transizione netta"
+    },
+    {
+      "id": "itoigawa",
+      "name": "Itoigawa",
+      "type": "LUOGO",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/place.svg",
+      "group": "Thrantir",
+      "note": "Mesa + insediamento; fondale dedicato mancante"
+    },
+    {
+      "id": "ramo",
+      "name": "Ramo Discendente",
+      "type": "LUOGO",
+      "state": "REFERENCE",
+      "path": "assets/places/ramo_discendente.jpg",
+      "group": "Itoigawa",
+      "note": "Reference disponibile · file Drive sincronizzato nel pacchetto offline"
+    },
+    {
+      "id": "kethara",
+      "name": "Kethara",
+      "type": "LUOGO",
+      "state": "CONCEPT",
+      "path": "assets/placeholders/place.svg",
+      "group": "Thrantir",
+      "note": "Aspetto fisico della città SCONOSCIUTO. È canonica soltanto la topologia di rete ricostruita da Lucien: endpoint ad anelli concentrici e flusso prioritario dalla pupilla interna."
+    },
+    {
+      "id": "nostromo",
+      "name": "Nostromo",
+      "type": "NAVE",
+      "state": "REFERENCE",
+      "path": "assets/ships/nostromo_plan.png",
+      "group": "Party",
+      "note": "Planimetria disponibile. Scala confermata dal giocatore: circa 24–27 km; nave gargantuesca, impressione di massa comparabile a uno Star Destroyer, senza copiarne il design."
+    },
+    {
+      "id": "spelljammer_lucien",
+      "name": "Spelljammer di Lucien",
+      "type": "NAVE",
+      "state": "CONCEPT",
+      "path": "assets/concepts/oceano/nave_lucien_visual_bible.png",
+      "group": "Oceano",
+      "note": "Concept approvato; NON è la Nostromo"
+    },
+    {
+      "id": "spelljammer_fratelli",
+      "name": "Spelljammer dei Figli",
+      "type": "NAVE",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/object.svg",
+      "group": "Figli dell’Orizzonte",
+      "note": "Nave catturata; design mancante"
+    },
+    {
+      "id": "resheph",
+      "name": "Resheph",
+      "type": "CREATURA/DRONE",
+      "state": "CONCEPT",
+      "path": "assets/objects/resheph_animated.svg",
+      "group": "Figli dell’Orizzonte",
+      "note": "Canone: sfera metallica con nucleo incandescente, agile e corazzata. Visualizzazione di Lucien: occhio meccanico con appendici posteriori. SVG animato; interpretazione visiva, non forma canonica definitiva."
+    },
+    {
+      "id": "occhio",
+      "name": "L’Occhio del Creatore",
+      "type": "FENOMENO",
+      "state": "CONCEPT",
+      "path": "assets/worlds/thrantir_eye.svg",
+      "group": "Thrantir",
+      "note": "Buco nero sempre visibile, leggermente più grande della Luna piena all’orizzonte; disco/anelli di accrescimento illuminano il mondo e producono ombre multiple."
+    },
+    {
+      "id": "travois",
+      "name": "Travois",
+      "type": "OGGETTO",
+      "state": "CONCEPT",
+      "path": "assets/objects/travois.svg",
+      "group": "Sessione 0",
+      "note": "Barelle/slitte con lame, tela e componenti recuperati da tecnologia/spelljammer; asset vettoriale di produzione."
+    },
+    {
+      "id": "dam",
+      "name": "DAM",
+      "type": "OGGETTO",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/object.svg",
+      "group": "Oceano",
+      "note": "Diamanti ad Archiviazione Massiva"
+    },
+    {
+      "id": "terminale_capitano",
+      "name": "Terminale del capitano",
+      "type": "OGGETTO",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/object.svg",
+      "group": "Abbording",
+      "note": "Usato per spoof Kethara"
+    },
+    {
+      "id": "orda",
+      "name": "L’Orda",
+      "type": "CREATURA/FAZIONE",
+      "state": "MANCANTE",
+      "path": "assets/placeholders/creature.svg",
+      "group": "Oceano",
+      "note": "Demoni; aspetto/gerarchie non definiti"
+    },
+    {
+      "id": "oceano_visual_bible",
+      "name": "Oceano · Visual Bible",
+      "type": "MONDO",
+      "state": "CONCEPT",
+      "path": "assets/concepts/oceano/oceano_visual_bible.webp.png",
+      "group": "Oceano",
+      "note": "Concept approvato già disponibile nel progetto"
+    },
+    {
+      "id": "oceano_establish",
+      "name": "Oceano · Establishing",
+      "type": "LUOGO",
+      "state": "CONCEPT",
+      "path": "assets/scenes/oceano/establish_oceano.jpg",
+      "group": "Oceano",
+      "note": "Fondale scenico già disponibile"
+    },
+    {
+      "id": "cupola5_stage",
+      "name": "Cupola 5 · Stage",
+      "type": "LUOGO",
+      "state": "CONCEPT",
+      "path": "assets/scenes/oceano/cupola5_stage.jpg",
+      "group": "Oceano",
+      "note": "Fondale scenico già disponibile"
+    },
+    {
+      "id": "lv426_stage",
+      "name": "LV-426 · Stage",
+      "type": "LUOGO",
+      "state": "CONCEPT",
+      "path": "assets/scenes/oceano/lv426_stage.jpg",
+      "group": "Oceano",
+      "note": "Fondale scenico già disponibile"
+    },
+    {
+      "id": "oceano_world",
+      "name": "Oceano · pianeta concept",
+      "type": "MONDO",
+      "state": "CONCEPT",
+      "path": "assets/worlds/oceano_concept.webp",
+      "group": "Mondi",
+      "note": "Concept pianeta disponibile"
+    },
+    {
+      "id": "ion_world",
+      "name": "Ion · pianeta concept",
+      "type": "MONDO",
+      "state": "CONCEPT",
+      "path": "assets/worlds/ion_concept.webp",
+      "group": "Mondi",
+      "note": "Concept pianeta disponibile; Ion prevalentemente verde"
+    },
+    {
+      "id": "thrantir_world",
+      "name": "Thrantir · pianeta concept",
+      "type": "MONDO",
+      "state": "CONCEPT",
+      "path": "assets/worlds/thrantir_concept.webp",
+      "group": "Mondi",
+      "note": "Concept pianeta disponibile"
+    },
+    {
+      "id": "dren",
+      "name": "Dren",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/dren.svg",
+      "group": "Itoigawa",
+      "note": "Profilo provvisorio già disponibile"
+    },
+    {
+      "id": "torren",
+      "name": "Torren",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/torren.svg",
+      "group": "Itoigawa",
+      "note": "Profilo provvisorio già disponibile"
+    },
+    {
+      "id": "fen",
+      "name": "Fen Borskov",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/fen.svg",
+      "group": "Itoigawa",
+      "note": "Profilo provvisorio già disponibile"
+    },
+    {
+      "id": "williams",
+      "name": "Famiglia Williams",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/williams.svg",
+      "group": "Itoigawa",
+      "note": "Profilo provvisorio già disponibile"
+    },
+    {
+      "id": "doubleb",
+      "name": "Edoardo Double-B",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles/doubleb.svg",
+      "group": "Oceano",
+      "note": "Profilo provvisorio già disponibile"
+    },
+    {
+      "id": "estrella",
+      "name": "Estrella",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles_v019/estrella_v019.svg",
+      "group": "NPC v0.19",
+      "note": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master. Descrizione parziale canonica; resto dell’aspetto inferito.",
+      "validation": "DA VALIDARE DAL MASTER"
+    },
+    {
+      "id": "elena_ripli",
+      "name": "Dott.ssa Elena Ripli",
+      "type": "PERSONAGGIO",
+      "state": "CONCEPT",
+      "path": "assets/profiles_v019/elena_ripli_v019.svg",
+      "group": "NPC v0.19",
+      "note": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master. Ruolo canonico; aspetto in vita inventato provvisoriamente.",
+      "validation": "DA VALIDARE DAL MASTER"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "S001",
+      "title": "Caduta su Thrantir",
+      "place": "Thrantir",
+      "summary": "Lucien e Xarion precipitano e perdono conoscenza.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "thrantir_deserto"
+      ],
+      "ready": 1,
+      "concept": 1,
+      "missing": 0
+    },
+    {
+      "id": "S002",
+      "title": "I travois",
+      "place": "Deserto",
+      "summary": "Si risvegliano trascinati dai pellegrini. Lucien ha già ricevuto un pugno per le sue domande.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "travois",
+        "thrantir_deserto"
+      ],
+      "ready": 2,
+      "concept": 2,
+      "missing": 0
+    },
+    {
+      "id": "S003",
+      "title": "Il cielo spezzato",
+      "place": "Deserto",
+      "summary": "Il sole non c'è più: spazio, pianeti e costellazioni sono visibili attorno all'astro oscuro.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "occhio",
+        "thrantir_deserto"
+      ],
+      "ready": 2,
+      "concept": 2,
+      "missing": 0
+    },
+    {
+      "id": "S004",
+      "title": "Inception o Interstellar?",
+      "place": "Deserto",
+      "summary": "Lucien e Xarion discutono su quale film atomico mostrasse un buco nero.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "occhio",
+        "travois"
+      ],
+      "ready": 2,
+      "concept": 2,
+      "missing": 0
+    },
+    {
+      "id": "S005",
+      "title": "Linea Termica",
+      "place": "Linea Termica",
+      "summary": "Il deserto diventa ghiaccio senza transizione e poi torna deserto.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "travois",
+        "linea_termica"
+      ],
+      "ready": 2,
+      "concept": 1,
+      "missing": 1
+    },
+    {
+      "id": "S006",
+      "title": "Ingresso di Itoigawa",
+      "place": "Itoigawa",
+      "summary": "Squadra #6 consegna superstiti e tributi. Compare Fratello Zlatan e il simbolo dell'Occhio.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "zlatan",
+        "itoigawa",
+        "fratelli_soldati"
+      ],
+      "ready": 2,
+      "concept": 2,
+      "missing": 1
+    },
+    {
+      "id": "S007",
+      "title": "Fagus e l'acqua",
+      "place": "Itoigawa",
+      "summary": "Fagus avverte Lucien di nascondere i DAM e spiega tributi, crediti e monopolio dell'acqua.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "fagus",
+        "itoigawa",
+        "dam"
+      ],
+      "ready": 1,
+      "concept": 1,
+      "missing": 2
+    },
+    {
+      "id": "S008",
+      "title": "Finalmente i nomi",
+      "place": "Itoigawa",
+      "summary": "Dopo ore insieme, Xarion e Lucien finalmente si presentano.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "itoigawa"
+      ],
+      "ready": 2,
+      "concept": 0,
+      "missing": 1
+    },
+    {
+      "id": "S009",
+      "title": "Il ginepro",
+      "place": "Promontorio",
+      "summary": "I due osservano l'unico albero visto su Thrantir e percepiscono che il mondo si è rotto.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "ramo",
+        "itoigawa"
+      ],
+      "ready": 3,
+      "concept": 0,
+      "missing": 1
+    },
+    {
+      "id": "S010",
+      "title": "Ramo Discendente",
+      "place": "Ramo Discendente",
+      "summary": "Lucien entra reclamando da bere. Qui convergono Sable, Ivona, Marcus, Dregan e Orren.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "marcus",
+        "ramo"
+      ],
+      "ready": 4,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "S011",
+      "title": "Sable e Ivona",
+      "place": "Ramo Discendente",
+      "summary": "La locandiera Sable e la nipote Ivona definiscono il volto quotidiano di Itoigawa.",
+      "canon": "CANONE",
+      "requirements": [
+        "sable",
+        "ivona",
+        "marcus",
+        "ramo"
+      ],
+      "ready": 2,
+      "concept": 2,
+      "missing": 0
+    },
+    {
+      "id": "S012",
+      "title": "Orren e Dregan",
+      "place": "Ramo Discendente",
+      "summary": "Orren tenta ancora di convertire Dregan; la sua anzianità lo protegge dalle pressioni di Dren.",
+      "canon": "CANONE",
+      "requirements": [
+        "orren",
+        "dregan",
+        "ivona",
+        "ramo"
+      ],
+      "ready": 2,
+      "concept": 2,
+      "missing": 0
+    },
+    {
+      "id": "S013",
+      "title": "Il gruppo si forma",
+      "place": "Ramo Discendente",
+      "summary": "Marcus aggancia i nuovi arrivati; Lucien, Xarion, Marcus e Dregan finiscono nello stesso nodo della storia.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "marcus",
+        "dregan",
+        "ramo"
+      ],
+      "ready": 5,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "N001",
+      "title": "La Nostromo",
+      "place": "Nostromo",
+      "summary": "Il gruppo esplora per settimane la gigantesca Exodus, recuperando accessi, sistemi e memoria.",
+      "canon": "CANONE",
+      "requirements": [
+        "nostromo"
+      ],
+      "ready": 1,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "N002",
+      "title": "Loox",
+      "place": "Nostromo",
+      "summary": "Il procione solare di Ion parla, scherza e porta addosso bioingegneria e tecnologia.",
+      "canon": "CANONE",
+      "requirements": [
+        "loox",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "C401",
+      "title": "Promiscuous Mode",
+      "place": "Plancia Nostromo",
+      "summary": "Lucien usa le schede Exodus per intercettare il traffico dati di Kethara.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "C402",
+      "title": "La topologia dell'Occhio",
+      "place": "Kethara / rete",
+      "summary": "Gli endpoint formano anelli concentrici e un flusso ad alta priorità proviene dalla pupilla interna.",
+      "canon": "CANONE",
+      "requirements": [
+        "kethara",
+        "occhio"
+      ],
+      "ready": 0,
+      "concept": 2,
+      "missing": 0
+    },
+    {
+      "id": "C403",
+      "title": "Santo Lucien",
+      "place": "Kethara / broadcast",
+      "summary": "Lucien impersona l'Occhio, ordina redistribuzione di acqua e cibo e proclama Vael prescelto.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "kethara",
+        "vael",
+        "occhio"
+      ],
+      "ready": 2,
+      "concept": 2,
+      "missing": 0
+    },
+    {
+      "id": "C404",
+      "title": "La voce",
+      "place": "Plancia Nostromo",
+      "summary": "Dopo il sovraccarico una voce dice a Lucien di scrivere e vivere questa storia; poi parla con la sua stessa voce.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "C405",
+      "title": "Conseguenze",
+      "place": "Nostromo",
+      "summary": "Vael spiega scisma, purghe e opportunismo che il broadcast può scatenare a Kethara.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "vael",
+        "nostromo"
+      ],
+      "ready": 3,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "C406",
+      "title": "Otto",
+      "place": "Nostromo",
+      "summary": "Marcus rivela il baatezu Otto von Sieg Hail e le coordinate sull'Oron Esgail.",
+      "canon": "CANONE",
+      "requirements": [
+        "marcus",
+        "otto",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 0,
+      "missing": 1
+    },
+    {
+      "id": "C407",
+      "title": "Dr. La Nave",
+      "place": "Plancia Nostromo",
+      "summary": "Xarion indossa il timone e la Nostromo diventa il suo corpo.",
+      "canon": "CANONE",
+      "requirements": [
+        "xarion",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "C408",
+      "title": "Tre segnali",
+      "place": "Deserto / scanner",
+      "summary": "Due sfere Resheph e una spelljammer dei Fratelli convergono sulla Nostromo.",
+      "canon": "CANONE",
+      "requirements": [
+        "xarion",
+        "resheph",
+        "spelljammer_fratelli",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 1,
+      "missing": 1
+    },
+    {
+      "id": "C409",
+      "title": "La nave nella neve",
+      "place": "Connessione psichica",
+      "summary": "Un secondo timone intrappola la coscienza di Xarion; riesce a decifrare coordinate coincidenti con quelle di Marcus.",
+      "canon": "CANONE",
+      "requirements": [
+        "xarion",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "C410",
+      "title": "Restiamo",
+      "place": "Nostromo",
+      "summary": "Dregan rifiuta la fuga. Il gruppo decide di trasformare la Nostromo in un labirinto guidato.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "marcus",
+        "dregan",
+        "vael",
+        "nostromo"
+      ],
+      "ready": 6,
+      "concept": 0,
+      "missing": 0
+    },
+    {
+      "id": "C411",
+      "title": "Abbording",
+      "place": "Nostromo",
+      "summary": "Quattro Fratelli entrano. Xarion apre solo le porte utili all'imboscata.",
+      "canon": "CANONE",
+      "requirements": [
+        "nostromo",
+        "spelljammer_fratelli",
+        "fratelli_soldati",
+        "capitano"
+      ],
+      "ready": 1,
+      "concept": 1,
+      "missing": 2
+    },
+    {
+      "id": "C412",
+      "title": "Tempio di Vael",
+      "place": "Nostromo",
+      "summary": "Lucien usa la filodiffusione e Loox come figura sacra per indurre i soldati a deporre le armi.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "vael",
+        "loox",
+        "fratelli_soldati",
+        "nostromo"
+      ],
+      "ready": 4,
+      "concept": 1,
+      "missing": 0
+    },
+    {
+      "id": "C413",
+      "title": "Il capitano",
+      "place": "Nostromo",
+      "summary": "Il capitano denuncia la farsa. Dregan lo uccide con una raffica ravvicinata.",
+      "canon": "CANONE",
+      "requirements": [
+        "dregan",
+        "capitano",
+        "fratelli_soldati",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 1,
+      "missing": 1
+    },
+    {
+      "id": "C414",
+      "title": "L'accordo",
+      "place": "Nostromo",
+      "summary": "I tre superstiti accettano la versione della fuga della Nostromo e la protezione di Fen e degli altri.",
+      "canon": "CANONE",
+      "requirements": [
+        "dregan",
+        "fratelli_soldati",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 1,
+      "missing": 0
+    },
+    {
+      "id": "C415",
+      "title": "Resheph",
+      "place": "Nostromo",
+      "summary": "Lucien accede ai droni: unità ad alta energia, agili, corazzate e capaci di autodistruzione.",
+      "canon": "CANONE",
+      "requirements": [
+        "lucien_thrantir",
+        "resheph",
+        "terminale_capitano",
+        "nostromo"
+      ],
+      "ready": 2,
+      "concept": 1,
+      "missing": 1
+    },
+    {
+      "id": "C416",
+      "title": "Spoof di Kethara",
+      "place": "Nave catturata",
+      "summary": "Lucien simula il rientro automatico della spelljammer danneggiata e va a resettarne il sistema operativo.",
+      "canon": "SITUAZIONE ATTUALE",
+      "requirements": [
+        "lucien_thrantir",
+        "spelljammer_fratelli",
+        "terminale_capitano"
+      ],
+      "ready": 1,
+      "concept": 0,
+      "missing": 2
+    }
+  ],
+  "rules": [
+    "REFERENCE = asset già utilizzabile come riferimento visivo.",
+    "CONCEPT = direzione visiva esistente ma non asset definitivo.",
+    "MANCANTE = nessun asset dedicato: usare placeholder, non inventare.",
+    "Una scena non diventa READY finché gli asset narrativamente essenziali non sono disponibili."
+  ],
+  "priorities": [
+    "Linea Termica · fondale dedicato",
+    "Itoigawa esterno + ginepro",
+    "Fagus / Sable / Ivona / Orren / Zlatan · reference definitive",
+    "Spelljammer dei Figli",
+    "Kethara · sola topologia di rete finché la città non viene vista",
+    "Rig/spritesheet/3D dei personaggi per camminata reale"
+  ],
+  "inventory_note": "v0.12.0 continuous build: rilettura integrale fonti; visual bible Thrantir; Occhio, travois e Resheph vettoriali; Nostromo 24–27 km."
+}

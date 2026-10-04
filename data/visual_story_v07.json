@@ -1,0 +1,534 @@
+{
+  "events": [
+    {
+      "id": "BG01",
+      "title": "Oceano prima di Lucien",
+      "place": "Oceano",
+      "focus": "MONDO",
+      "summary": "Le città sommerse sopravvivono grazie alle correnti, alle opere naniche e alla vetroceramica.",
+      "image": "assets/characters/lucien_oceano.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG02",
+      "title": "DAM",
+      "place": "Oceano",
+      "focus": "MONDO",
+      "summary": "La colonia sviluppa i Diamanti ad Archiviazione Massiva, preservando frammenti dell'Era Atomica.",
+      "image": "assets/placeholders/object.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG03",
+      "title": "Edoardo Double-B",
+      "place": "Oceano",
+      "focus": "MONDO",
+      "summary": "Ottocento anni dopo l'ultimo segnale da Thrantir inizia il regno del Buono e Bianco.",
+      "image": "assets/profiles/doubleb.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG04",
+      "title": "Cupola Cinque",
+      "place": "Cupola 5",
+      "focus": "LUCIEN",
+      "summary": "Lucien cresce nel distretto dei manutentori, illuminato dai tubi cerulei della vecchia infrastruttura.",
+      "image": "assets/characters/lucien_oceano.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG05",
+      "title": "Il bardo improvvisato",
+      "place": "Oceano",
+      "focus": "LUCIEN",
+      "summary": "Lascia casa, suona liuto e violino, adatta musica atomica e colleziona DAM.",
+      "image": "assets/characters/lucien_oceano.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG06",
+      "title": "LV-426",
+      "place": "Tunnel LV-426",
+      "focus": "LUCIEN",
+      "summary": "Il tunnel crolla. Lucien è l'unico superstite e perde i genitori.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG07",
+      "title": "I moli abbandonati",
+      "place": "Moli atomici",
+      "focus": "LUCIEN",
+      "summary": "Sotto shock entra nei moli, sale su una spelljammer morta e sgancia l'ancoraggio.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG08",
+      "title": "Verso la superficie",
+      "place": "Oceano",
+      "focus": "LUCIEN",
+      "summary": "Correnti e galleggiamento riportano il relitto in superficie davanti ai Veleggianti.",
+      "image": "assets/characters/lucien_oceano.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG09",
+      "title": "Anni da Veleggiante",
+      "place": "Oceano aperto",
+      "focus": "LUCIEN",
+      "summary": "Trasforma la spelljammer in nave, vive di razzie e tenta per anni di ripararne i sistemi.",
+      "image": "assets/characters/lucien_oceano.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG10",
+      "title": "L'Orda",
+      "place": "Oceano aperto",
+      "focus": "LUCIEN",
+      "summary": "L'Orda devasta Oceano. Una gigantesca onda spinge la piattaforma verso il cielo.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "BG11",
+      "title": "Partenza d'emergenza",
+      "place": "Spelljammer di Lucien",
+      "focus": "LUCIEN",
+      "summary": "Lucien ignora i dati di navigazione e forza la partenza d'emergenza verso Thrantir.",
+      "image": "assets/characters/lucien_oceano.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S001",
+      "title": "Caduta su Thrantir",
+      "place": "Thrantir",
+      "focus": "PARTY",
+      "summary": "Lucien e Xarion precipitano e perdono conoscenza.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S002",
+      "title": "I travois",
+      "place": "Deserto",
+      "focus": "PARTY",
+      "summary": "Si risvegliano trascinati dai pellegrini. Lucien ha già ricevuto un pugno per le sue domande.",
+      "image": "assets/characters/lucien_thrantir.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S003",
+      "title": "Il cielo spezzato",
+      "place": "Deserto",
+      "focus": "MONDO",
+      "summary": "Il sole non c'è più: spazio, pianeti e costellazioni sono visibili attorno all'astro oscuro.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S004",
+      "title": "Inception o Interstellar?",
+      "place": "Deserto",
+      "focus": "PARTY",
+      "summary": "Lucien e Xarion discutono su quale film atomico mostrasse un buco nero.",
+      "image": "assets/characters/xarion.jpg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S005",
+      "title": "Linea Termica",
+      "place": "Linea Termica",
+      "focus": "MONDO",
+      "summary": "Il deserto diventa ghiaccio senza transizione e poi torna deserto.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S006",
+      "title": "Ingresso di Itoigawa",
+      "place": "Itoigawa",
+      "focus": "FAZIONE",
+      "summary": "Squadra #6 consegna superstiti e tributi. Compare Fratello Zlatan e il simbolo dell'Occhio.",
+      "image": "assets/profiles/zlatan.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S007",
+      "title": "Fagus e l'acqua",
+      "place": "Itoigawa",
+      "focus": "LUCIEN",
+      "summary": "Fagus avverte Lucien di nascondere i DAM e spiega tributi, crediti e monopolio dell'acqua.",
+      "image": "assets/profiles/fagus.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S008",
+      "title": "Finalmente i nomi",
+      "place": "Itoigawa",
+      "focus": "PARTY",
+      "summary": "Dopo ore insieme, Xarion e Lucien finalmente si presentano.",
+      "image": "assets/characters/lucien_thrantir.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S009",
+      "title": "Il ginepro",
+      "place": "Promontorio",
+      "focus": "MONDO",
+      "summary": "I due osservano l'unico albero visto su Thrantir e percepiscono che il mondo si è rotto.",
+      "image": "assets/places/ramo_discendente.jpg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S010",
+      "title": "Ramo Discendente",
+      "place": "Ramo Discendente",
+      "focus": "PARTY",
+      "summary": "Lucien entra reclamando da bere. Qui convergono Sable, Ivona, Marcus, Dregan e Orren.",
+      "image": "assets/places/ramo_discendente.jpg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S011",
+      "title": "Sable e Ivona",
+      "place": "Ramo Discendente",
+      "focus": "PNG",
+      "summary": "La locandiera Sable e la nipote Ivona definiscono il volto quotidiano di Itoigawa.",
+      "image": "assets/profiles/sable.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S012",
+      "title": "Orren e Dregan",
+      "place": "Ramo Discendente",
+      "focus": "PNG",
+      "summary": "Orren tenta ancora di convertire Dregan; la sua anzianità lo protegge dalle pressioni di Dren.",
+      "image": "assets/profiles/orren.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "S013",
+      "title": "Il gruppo si forma",
+      "place": "Ramo Discendente",
+      "focus": "PARTY",
+      "summary": "Marcus aggancia i nuovi arrivati; Lucien, Xarion, Marcus e Dregan finiscono nello stesso nodo della storia.",
+      "image": "assets/characters/marcus.jpg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "N001",
+      "title": "La Nostromo",
+      "place": "Nostromo",
+      "focus": "MONDO",
+      "summary": "Il gruppo esplora per settimane la gigantesca Exodus, recuperando accessi, sistemi e memoria.",
+      "image": "assets/ships/nostromo_plan.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "N002",
+      "title": "Loox",
+      "place": "Nostromo",
+      "focus": "PNG",
+      "summary": "Il procione solare di Ion parla, scherza e porta addosso bioingegneria e tecnologia.",
+      "image": "assets/characters/loox.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C401",
+      "title": "Promiscuous Mode",
+      "place": "Plancia Nostromo",
+      "focus": "LUCIEN",
+      "summary": "Lucien usa le schede Exodus per intercettare il traffico dati di Kethara.",
+      "image": "assets/ships/nostromo_plan.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C402",
+      "title": "La topologia dell'Occhio",
+      "place": "Kethara / rete",
+      "focus": "MONDO",
+      "summary": "Gli endpoint formano anelli concentrici e un flusso ad alta priorità proviene dalla pupilla interna.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C403",
+      "title": "Santo Lucien",
+      "place": "Kethara / broadcast",
+      "focus": "LUCIEN",
+      "summary": "Lucien impersona l'Occhio, ordina redistribuzione di acqua e cibo e proclama Vael prescelto.",
+      "image": "assets/characters/lucien_thrantir.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C404",
+      "title": "La voce",
+      "place": "Plancia Nostromo",
+      "focus": "MISTERO",
+      "summary": "Dopo il sovraccarico una voce dice a Lucien di scrivere e vivere questa storia; poi parla con la sua stessa voce.",
+      "image": "assets/placeholders/object.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C405",
+      "title": "Conseguenze",
+      "place": "Nostromo",
+      "focus": "VAEL",
+      "summary": "Vael spiega scisma, purghe e opportunismo che il broadcast può scatenare a Kethara.",
+      "image": "assets/characters/vael.jpg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C406",
+      "title": "Otto",
+      "place": "Nostromo",
+      "focus": "MISTERO",
+      "summary": "Marcus rivela il baatezu Otto von Sieg Hail e le coordinate sull'Oron Esgail.",
+      "image": "assets/placeholders/human.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C407",
+      "title": "Dr. La Nave",
+      "place": "Plancia Nostromo",
+      "focus": "XARION",
+      "summary": "Xarion indossa il timone e la Nostromo diventa il suo corpo.",
+      "image": "assets/characters/xarion.jpg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C408",
+      "title": "Tre segnali",
+      "place": "Deserto / scanner",
+      "focus": "MINACCIA",
+      "summary": "Due sfere Resheph e una spelljammer dei Fratelli convergono sulla Nostromo.",
+      "image": "assets/placeholders/creature.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C409",
+      "title": "La nave nella neve",
+      "place": "Connessione psichica",
+      "focus": "MISTERO",
+      "summary": "Un secondo timone intrappola la coscienza di Xarion; riesce a decifrare coordinate coincidenti con quelle di Marcus.",
+      "image": "assets/placeholders/place.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C410",
+      "title": "Restiamo",
+      "place": "Nostromo",
+      "focus": "PARTY",
+      "summary": "Dregan rifiuta la fuga. Il gruppo decide di trasformare la Nostromo in un labirinto guidato.",
+      "image": "assets/ships/nostromo_plan.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C411",
+      "title": "Abbording",
+      "place": "Nostromo",
+      "focus": "MINACCIA",
+      "summary": "Quattro Fratelli entrano. Xarion apre solo le porte utili all'imboscata.",
+      "image": "assets/ships/nostromo_plan.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C412",
+      "title": "Tempio di Vael",
+      "place": "Nostromo",
+      "focus": "LUCIEN",
+      "summary": "Lucien usa la filodiffusione e Loox come figura sacra per indurre i soldati a deporre le armi.",
+      "image": "assets/characters/loox.png",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C413",
+      "title": "Il capitano",
+      "place": "Nostromo",
+      "focus": "DREGAN",
+      "summary": "Il capitano denuncia la farsa. Dregan lo uccide con una raffica ravvicinata.",
+      "image": "assets/characters/dregan.jpg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C414",
+      "title": "L'accordo",
+      "place": "Nostromo",
+      "focus": "PARTY",
+      "summary": "I tre superstiti accettano la versione della fuga della Nostromo e la protezione di Fen e degli altri.",
+      "image": "assets/placeholders/human.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C415",
+      "title": "Resheph",
+      "place": "Nostromo",
+      "focus": "TECNOLOGIA",
+      "summary": "Lucien accede ai droni: unità ad alta energia, agili, corazzate e capaci di autodistruzione.",
+      "image": "assets/placeholders/creature.svg",
+      "canon": "CANONE"
+    },
+    {
+      "id": "C416",
+      "title": "Spoof di Kethara",
+      "place": "Nave catturata",
+      "focus": "LUCIEN",
+      "summary": "Lucien simula il rientro automatico della spelljammer danneggiata e va a resettarne il sistema operativo.",
+      "image": "assets/characters/lucien_thrantir.png",
+      "canon": "SITUAZIONE ATTUALE"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Lucien · Oceano",
+      "type": "character",
+      "path": "assets/characters/lucien_oceano.png",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Lucien · Thrantir",
+      "type": "character",
+      "path": "assets/characters/lucien_thrantir.png",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Xarion",
+      "type": "character",
+      "path": "assets/characters/xarion.jpg",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Marcus",
+      "type": "character",
+      "path": "assets/characters/marcus.jpg",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Dregan",
+      "type": "character",
+      "path": "assets/characters/dregan.jpg",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Vael",
+      "type": "character",
+      "path": "assets/characters/vael.jpg",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Loox",
+      "type": "creature",
+      "path": "assets/characters/loox.png",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Ramo Discendente",
+      "type": "place",
+      "path": "assets/places/ramo_discendente.jpg",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Nostromo",
+      "type": "ship",
+      "path": "assets/ships/nostromo_plan.png",
+      "state": "REFERENCE"
+    },
+    {
+      "name": "Fagus",
+      "type": "character",
+      "path": "assets/profiles/fagus.svg",
+      "state": "CONCEPT PROVVISORIO"
+    },
+    {
+      "name": "Sable",
+      "type": "character",
+      "path": "assets/profiles/sable.svg",
+      "state": "CONCEPT PROVVISORIO"
+    },
+    {
+      "name": "Ivona",
+      "type": "character",
+      "path": "assets/profiles/ivona.svg",
+      "state": "CONCEPT PROVVISORIO"
+    },
+    {
+      "name": "Orren",
+      "type": "character",
+      "path": "assets/profiles/orren.svg",
+      "state": "CONCEPT PROVVISORIO"
+    },
+    {
+      "name": "Zlatan",
+      "type": "character",
+      "path": "assets/profiles/zlatan.svg",
+      "state": "CONCEPT PROVVISORIO"
+    },
+    {
+      "name": "Vorath",
+      "type": "character",
+      "path": "assets/profiles/vorath.svg",
+      "state": "CONCEPT PROVVISORIO"
+    },
+    {
+      "name": "Cupola Cinque",
+      "type": "place",
+      "path": "assets/placeholders/place.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Tunnel LV-426",
+      "type": "place",
+      "path": "assets/placeholders/place.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Moli atomici",
+      "type": "place",
+      "path": "assets/placeholders/place.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Linea Termica",
+      "type": "place",
+      "path": "assets/placeholders/place.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Itoigawa",
+      "type": "place",
+      "path": "assets/placeholders/place.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Kethara",
+      "type": "place",
+      "path": "assets/placeholders/place.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Resheph",
+      "type": "technology",
+      "path": "assets/placeholders/creature.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Otto",
+      "type": "character",
+      "path": "assets/placeholders/human.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "DAM",
+      "type": "object",
+      "path": "assets/placeholders/object.svg",
+      "state": "TRASPARENTE"
+    },
+    {
+      "name": "Spelljammer Fratelli",
+      "type": "ship",
+      "path": "assets/placeholders/object.svg",
+      "state": "TRASPARENTE"
+    }
+  ]
+}

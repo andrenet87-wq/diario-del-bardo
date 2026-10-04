@@ -1,0 +1,58 @@
+{
+  "places": [
+    {
+      "name": "Oceano",
+      "status": "CANONICO",
+      "source": "Background",
+      "visual": "Reference Lucien su Oceano",
+      "facts": [
+        "Pianeta interamente oceanico",
+        "Cupole abitate negli abissi",
+        "Veleggianti in superficie",
+        "Vetroceramica e DAM",
+        "Correnti marine come fonte energetica"
+      ]
+    },
+    {
+      "name": "Thrantir",
+      "status": "CANONICO",
+      "source": "Sessione 0 / Riassunto",
+      "visual": "Reference Lucien su Thrantir",
+      "facts": [
+        "Cielo perduto",
+        "Astro oscuro / Occhio del Creatore",
+        "Deserto e ghiaccio separati da linea termica",
+        "Rovine dell’Era Atomica"
+      ]
+    },
+    {
+      "name": "Itoigawa",
+      "status": "PARZIALE",
+      "source": "Riassunto + AI Art",
+      "visual": "Ramo Discendente disponibile",
+      "facts": [
+        "Insediamento su mesa",
+        "Tributi controllati dai Figli dell’Orizzonte",
+        "Acqua pulita razionata",
+        "Ramo Discendente sotto un ginepro"
+      ]
+    },
+    {
+      "name": "Nostromo",
+      "status": "CANONICO",
+      "source": "Riassunto + AI Art",
+      "visual": "Planimetria disponibile",
+      "facts": [
+        "Base attuale del party",
+        "Porte e gravità controllabili",
+        "Sistemi dell’Era Atomica",
+        "Antenna principale danneggiata"
+      ]
+    }
+  ],
+  "rules": {
+    "canonical": "Testo o immagine esplicitamente presente nei materiali di campagna.",
+    "reconstruction": "Raccordo scenico necessario al replay, sempre etichettato.",
+    "unknown": "Dato non ancora fornito: non viene inventato."
+  }
+}

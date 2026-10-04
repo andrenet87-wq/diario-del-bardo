@@ -1,0 +1,61 @@
+/* Android / touch */
+.editionLinks { display:flex; gap:14px; margin:8px 0 16px; }
+.editionLinks a,.manualDocument a { color:var(--gold); }
+.manualTabs { display:flex; flex-wrap:wrap; gap:8px; margin:18px 0; }
+.manualTabs .active { border-color:var(--gold); }
+#manualSearch { width:100%; padding:12px; background:var(--panel); color:var(--ink); border:1px solid var(--line); border-radius:8px; }
+.manualCards { display:grid; grid-template-columns:repeat(auto-fit,minmax(270px,1fr)); gap:14px; }
+.manualCard,.manualDocument { padding:18px; }
+.manualCard h3 { margin-top:0; }
+.manualCard p { line-height:1.6; }
+.manualDocument { margin-top:20px; }
+.manualDocument summary { cursor:pointer; padding:12px 0; color:var(--gold); }
+.manualSource { white-space:pre-wrap; overflow-wrap:anywhere; font:15px/1.65 system-ui,sans-serif; }
+.manualTable { overflow-x:auto; margin:16px 0; }
+.manualTable table { border-collapse:collapse; width:100%; min-width:580px; background:var(--panel); }
+.manualTable td,.manualTable th { padding:12px; text-align:left; border:1px solid var(--line); vertical-align:top; line-height:1.5; }
+.manualTable th { color:var(--gold); }
+.edition-android .main { max-width:1000px; }
+.edition-android button { min-height:44px; }
+.edition-android .card { box-shadow:none; }
+.edition-pc .main { max-width:1920px; }
+@media (max-width: 760px) {
+  .app { grid-template-columns:minmax(0,1fr); }
+  .side,.nav,.top input { min-width:0; }
+  .side { width:100%; }
+  .main,.seWorkspace,.seColumns>section { min-width:0; }
+  .main { padding:16px 12px calc(24px + env(safe-area-inset-bottom)); }
+  button,input,select { min-height:44px; touch-action:manipulation; }
+  input,select,textarea { font-size:16px; }
+  .storyModes { display:flex; overflow-x:auto; flex-wrap:nowrap; }
+  .storyModes button { flex:0 0 auto; }
+  .transport { gap:8px; }
+  .transport select { flex-basis:100%; min-width:0; }
+  .stage { height:clamp(380px,65svh,560px); min-height:380px; }
+  .subtitle { left:12px; right:12px; bottom:12px; padding:12px; }
+  .subtitle span { font-size:16px; line-height:1.45; }
+  .seSidebar { max-height:270px; }
+  .seSceneList { max-height:200px; overscroll-behavior:contain; }
+  .seDialogue { max-height:none; }
+  .seLine { grid-template-columns:22px minmax(0,1fr); }
+  .seLine small { grid-column:2; }
+  .seLine p { font-size:15px; line-height:1.5; }
+  .seBeats>div { grid-template-columns:26px minmax(0,1fr); }
+  .seBeats small { grid-column:2; }
+  .seHeader,.engineIntro,.chapterAtlasHead { overflow-wrap:anywhere; }
+}
+/* PC */
+@media (min-width: 1100px) {
+  .main { max-width:1920px; padding:32px; }
+  .sceneEngine { grid-template-columns:300px minmax(0,1fr); }
+  .seSidebar { position:sticky; top:20px; align-self:start; }
+  .seSceneList { max-height:calc(100vh - 190px); }
+  .seWorkspace { min-width:0; padding:22px; }
+  .sePreview { grid-template-columns:minmax(0,1.5fr) minmax(240px,1fr); }
+  .seImage { height:340px; }
+  .seColumns { grid-template-columns:minmax(0,1fr) minmax(0,1.2fr); gap:24px; }
+  .seLine p { font-size:15px; line-height:1.55; }
+  .seDialogue { max-height:520px; }
+  .stage { height:clamp(460px,68vh,780px); }
+  .subtitle { max-width:1000px; margin:auto; }
+}

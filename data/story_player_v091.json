@@ -1,0 +1,193 @@
+{
+  "scenes": [
+    {
+      "id": "S01",
+      "title": "I travois",
+      "place": "Deserto di Thrantir",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Riassunto · Capitolo 1 / Sessione 0",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 32
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 68
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Lascia stare… non sono di molte parole. Ho chiesto perché questi trabiccoli avessero delle lame per fendere la sabbia. Mi hanno dato un pugno e sono tornati a trascinarci."
+        },
+        {
+          "speaker": "Xarion",
+          "text": "E perché hai chiesto una cosa così stupida!?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Perché… Tu conosci la risposta?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Sono precipitato anche io… ho anche avuto un attacco di panico come te e un pugno dai disgraziati che ci hanno salvato. Ho pensato semplicemente che sarei morto e ho realizzato di essere vivo. Credo possa bastarmi come spiegazione, per il momento."
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Inception o Interstellar?",
+      "place": "Deserto di Thrantir",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Riassunto · Capitolo 1",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 32
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 68
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Tu l’hai visto Inception?"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Il film dell’era atomica!?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Vedi, quello che stiamo osservando, è un buco nero!"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "In Inception non ci sono buchi neri, parla di innestare sogni nelle menti altrui."
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Ma che dici!? Leonardo DiCaprio ci si lascia cadere all’interno del buco nero con una spelljammer!!!"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Quello era Matthew McConaughey! E il film era Interstellar!!!"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Matthew McConaughey, Leonardo DiCaprio, due modi diversi per dire la stessa identica cosa, comunque hai capito, no!?"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Finalmente i nomi",
+      "place": "Itoigawa",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Riassunto · Capitolo 1",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 32
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 68
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Xarion",
+          "text": "Xarion Reed, tu sei?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Lucien Vhaar! Piacere!"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Ramo Discendente",
+      "place": "Ramo Discendente",
+      "bg": "assets/places/ramo_discendente.jpg",
+      "source": "Riassunto · Capitolo 1",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 20
+        },
+        {
+          "name": "Xarion",
+          "img": "assets/characters/xarion.jpg",
+          "x": 40
+        },
+        {
+          "name": "Marcus",
+          "img": "assets/characters/marcus.jpg",
+          "x": 65
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Finalmente un posto dove bere!"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Frena l'entusiasmo, come intendi pagare?"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Fogli di vetroceramica. Veniva prodotta sul mio pianeta e il vecchio Fagus mi ha detto che ci potrei campare per un anno."
+        },
+        {
+          "speaker": "Marcus",
+          "text": "Amici miei, sono Marcus! Venite al bancone e lasciatevi offrire qualcosa. Siete coloni, vero? Non vi ho mai visti qui intorno, siete appena precipitati?"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Promiscuous Mode",
+      "place": "Plancia della Nostromo",
+      "bg": "assets/ships/nostromo_plan.png",
+      "source": "Lucien Vhaar · C4 - Promiscuous Mode",
+      "cast": [
+        {
+          "name": "Lucien",
+          "img": "assets/characters/lucien_thrantir.png",
+          "x": 50
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Discepoli di Kethara! Parlo a voi attraverso i poteri dell'Era Atomica! A mio profondo rammarico vedo che i miei insegnamenti sono stati travisati!"
+        },
+        {
+          "speaker": "Voce",
+          "text": "...Devi scrivere questa storia..."
+        },
+        {
+          "speaker": "Voce",
+          "text": "Devi vivere questa storia."
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Marcus, Xarion, interrompete le ricerche! Qui dalla plancia risulta tutto esplorato. Muovete il culo! Ho appena inviato un messaggio a Kethara e la mia trovata potrebbe aver alzato un polverone."
+        }
+      ]
+    }
+  ]
+}

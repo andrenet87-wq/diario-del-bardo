@@ -1,0 +1,11 @@
+{
+  "schema": "director-scene-handoff-v1",
+  "description": "Contratto di esportazione di una scena dal Diario del Bardo verso Director.",
+  "fields": {
+    "scene_id": "ID stabile della scena",
+    "canonical": "luogo, riassunto, fonte, dialoghi e cast",
+    "production": "camera, luce, audio, beat e prompt; non canonico",
+    "assets": "ID Asset Bible richiesti"
+  },
+  "rule": "I metadati di produzione possono visualizzare il canone ma non creare nuovi eventi canonici."
+}
