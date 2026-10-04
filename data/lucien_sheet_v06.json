@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "name": "Lucien Vhaar",
+    "class": "Bardo",
+    "current_level": 6,
+    "next_level": 7,
+    "race": "DA INSERIRE",
+    "alignment": "DA INSERIRE"
+  },
+  "stats": [
+    {
+      "key": "FOR",
+      "value": null
+    },
+    {
+      "key": "DES",
+      "value": null
+    },
+    {
+      "key": "COS",
+      "value": null
+    },
+    {
+      "key": "INT",
+      "value": null
+    },
+    {
+      "key": "SAG",
+      "value": null
+    },
+    {
+      "key": "CAR",
+      "value": null
+    }
+  ],
+  "combat": {
+    "pf": null,
+    "pf_max": null,
+    "ca": null,
+    "iniziativa": null,
+    "velocita": null,
+    "tempra": null,
+    "riflessi": null,
+    "volonta": null
+  },
+  "bard6": {
+    "bab": "+4",
+    "bardic_music_day": 6,
+    "features": [
+      "Musica bardica",
+      "Conoscenze bardiche",
+      "Controcanto",
+      "Affascinare",
+      "Ispirare coraggio +1",
+      "Ispirare competenza",
+      "Suggestione"
+    ],
+    "spells_known": {
+      "0": 6,
+      "1": 4,
+      "2": 3
+    },
+    "base_slots": {
+      "0": 3,
+      "1": 2,
+      "2": 0
+    },
+    "note": "Gli slot bonus dipendono dal Carisma; 0 di 2° significa solo eventuali slot bonus."
+  },
+  "bard7": {
+    "bab": "+5",
+    "bardic_music_day": 7,
+    "features": [
+      "Musica bardica",
+      "Conoscenze bardiche",
+      "Controcanto",
+      "Affascinare",
+      "Ispirare coraggio +1",
+      "Ispirare competenza",
+      "Suggestione"
+    ],
+    "spells_known": {
+      "0": 6,
+      "1": 4,
+      "2": 4,
+      "3": 2
+    },
+    "base_slots": {
+      "0": 3,
+      "1": 2,
+      "2": 0,
+      "3": null
+    },
+    "note": "Progressione predisposta dal documento Bardo; valori personali e scelte spell restano da confermare sul cartaceo."
+  },
+  "spells": {
+    "0": [],
+    "1": [],
+    "2": [],
+    "3": []
+  },
+  "inventory": [],
+  "notes": [],
+  "source": "Documento Drive 'Bardo' + correzione utente: Lucien è Bardo puro; livello 7 dalla prossima sessione."
+}

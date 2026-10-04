@@ -1,0 +1,35 @@
+{
+  "version": "0.17.0",
+  "storage_keys": [
+    "lucien_music_6",
+    "lucien_music_7",
+    "lucien_session_notes",
+    "bard_voice_map_v017",
+    "nostromo_user_markers_v017",
+    "scene_engine_prefs_v017"
+  ],
+  "nostromo": {
+    "length_km": {
+      "min": 24,
+      "max": 27,
+      "status": "GIOCATORE / CANONE PROGETTO"
+    },
+    "known_areas": [
+      "Plancia / sala di comando",
+      "Ponte C",
+      "Sala macchine",
+      "Corridoio verso il nucleo del reattore",
+      "Cabine",
+      "Accessi multipli / porte controllabili",
+      "Sistema Zero-G"
+    ],
+    "map_rule": "Le aree conosciute sono elencate senza coordinate se la planimetria non le identifica in modo inequivocabile. Gli hotspot aggiunti dall’utente sono NOTE UTENTE."
+  },
+  "thrantir_visual": {
+    "surface": "sabbia e roccia; mondo prosciugato da circa duemila anni",
+    "eye": "buco nero sempre visibile, leggermente più grande della Luna piena all’orizzonte; disco/anelli molto visibili",
+    "shadows": 4,
+    "thermal_line": "confine netto tra zona illuminata/desertica e zona gelata; spostamento lentissimo",
+    "technology": "recuperi dell’Era Atomica riutilizzati; tecnologia avanzata funzionante soprattutto sotto controllo dei Figli"
+  }
+}

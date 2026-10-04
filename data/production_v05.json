@@ -1,0 +1,262 @@
+{
+  "production": [
+    {
+      "scene": "BG-01",
+      "title": "Cupola Cinque",
+      "environment": "Oceano / città sommersa",
+      "camera": "Establishing attraverso vetroceramica → lento avvicinamento a Lucien giovane",
+      "mood": "blu ceruleo, pressione oceanica, tecnologia decaduta",
+      "assets": [
+        "Lucien giovane",
+        "cupola",
+        "archi nanici",
+        "tubi/sensori",
+        "liuto/violino"
+      ],
+      "status": "PREVIS"
+    },
+    {
+      "scene": "BG-02",
+      "title": "LV-426",
+      "environment": "Tunnel nanico",
+      "camera": "camera a mano; crollo; silenzio su Lucien superstite",
+      "mood": "claustrofobico, polvere, luci d'emergenza",
+      "assets": [
+        "Lucien giovane",
+        "tunnel",
+        "detriti"
+      ],
+      "status": "PREVIS"
+    },
+    {
+      "scene": "BG-03",
+      "title": "Moli atomici",
+      "environment": "Moli sommersi abbandonati",
+      "camera": "wide sui relitti → POV ingresso spelljammer",
+      "mood": "abisso, alghe, metallo sotto pressione",
+      "assets": [
+        "spelljammer di Lucien",
+        "moli",
+        "coralli"
+      ],
+      "status": "PREVIS"
+    },
+    {
+      "scene": "BG-04",
+      "title": "Ritorno in superficie",
+      "environment": "Oceano aperto",
+      "camera": "subacquea segue la nave che risale → taglio sulla superficie",
+      "mood": "scala enorme, sollievo e assurdità",
+      "assets": [
+        "spelljammer/nave",
+        "Veleggianti",
+        "oceano"
+      ],
+      "status": "REFERENCE PARZIALE"
+    },
+    {
+      "scene": "BG-05",
+      "title": "L'Orda",
+      "environment": "Superficie di Oceano / plancia",
+      "camera": "orizzonte devastato → plancia tremante → accelerazione",
+      "mood": "catastrofe, urgenza",
+      "assets": [
+        "Lucien adulto",
+        "plancia",
+        "onda anomala",
+        "Orda distante"
+      ],
+      "status": "REFERENCE LUCIEN"
+    },
+    {
+      "scene": "S0-01",
+      "title": "Caduta su Thrantir",
+      "environment": "orbita e deserto",
+      "camera": "cockpit alternati Lucien/Xarion → blackout",
+      "mood": "cosmico, terrificante",
+      "assets": [
+        "Lucien",
+        "Xarion",
+        "due spelljammer",
+        "Occhio"
+      ],
+      "status": "REFERENCE PG"
+    },
+    {
+      "scene": "S1-01",
+      "title": "Travois",
+      "environment": "deserto di Thrantir",
+      "camera": "rasoterra sulla sabbia → due superstiti",
+      "mood": "calore, ironia, disorientamento",
+      "assets": [
+        "Lucien",
+        "Xarion",
+        "pellegrini",
+        "travois"
+      ],
+      "status": "REFERENCE PG"
+    },
+    {
+      "scene": "S1-02",
+      "title": "Linea Termica",
+      "environment": "confine deserto/ghiaccio",
+      "camera": "carrello laterale attraversa il confine",
+      "mood": "surreale ma fisico",
+      "assets": [
+        "party",
+        "ghiaccio",
+        "deserto"
+      ],
+      "status": "DA CREARE"
+    },
+    {
+      "scene": "S1-03",
+      "title": "Itoigawa",
+      "environment": "mesa / ingresso",
+      "camera": "low angle sulla recinzione → Fratello Zlatan",
+      "mood": "oppressione, polvere",
+      "assets": [
+        "Zlatan",
+        "guardie",
+        "mesa",
+        "tributi"
+      ],
+      "status": "PROFILI PROVVISORI"
+    },
+    {
+      "scene": "S1-04",
+      "title": "Ramo Discendente",
+      "environment": "taverna",
+      "camera": "ingresso → panoramica ensemble",
+      "mood": "caldo, sporco, vivo, post-atomico",
+      "assets": [
+        "Sable",
+        "Ivona",
+        "Orren",
+        "Marcus",
+        "Dregan",
+        "Lucien",
+        "Xarion"
+      ],
+      "status": "REFERENCE LUOGO + PG"
+    },
+    {
+      "scene": "C4-01",
+      "title": "Promiscuous Mode",
+      "environment": "plancia Nostromo",
+      "camera": "orbitale lenta intorno a Lucien → macro monitor",
+      "mood": "blu elettronico, humor, inquietudine",
+      "assets": [
+        "Lucien",
+        "plancia Nostromo",
+        "UI Kethara"
+      ],
+      "status": "REFERENCE NOSTROMO"
+    },
+    {
+      "scene": "ORA-01",
+      "title": "Vael e le conseguenze",
+      "environment": "Nostromo",
+      "camera": "shot/reverse shot contenuto",
+      "mood": "teso, personale",
+      "assets": [
+        "Lucien",
+        "Vael"
+      ],
+      "status": "REFERENCE PG"
+    },
+    {
+      "scene": "ORA-02",
+      "title": "Abbording",
+      "environment": "corridoi Nostromo",
+      "camera": "tracking tattico → imboscata",
+      "mood": "tensione, luci di emergenza",
+      "assets": [
+        "party",
+        "Loox",
+        "Fratelli",
+        "capitano"
+      ],
+      "status": "REFERENCE PARZIALI"
+    },
+    {
+      "scene": "ORA-03",
+      "title": "Resheph",
+      "environment": "Nostromo / nave catturata",
+      "camera": "macro terminale → reveal drone",
+      "mood": "tecnologico, minaccia controllata",
+      "assets": [
+        "Lucien",
+        "Resheph",
+        "terminale Fratelli"
+      ],
+      "status": "DA CREARE"
+    }
+  ],
+  "theories": [
+    {
+      "title": "Sfera di Dyson",
+      "status": "TEORIA DI LUCIEN",
+      "text": "Prima della Guerra Atomica, la civiltà thrantidea mirava alla costruzione di una Sfera di Dyson e al passaggio a civiltà di livello II."
+    },
+    {
+      "title": "Nave richiamata dal passato",
+      "status": "TEORIA DI LUCIEN",
+      "text": "Draghi e altri partecipanti della Guerra Sanguinosa potrebbero aver richiamato una nave dal passato."
+    },
+    {
+      "title": "Oron Esgail",
+      "status": "TEORIA DI LUCIEN",
+      "text": "Le coordinate nella DAM e la richiesta ricevuta da Marcus potrebbero condurre a un punto sull'Oron Esgail."
+    },
+    {
+      "title": "Elena Ripli",
+      "status": "TEORIA DI LUCIEN",
+      "text": "Potrebbe aver ricevuto nel 4273 una richiesta dei difensori di Thrantir, firmato un contratto e viaggiato nel tempo."
+    }
+  ],
+  "pipeline": [
+    {
+      "phase": "1",
+      "name": "Canon Bible",
+      "state": "IN CORSO",
+      "desc": "Personaggi, luoghi, oggetti, fazioni e timeline con provenienza."
+    },
+    {
+      "phase": "2",
+      "name": "Visual Bible",
+      "state": "IN CORSO",
+      "desc": "Reference canoniche + concept provvisori sostituibili."
+    },
+    {
+      "phase": "3",
+      "name": "Cinematic Previs",
+      "state": "ATTIVO",
+      "desc": "Shot, camera, luce, cast e asset necessari per ogni scena."
+    },
+    {
+      "phase": "4",
+      "name": "3D World",
+      "state": "FUTURO",
+      "desc": "Ambienti navigabili, collisioni, avatar persistenti e props."
+    },
+    {
+      "phase": "5",
+      "name": "Interactive Replay",
+      "state": "FUTURO",
+      "desc": "Play/Pausa/Stop, camera libera o regia, dialoghi e trigger."
+    },
+    {
+      "phase": "6",
+      "name": "Photoreal Final",
+      "state": "OBIETTIVO",
+      "desc": "Materiali PBR, luci, animazioni, facial/lip-sync e resa cinematografica."
+    },
+    {
+      "phase": "7",
+      "name": "Film Export",
+      "state": "OBIETTIVO",
+      "desc": "La stessa timeline interattiva esportabile come filmato lineare."
+    }
+  ]
+}

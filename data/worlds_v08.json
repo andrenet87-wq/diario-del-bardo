@@ -1,0 +1,236 @@
+{
+  "worlds": [
+    {
+      "id": "oceano",
+      "name": "Oceano",
+      "origin": "Lucien Vhaar",
+      "certainty": "CANONICO",
+      "summary": "Colonia dell'Impero Atomico interamente ricoperta da un oceano. Abitanti del Profondo e Veleggianti ne rappresentano i due grandi modi di vita.",
+      "facts": [
+        "Superficie interamente oceanica",
+        "Correnti marine sfruttate come fonte energetica",
+        "Città sommerse sotto cupole di vetroceramica",
+        "Tunnel e infrastrutture naniche",
+        "Produzione di diamanti e vetroceramica",
+        "DAM: Diamanti ad Archiviazione Massiva",
+        "Veleggianti e navi scientifiche lasciate alla deriva"
+      ],
+      "visual": "Mondo oceanico azzurro dominato dall'acqua. Dettagli orbitali non descritti restano concept."
+    },
+    {
+      "id": "ion",
+      "name": "Ion",
+      "origin": "Xarion Reed",
+      "certainty": "CANONE PARZIALE",
+      "summary": "Pianeta natale di Xarion Reed. Parte degli archivi atomici e delle conoscenze scientifiche è sopravvissuta, in particolare bioingegneria genetica, astronomia e ingegneria aerospaziale.",
+      "facts": [
+        "Pianeta natale di Xarion",
+        "SPAM! originario di Ion",
+        "Archivi digitali atomici parzialmente sopravvissuti",
+        "Astronomia e ingegneria aerospaziale preservate almeno in parte",
+        "Bioingegneria genetica preservata",
+        "Vyna modificò Loox e studiò modifiche neurali per Xarion",
+        "Il padre di Xarion recuperò/riparò una spelljammer"
+      ],
+      "visual": "Geografia non descritta nelle fonti recuperate: aspetto volutamente neutro finché non compare una reference."
+    },
+    {
+      "id": "thrantir",
+      "name": "Thrantir",
+      "origin": "Mondo attuale",
+      "certainty": "CANONICO",
+      "summary": "Pianeta madre devastato. Il suolo alterna ambienti estremi; la Linea Termica separa bruscamente deserto e ghiaccio, mentre spazio e astro oscuro sono visibili dalla superficie.",
+      "facts": [
+        "Deserto incandescente",
+        "Distese glaciali e Linea Termica",
+        "Spazio e astri visibili dalla superficie",
+        "Astro oscuro / Occhio del Creatore",
+        "Rovine e relitti dell'Era Atomica",
+        "Itoigawa e Kethara si trovano su Thrantir"
+      ],
+      "visual": "Contrasto netto deserto/ghiaccio e cielo cosmico anomalo; le reference della campagna hanno precedenza sui concept."
+    }
+  ],
+  "entities": [
+    {
+      "name": "Lucien Vhaar",
+      "type": "PERSONAGGIO",
+      "description": "Bardo di Oceano; protagonista POV.",
+      "view": "visual"
+    },
+    {
+      "name": "Xarion Reed",
+      "type": "PERSONAGGIO",
+      "description": "Dottore e pilota originario di Ion.",
+      "view": "visual"
+    },
+    {
+      "name": "Marcus Shamrock",
+      "type": "PERSONAGGIO",
+      "description": "Recuperatore; contatto con Otto.",
+      "view": "visual"
+    },
+    {
+      "name": "Dregan",
+      "type": "PERSONAGGIO",
+      "description": "Gladiatore e tattico pragmatico.",
+      "view": "visual"
+    },
+    {
+      "name": "Fratello Vael",
+      "type": "PERSONAGGIO",
+      "description": "Legato al gruppo; proclamato araldo da Lucien.",
+      "view": "visual"
+    },
+    {
+      "name": "Vorath",
+      "type": "PERSONAGGIO",
+      "description": "Capo dei Figli dell'Orizzonte; non è il loro dio.",
+      "view": "visual"
+    },
+    {
+      "name": "L'Occhio del Creatore",
+      "type": "ENTITÀ / RELIGIONE",
+      "description": "Divinità dei Figli dell'Orizzonte; associata all'astro oscuro.",
+      "view": "worlds"
+    },
+    {
+      "name": "Oceano",
+      "type": "PIANETA",
+      "description": "Mondo d'origine di Lucien.",
+      "view": "worlds"
+    },
+    {
+      "name": "Ion",
+      "type": "PIANETA",
+      "description": "Mondo d'origine di Xarion.",
+      "view": "worlds"
+    },
+    {
+      "name": "Thrantir",
+      "type": "PIANETA",
+      "description": "Mondo della campagna attuale.",
+      "view": "worlds"
+    },
+    {
+      "name": "Itoigawa",
+      "type": "LUOGO",
+      "description": "Insediamento sulla mesa controllato dai Figli dell'Orizzonte.",
+      "view": "visual"
+    },
+    {
+      "name": "Kethara",
+      "type": "LUOGO",
+      "description": "Cittadella su Thrantir; rete ad anelli concentrici.",
+      "view": "visual"
+    },
+    {
+      "name": "Ramo Discendente",
+      "type": "LUOGO",
+      "description": "Taverna di Itoigawa.",
+      "view": "visual"
+    },
+    {
+      "name": "Nostromo",
+      "type": "NAVE",
+      "description": "Spelljammer classe Exodus esplorata dal gruppo.",
+      "view": "visual"
+    },
+    {
+      "name": "Event Horizon",
+      "type": "NAVE",
+      "description": "Spelljammer di Xarion.",
+      "view": "visual"
+    },
+    {
+      "name": "Resheph",
+      "type": "DRONE",
+      "description": "Drone di contenimento ad alta energia.",
+      "view": "visual"
+    },
+    {
+      "name": "Loox",
+      "type": "CREATURA",
+      "description": "Procione solare bioingegnerizzato originario di Ion.",
+      "view": "visual"
+    },
+    {
+      "name": "Fagus",
+      "type": "PERSONAGGIO",
+      "description": "Anziano di Itoigawa.",
+      "view": "visual"
+    },
+    {
+      "name": "Sable",
+      "type": "PERSONAGGIO",
+      "description": "Locandiera del Ramo Discendente.",
+      "view": "visual"
+    },
+    {
+      "name": "Ivona",
+      "type": "PERSONAGGIO",
+      "description": "Nipote di Sable.",
+      "view": "visual"
+    },
+    {
+      "name": "Fratello Orren",
+      "type": "PERSONAGGIO",
+      "description": "Anziano membro dei Figli dell'Orizzonte.",
+      "view": "visual"
+    },
+    {
+      "name": "Fratello Zlatan",
+      "type": "PERSONAGGIO",
+      "description": "Fratello al checkpoint di Itoigawa.",
+      "view": "visual"
+    },
+    {
+      "name": "Otto von Sieg Hail",
+      "type": "ENTITÀ",
+      "description": "Nome usato dal baatezu incontrato da Marcus.",
+      "view": "visual"
+    },
+    {
+      "name": "Oron Esgail",
+      "type": "LUOGO / MISTERO",
+      "description": "Destinazione delle coordinate collegate a Otto.",
+      "view": "visual"
+    },
+    {
+      "name": "DAM",
+      "type": "TECNOLOGIA",
+      "description": "Diamanti ad Archiviazione Massiva sviluppati su Oceano.",
+      "view": "visual"
+    },
+    {
+      "name": "Linea Termica",
+      "type": "LUOGO",
+      "description": "Confine climatico deserto/ghiaccio su Thrantir.",
+      "view": "visual"
+    },
+    {
+      "name": "Veleggianti",
+      "type": "POPOLO",
+      "description": "Società di superficie di Oceano.",
+      "view": "worlds"
+    },
+    {
+      "name": "Abitanti del Profondo",
+      "type": "POPOLO",
+      "description": "Società delle città sommerse di Oceano.",
+      "view": "worlds"
+    },
+    {
+      "name": "Figli dell'Orizzonte",
+      "type": "FAZIONE",
+      "description": "Ordine che controlla acqua, tributi e informazioni.",
+      "view": "visual"
+    },
+    {
+      "name": "L'Orda",
+      "type": "MINACCIA",
+      "description": "Forza che attacca Oceano e tenta di raggiungerne il nucleo.",
+      "view": "visual"
+    }
+  ]
+}

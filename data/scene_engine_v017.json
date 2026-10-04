@@ -1,0 +1,2205 @@
+{
+  "version": "0.17.0",
+  "schema": "scene-engine-v1",
+  "principle": "Una scena conserva lo stesso ID attraverso storyboard, 2D, 3D e film export.",
+  "scenes": [
+    {
+      "index": 1,
+      "id": "BG01",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "Oceano prima di Lucien",
+      "place": "Oceano",
+      "focus": "MONDO",
+      "summary": "Le città sommerse sopravvivono grazie alle correnti, alle opere naniche e alla vetroceramica.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/characters/lucien_oceano.png",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Oceano è interamente ricoperto da un oceano. Nelle profondità sorgono città sotto cupole di vetroceramica, mentre in superficie vivono i Veleggianti.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Le città sommerse sopravvivono grazie alle correnti, alle opere naniche e alla vetroceramica.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "1 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 2,
+      "id": "BG02",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "DAM",
+      "place": "Oceano",
+      "focus": "MONDO",
+      "summary": "La colonia sviluppa i Diamanti ad Archiviazione Massiva, preservando frammenti dell'Era Atomica.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/placeholders/object.svg",
+      "cast": [],
+      "dialogue": [],
+      "requirements": [],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "La colonia sviluppa i Diamanti ad Archiviazione Massiva, preservando frammenti dell'Era Atomica.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 3,
+      "id": "BG03",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "Edoardo Double-B",
+      "place": "Oceano",
+      "focus": "MONDO",
+      "summary": "Ottocento anni dopo l'ultimo segnale da Thrantir inizia il regno del Buono e Bianco.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/profiles/doubleb.svg",
+      "cast": [],
+      "dialogue": [],
+      "requirements": [],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Ottocento anni dopo l'ultimo segnale da Thrantir inizia il regno del Buono e Bianco.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 4,
+      "id": "BG04",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "Cupola Cinque",
+      "place": "Cupola 5",
+      "focus": "LUCIEN",
+      "summary": "Lucien cresce nel distretto dei manutentori, illuminato dai tubi cerulei della vecchia infrastruttura.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/characters/lucien_oceano.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Duemila anni dopo l’ultimo segnale da Thrantir, Lucien vive nella Cupola Cinque, un villaggio medievale sottomarino costruito sui resti dell’Era Atomica.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Suo padre Darios vorrebbe per lui una vita diversa da quella che Lucien sceglierà.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien cresce nel distretto dei manutentori, illuminato dai tubi cerulei della vecchia infrastruttura.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "2 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 5,
+      "id": "BG05",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "Il bardo improvvisato",
+      "place": "Oceano",
+      "focus": "LUCIEN",
+      "summary": "Lascia casa, suona liuto e violino, adatta musica atomica e colleziona DAM.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/characters/lucien_oceano.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "La madre gli ha insegnato le basi del liuto e del violino. Lucien lascia casa e comincia a improvvisarsi musicista nelle taverne degli Abitanti del Profondo.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Più che un musicista preparato è un ottimo interprete: nessuno sembra accorgersi di quanto stia improvvisando.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lascia casa, suona liuto e violino, adatta musica atomica e colleziona DAM.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "2 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 6,
+      "id": "BG06",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "LV-426",
+      "place": "Tunnel LV-426",
+      "focus": "LUCIEN",
+      "summary": "Il tunnel crolla. Lucien è l'unico superstite e perde i genitori.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Cosa avrebbe fatto Dutch Schaefer al mio posto?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Il tunnel LV-426 crolla. Lucien è l’unico superstite e vede morire i suoi genitori.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Il tunnel crolla. Lucien è l'unico superstite e perde i genitori.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "2 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 7,
+      "id": "BG07",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "I moli abbandonati",
+      "place": "Moli atomici",
+      "focus": "LUCIEN",
+      "summary": "Sotto shock entra nei moli, sale su una spelljammer morta e sgancia l'ancoraggio.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Sotto shock, Lucien raggiunge i vecchi moli dell’Era Atomica. Le spelljammer sono inattive da millenni, coperte di alghe e coralli.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Sotto shock entra nei moli, sale su una spelljammer morta e sgancia l'ancoraggio.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "1 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 8,
+      "id": "BG08",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "Verso la superficie",
+      "place": "Oceano",
+      "focus": "LUCIEN",
+      "summary": "Correnti e galleggiamento riportano il relitto in superficie davanti ai Veleggianti.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/characters/lucien_oceano.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "La spelljammer riemerge davanti a un vascello di Veleggianti. Lucien baratta reperti dell’Era Atomica per trasformarla in una nave utilizzabile sulla superficie.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Correnti e galleggiamento riportano il relitto in superficie davanti ai Veleggianti.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "1 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 9,
+      "id": "BG09",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "Anni da Veleggiante",
+      "place": "Oceano aperto",
+      "focus": "LUCIEN",
+      "summary": "Trasforma la spelljammer in nave, vive di razzie e tenta per anni di ripararne i sistemi.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/characters/lucien_oceano.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "Lucien trascorre anni come Veleggiante: ripara lentamente la spelljammer, razzia ciò che trova e guarda sulle DAM gli stessi video dell’Era Atomica.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Intanto relitti di spelljammer e asteroidi cadono sempre più spesso su Oceano e la navigazione diventa pericolosa.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Trasforma la spelljammer in nave, vive di razzie e tenta per anni di ripararne i sistemi.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "2 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 10,
+      "id": "BG10",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "L'Orda",
+      "place": "Oceano aperto",
+      "focus": "LUCIEN",
+      "summary": "L'Orda devasta Oceano. Una gigantesca onda spinge la piattaforma verso il cielo.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Cronaca",
+          "text": "L’Orda demoniaca attacca Oceano. Le esplosioni generano onde gargantuesche e l’obiettivo dell’attacco è raggiungere il nucleo del pianeta e farlo esplodere.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "OCEANO · dominante cerulea / infrastruttura atomica decaduta",
+        "sound": "REGIA: pressione/acqua/strutture lontane; nessun evento sonoro aggiunto al canone",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "L'Orda devasta Oceano. Una gigantesca onda spinge la piattaforma verso il cielo.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "1 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 11,
+      "id": "BG11",
+      "chapter": "BACKGROUND · OCEANO",
+      "title": "Partenza d'emergenza",
+      "place": "Spelljammer di Lucien",
+      "focus": "LUCIEN",
+      "summary": "Lucien ignora i dati di navigazione e forza la partenza d'emergenza verso Thrantir.",
+      "canon": "CANONICO",
+      "source": "Background · Lucien Vhaar",
+      "image": "assets/characters/lucien_oceano.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Sistema",
+          "text": "Siete sicuri di voler navigare senza database locale?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Cronaca",
+          "text": "Lucien seleziona Ignora Dati di Navigazione.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Sistema",
+          "text": "Impostare una tipologia di partenza…",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Parti stupida troia! Questa è una fottuta emergenza!",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Sistema",
+          "text": "Partenza d’emergenza attivata!",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_oceano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien ignora i dati di navigazione e forza la partenza d'emergenza verso Thrantir.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "5 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 12,
+      "id": "S001",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Caduta su Thrantir",
+      "place": "Thrantir",
+      "focus": "PARTY",
+      "summary": "Lucien e Xarion precipitano e perdono conoscenza.",
+      "canon": "CANONICO",
+      "source": "Sessione 0 + Riassunto",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "thrantir_deserto"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien e Xarion precipitano e perdono conoscenza.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 13,
+      "id": "S002",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "I travois",
+      "place": "Deserto",
+      "focus": "PARTY",
+      "summary": "Si risvegliano trascinati dai pellegrini. Lucien ha già ricevuto un pugno per le sue domande.",
+      "canon": "CANONICO",
+      "source": "Sessione 0 + Riassunto",
+      "image": "assets/characters/lucien_thrantir.png",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Lascia stare… non sono di molte parole. Ho chiesto perché questi trabiccoli avessero delle lame per fendere la sabbia. Mi hanno dato un pugno e sono tornati a trascinarci.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "E perché hai chiesto una cosa così stupida!?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Perché… Tu conosci la risposta?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Sono precipitato anche io… ho anche avuto un attacco di panico come te e un pugno dai disgraziati che ci hanno salvato. Ho pensato semplicemente che sarei morto e ho realizzato di essere vivo. Credo possa bastarmi come spiegazione, per il momento.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "travois",
+        "thrantir_deserto"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Si risvegliano trascinati dai pellegrini. Lucien ha già ricevuto un pugno per le sue domande.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "4 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 14,
+      "id": "S003",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Il cielo spezzato",
+      "place": "Deserto",
+      "focus": "MONDO",
+      "summary": "Il sole non c'è più: spazio, pianeti e costellazioni sono visibili attorno all'astro oscuro.",
+      "canon": "CANONICO",
+      "source": "Sessione 0 + Riassunto",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "occhio",
+        "thrantir_deserto"
+      ],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Il sole non c'è più: spazio, pianeti e costellazioni sono visibili attorno all'astro oscuro.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 15,
+      "id": "S004",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Inception o Interstellar?",
+      "place": "Deserto",
+      "focus": "PARTY",
+      "summary": "Lucien e Xarion discutono su quale film atomico mostrasse un buco nero.",
+      "canon": "CANONICO",
+      "source": "Sessione 0 + Riassunto",
+      "image": "assets/characters/xarion.jpg",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Tu l’hai visto Inception?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Il film dell’era atomica!?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Vedi, quello che stiamo osservando, è un buco nero!",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "In Inception non ci sono buchi neri, parla di innestare sogni nelle menti altrui.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Ma che dici!? Leonardo DiCaprio ci si lascia cadere all’interno del buco nero con una spelljammer!!!",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Quello era Matthew McConaughey! E il film era Interstellar!!!",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Matthew McConaughey, Leonardo DiCaprio, due modi diversi per dire la stessa identica cosa, comunque hai capito, no!?",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "occhio",
+        "travois"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien e Xarion discutono su quale film atomico mostrasse un buco nero.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "7 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 16,
+      "id": "S005",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Linea Termica",
+      "place": "Linea Termica",
+      "focus": "MONDO",
+      "summary": "Il deserto diventa ghiaccio senza transizione e poi torna deserto.",
+      "canon": "CANONICO",
+      "source": "Sessione 0 + Riassunto",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "travois",
+        "linea_termica"
+      ],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "THRANTIR · confine netto deserto/ghiaccio; illuminazione multipla dell’Occhio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Il deserto diventa ghiaccio senza transizione e poi torna deserto.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 17,
+      "id": "S006",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Ingresso di Itoigawa",
+      "place": "Itoigawa",
+      "focus": "FAZIONE",
+      "summary": "Squadra #6 consegna superstiti e tributi. Compare Fratello Zlatan e il simbolo dell'Occhio.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/profiles/zlatan.svg",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "zlatan",
+        "itoigawa",
+        "fratelli_soldati"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Squadra #6 consegna superstiti e tributi. Compare Fratello Zlatan e il simbolo dell'Occhio.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 18,
+      "id": "S007",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Fagus e l'acqua",
+      "place": "Itoigawa",
+      "focus": "LUCIEN",
+      "summary": "Fagus avverte Lucien di nascondere i DAM e spiega tributi, crediti e monopolio dell'acqua.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/profiles/fagus.svg",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "fagus",
+        "itoigawa",
+        "dam"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Fagus avverte Lucien di nascondere i DAM e spiega tributi, crediti e monopolio dell'acqua.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 19,
+      "id": "S008",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Finalmente i nomi",
+      "place": "Itoigawa",
+      "focus": "PARTY",
+      "summary": "Dopo ore insieme, Xarion e Lucien finalmente si presentano.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/characters/lucien_thrantir.png",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Xarion",
+          "text": "Xarion Reed, tu sei?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Lucien Vhaar! Piacere!",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "itoigawa"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Dopo ore insieme, Xarion e Lucien finalmente si presentano.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "2 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 20,
+      "id": "S009",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Il ginepro",
+      "place": "Promontorio",
+      "focus": "MONDO",
+      "summary": "I due osservano l'unico albero visto su Thrantir e percepiscono che il mondo si è rotto.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/places/ramo_discendente.jpg",
+      "cast": [
+        "Lucien",
+        "Xarion"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "ramo",
+        "itoigawa"
+      ],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "I due osservano l'unico albero visto su Thrantir e percepiscono che il mondo si è rotto.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 21,
+      "id": "S010",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Ramo Discendente",
+      "place": "Ramo Discendente",
+      "focus": "PARTY",
+      "summary": "Lucien entra reclamando da bere. Qui convergono Sable, Ivona, Marcus, Dregan e Orren.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/places/ramo_discendente.jpg",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Marcus",
+        "Dregan",
+        "Sable",
+        "Ivona",
+        "Orren"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Finalmente un posto dove bere!",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Xarion",
+          "text": "Frena l'entusiasmo, come intendi pagare?",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Fogli di vetroceramica. Veniva prodotta sul mio pianeta e il vecchio Fagus mi ha detto che ci potrei campare per un anno.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Marcus",
+          "text": "Amici miei, sono Marcus! Venite al bancone e lasciatevi offrire qualcosa. Siete coloni, vero? Non vi ho mai visti qui intorno, siete appena precipitati?",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "marcus",
+        "ramo"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "RAMO DISCENDENTE · luce soffusa; vetrate oscurate; contrasto caldo/freddo",
+        "sound": "REGIA: brusio di locale, bicchieri; nessun dialogo ambientale inventato",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien entra reclamando da bere. Qui convergono Sable, Ivona, Marcus, Dregan e Orren.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "4 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 22,
+      "id": "S011",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Sable e Ivona",
+      "place": "Ramo Discendente",
+      "focus": "PNG",
+      "summary": "La locandiera Sable e la nipote Ivona definiscono il volto quotidiano di Itoigawa.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/profiles/sable.svg",
+      "cast": [
+        "Sable",
+        "Ivona",
+        "Marcus"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "sable",
+        "ivona",
+        "marcus",
+        "ramo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "RAMO DISCENDENTE · luce soffusa; vetrate oscurate; contrasto caldo/freddo",
+        "sound": "REGIA: brusio di locale, bicchieri; nessun dialogo ambientale inventato",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "La locandiera Sable e la nipote Ivona definiscono il volto quotidiano di Itoigawa.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 23,
+      "id": "S012",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Orren e Dregan",
+      "place": "Ramo Discendente",
+      "focus": "PNG",
+      "summary": "Orren tenta ancora di convertire Dregan; la sua anzianità lo protegge dalle pressioni di Dren.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/profiles/orren.svg",
+      "cast": [
+        "Dregan",
+        "Orren"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "orren",
+        "dregan",
+        "ivona",
+        "ramo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "RAMO DISCENDENTE · luce soffusa; vetrate oscurate; contrasto caldo/freddo",
+        "sound": "REGIA: brusio di locale, bicchieri; nessun dialogo ambientale inventato",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Orren tenta ancora di convertire Dregan; la sua anzianità lo protegge dalle pressioni di Dren.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 24,
+      "id": "S013",
+      "chapter": "CAPITOLO 1 · ITOIGAWA",
+      "title": "Il gruppo si forma",
+      "place": "Ramo Discendente",
+      "focus": "PARTY",
+      "summary": "Marcus aggancia i nuovi arrivati; Lucien, Xarion, Marcus e Dregan finiscono nello stesso nodo della storia.",
+      "canon": "CANONICO",
+      "source": "Riassunto · Capitolo 1",
+      "image": "assets/characters/marcus.jpg",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Marcus",
+        "Dregan"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "marcus",
+        "dregan",
+        "ramo"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "RAMO DISCENDENTE · luce soffusa; vetrate oscurate; contrasto caldo/freddo",
+        "sound": "REGIA: brusio di locale, bicchieri; nessun dialogo ambientale inventato",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Marcus aggancia i nuovi arrivati; Lucien, Xarion, Marcus e Dregan finiscono nello stesso nodo della storia.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 25,
+      "id": "N001",
+      "chapter": "NOSTROMO",
+      "title": "La Nostromo",
+      "place": "Nostromo",
+      "focus": "MONDO",
+      "summary": "Il gruppo esplora per settimane la gigantesca Exodus, recuperando accessi, sistemi e memoria.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/ships/nostromo_plan.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Marcus",
+        "Dregan"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Il gruppo esplora per settimane la gigantesca Exodus, recuperando accessi, sistemi e memoria.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 26,
+      "id": "N002",
+      "chapter": "NOSTROMO",
+      "title": "Loox",
+      "place": "Nostromo",
+      "focus": "PNG",
+      "summary": "Il procione solare di Ion parla, scherza e porta addosso bioingegneria e tecnologia.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/characters/loox.png",
+      "cast": [
+        "Loox",
+        "Xarion",
+        "Lucien",
+        "Marcus",
+        "Dregan"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "loox",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Il procione solare di Ion parla, scherza e porta addosso bioingegneria e tecnologia.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 27,
+      "id": "C401",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Promiscuous Mode",
+      "place": "Plancia Nostromo",
+      "focus": "LUCIEN",
+      "summary": "Lucien usa le schede Exodus per intercettare il traffico dati di Kethara.",
+      "canon": "CANONICO",
+      "source": "C4 - Promiscuous Mode + Riassunto",
+      "image": "assets/ships/nostromo_plan.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Discepoli di Kethara! Parlo a voi attraverso i poteri dell'Era Atomica! A mio profondo rammarico vedo che i miei insegnamenti sono stati travisati!",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Voce",
+          "text": "...Devi scrivere questa storia...",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Voce",
+          "text": "Devi vivere questa storia.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Lucien",
+          "text": "Marcus, Xarion, interrompete le ricerche! Qui dalla plancia risulta tutto esplorato. Muovete il culo! Ho appena inviato un messaggio a Kethara e la mia trovata potrebbe aver alzato un polverone.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien usa le schede Exodus per intercettare il traffico dati di Kethara.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "4 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 28,
+      "id": "C402",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "La topologia dell'Occhio",
+      "place": "Kethara / rete",
+      "focus": "MONDO",
+      "summary": "Gli endpoint formano anelli concentrici e un flusso ad alta priorità proviene dalla pupilla interna.",
+      "canon": "CANONICO",
+      "source": "C4 - Promiscuous Mode + Riassunto",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "kethara",
+        "occhio"
+      ],
+      "direction": {
+        "camera": "WIDE ESTABLISHING → lento avvicinamento",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Gli endpoint formano anelli concentrici e un flusso ad alta priorità proviene dalla pupilla interna.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 29,
+      "id": "C403",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Santo Lucien",
+      "place": "Kethara / broadcast",
+      "focus": "LUCIEN",
+      "summary": "Lucien impersona l'Occhio, ordina redistribuzione di acqua e cibo e proclama Vael prescelto.",
+      "canon": "CANONICO",
+      "source": "C4 - Promiscuous Mode + Riassunto",
+      "image": "assets/characters/lucien_thrantir.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "kethara",
+        "vael",
+        "occhio"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien impersona l'Occhio, ordina redistribuzione di acqua e cibo e proclama Vael prescelto.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 30,
+      "id": "C404",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "La voce",
+      "place": "Plancia Nostromo",
+      "focus": "MISTERO",
+      "summary": "Dopo il sovraccarico una voce dice a Lucien di scrivere e vivere questa storia; poi parla con la sua stessa voce.",
+      "canon": "CANONICO",
+      "source": "C4 - Promiscuous Mode + Riassunto",
+      "image": "assets/placeholders/object.svg",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM/WIDE → slow push sul dettaglio rilevante",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Dopo il sovraccarico una voce dice a Lucien di scrivere e vivere questa storia; poi parla con la sua stessa voce.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 31,
+      "id": "C405",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Conseguenze",
+      "place": "Nostromo",
+      "focus": "VAEL",
+      "summary": "Vael spiega scisma, purghe e opportunismo che il broadcast può scatenare a Kethara.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/characters/vael.jpg",
+      "cast": [
+        "Lucien",
+        "Vael",
+        "Dregan",
+        "Marcus",
+        "Xarion"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Vael",
+          "text": "Questo è l’unico motivo per cui ti starò accanto fino alla fine dei nostri giorni. Dopo quello che hai fatto, non saranno poi molti.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "vael",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Vael spiega scisma, purghe e opportunismo che il broadcast può scatenare a Kethara.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "1 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 32,
+      "id": "C406",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Otto",
+      "place": "Nostromo",
+      "focus": "MISTERO",
+      "summary": "Marcus rivela il baatezu Otto von Sieg Hail e le coordinate sull'Oron Esgail.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/placeholders/human.svg",
+      "cast": [
+        "Marcus",
+        "Lucien",
+        "Dregan",
+        "Xarion",
+        "Loox"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "marcus",
+        "otto",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM/WIDE → slow push sul dettaglio rilevante",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Marcus rivela il baatezu Otto von Sieg Hail e le coordinate sull'Oron Esgail.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 33,
+      "id": "C407",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Dr. La Nave",
+      "place": "Plancia Nostromo",
+      "focus": "XARION",
+      "summary": "Xarion indossa il timone e la Nostromo diventa il suo corpo.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/characters/xarion.jpg",
+      "cast": [
+        "Xarion",
+        "Lucien",
+        "Dregan",
+        "Marcus"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "xarion",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Xarion indossa il timone e la Nostromo diventa il suo corpo.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 34,
+      "id": "C408",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Tre segnali",
+      "place": "Deserto / scanner",
+      "focus": "MINACCIA",
+      "summary": "Due sfere Resheph e una spelljammer dei Fratelli convergono sulla Nostromo.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/placeholders/creature.svg",
+      "cast": [
+        "Xarion",
+        "Lucien",
+        "Dregan",
+        "Marcus"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "xarion",
+        "resheph",
+        "spelljammer_fratelli",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "WIDE di situazione → compressione/close-up nei momenti di tensione",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Due sfere Resheph e una spelljammer dei Fratelli convergono sulla Nostromo.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 35,
+      "id": "C409",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "La nave nella neve",
+      "place": "Connessione psichica",
+      "focus": "MISTERO",
+      "summary": "Un secondo timone intrappola la coscienza di Xarion; riesce a decifrare coordinate coincidenti con quelle di Marcus.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Xarion"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "xarion",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM/WIDE → slow push sul dettaglio rilevante",
+        "lighting": "THRANTIR · Occhio del Creatore; quattro direzioni d’ombra; variazione bianco-azzurro ↔ arancio",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Un secondo timone intrappola la coscienza di Xarion; riesce a decifrare coordinate coincidenti con quelle di Marcus.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 36,
+      "id": "C410",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Restiamo",
+      "place": "Nostromo",
+      "focus": "PARTY",
+      "summary": "Dregan rifiuta la fuga. Il gruppo decide di trasformare la Nostromo in un labirinto guidato.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/ships/nostromo_plan.png",
+      "cast": [
+        "Lucien",
+        "Dregan",
+        "Xarion",
+        "Marcus"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Dregan",
+          "text": "Fermati al labirinto guidato.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Dregan",
+          "text": "Benissimo!? L’ultima volta non è esattamente qualche ora fa quando hai gettato nel caos un’intera città teocratica?",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "xarion",
+        "marcus",
+        "dregan",
+        "vael",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Dregan rifiuta la fuga. Il gruppo decide di trasformare la Nostromo in un labirinto guidato.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "2 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 37,
+      "id": "C411",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Abbording",
+      "place": "Nostromo",
+      "focus": "MINACCIA",
+      "summary": "Quattro Fratelli entrano. Xarion apre solo le porte utili all'imboscata.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/ships/nostromo_plan.png",
+      "cast": [
+        "Xarion",
+        "Dregan",
+        "Lucien",
+        "Loox"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "nostromo",
+        "spelljammer_fratelli",
+        "fratelli_soldati",
+        "capitano"
+      ],
+      "direction": {
+        "camera": "WIDE di situazione → compressione/close-up nei momenti di tensione",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Quattro Fratelli entrano. Xarion apre solo le porte utili all'imboscata.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 38,
+      "id": "C412",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Tempio di Vael",
+      "place": "Nostromo",
+      "focus": "LUCIEN",
+      "summary": "Lucien usa la filodiffusione e Loox come figura sacra per indurre i soldati a deporre le armi.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/characters/loox.png",
+      "cast": [
+        "Lucien",
+        "Loox",
+        "Dregan",
+        "Xarion"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Siete entrati nel tempio di Vael, araldo dell’occhio del creatore. Deponete le armi e avvicinatevi alla sua guida.",
+          "kind": "CANONICO"
+        },
+        {
+          "speaker": "Loox",
+          "text": "Non temete, se siete veri credenti non vi sarà fatto alcun male!",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "vael",
+        "loox",
+        "fratelli_soldati",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien usa la filodiffusione e Loox come figura sacra per indurre i soldati a deporre le armi.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "2 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 39,
+      "id": "C413",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Il capitano",
+      "place": "Nostromo",
+      "focus": "DREGAN",
+      "summary": "Il capitano denuncia la farsa. Dregan lo uccide con una raffica ravvicinata.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/characters/dregan.jpg",
+      "cast": [
+        "Dregan",
+        "Loox",
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Capitano dei Figli",
+          "text": "Riprendete in mano le vostre armi imbecilli! Questa è una farsa!",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "dregan",
+        "capitano",
+        "fratelli_soldati",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Il capitano denuncia la farsa. Dregan lo uccide con una raffica ravvicinata.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "1 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 40,
+      "id": "C414",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "L'accordo",
+      "place": "Nostromo",
+      "focus": "PARTY",
+      "summary": "I tre superstiti accettano la versione della fuga della Nostromo e la protezione di Fen e degli altri.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/placeholders/human.svg",
+      "cast": [
+        "Dregan",
+        "Loox",
+        "Lucien"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "dregan",
+        "fratelli_soldati",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "GROUP MASTER → coverage sui parlanti",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "I tre superstiti accettano la versione della fuga della Nostromo e la protezione di Fen e degli altri.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 41,
+      "id": "C415",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Resheph",
+      "place": "Nostromo",
+      "focus": "TECNOLOGIA",
+      "summary": "Lucien accede ai droni: unità ad alta energia, agili, corazzate e capaci di autodistruzione.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/placeholders/creature.svg",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "lucien_thrantir",
+        "resheph",
+        "terminale_capitano",
+        "nostromo"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: ronzio sistemi, porte, riverbero metallico; eventi specifici solo se documentati",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien accede ai droni: unità ad alta energia, agili, corazzate e capaci di autodistruzione.",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 42,
+      "id": "C416",
+      "chapter": "CAPITOLO 4 · NOSTROMO / KETHARA",
+      "title": "Spoof di Kethara",
+      "place": "Nave catturata",
+      "focus": "LUCIEN",
+      "summary": "Lucien simula il rientro automatico della spelljammer danneggiata e va a resettarne il sistema operativo.",
+      "canon": "CANONICO",
+      "source": "Riassunto",
+      "image": "assets/characters/lucien_thrantir.png",
+      "cast": [
+        "Lucien"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lucien",
+          "text": "Ora esco a resettare il sistema operativo della nave. Qualsiasi configurazione che la lega a Kethara sparirà e noi potremo viaggiare senza essere rintracciati.",
+          "kind": "CANONICO"
+        }
+      ],
+      "requirements": [
+        "lucien_thrantir",
+        "spelljammer_fratelli",
+        "terminale_capitano"
+      ],
+      "direction": {
+        "camera": "MEDIUM FOLLOW → close-up solo sui dialoghi documentati",
+        "lighting": "NOSTROMO · illuminazione interna industriale/arcana, dipendente dai sistemi attivi",
+        "sound": "REGIA: vento e ambiente; nessuna azione narrativa aggiunta",
+        "note": "REGIA / PREVIS: non aggiunge fatti canonici."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "ESTABLISH",
+          "label": "Inquadratura del luogo",
+          "canon": "REGIA"
+        },
+        {
+          "at": 2,
+          "type": "CANON",
+          "label": "Lucien simula il rientro automatico della spelljammer danneggiata e va a resettarne il sistema operativo.",
+          "canon": "CANONICO"
+        },
+        {
+          "at": 5,
+          "type": "DIALOGUE",
+          "label": "1 battute documentate disponibili",
+          "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    }
+  ],
+  "voice_characters": [
+    "Lucien",
+    "Xarion",
+    "Marcus",
+    "Dregan",
+    "Vael",
+    "Loox",
+    "Sable",
+    "Ivona",
+    "Orren",
+    "Fagus",
+    "Cronaca",
+    "Sistema",
+    "Voce",
+    "Capitano dei Figli"
+  ],
+  "director_contract": {
+    "scene_id": "stable",
+    "canon": "facts/dialogue are immutable unless source changes",
+    "visual_direction": "generated production metadata, never canon",
+    "actor_fields": [
+      "character_id",
+      "state",
+      "position",
+      "look_target",
+      "action",
+      "dialogue_id"
+    ],
+    "camera_fields": [
+      "shot",
+      "target",
+      "movement",
+      "duration"
+    ],
+    "audio_fields": [
+      "voice_id",
+      "ambient",
+      "music",
+      "sfx"
+    ]
+  }
+}

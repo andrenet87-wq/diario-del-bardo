@@ -1,0 +1,216 @@
+{
+  "version": "0.19.0",
+  "rule": "Gli asset APPROVED restano immutati. I nuovi visual v0.19 sono solo PROVVISORI DA VALIDARE DAL MASTER.",
+  "npcs": [
+    {
+      "id": "fagus",
+      "name": "Fagus",
+      "type": "NPC",
+      "image": "assets/profiles/fagus.svg",
+      "subtitle": "Itoigawa · anziano tributario",
+      "tags": [
+        "NPC",
+        "Itoigawa",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Anziano residente di Itoigawa. Avverte Lucien di nascondere i DAM e gli spiega tributi, crediti e monopolio dell’acqua.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto; visuale provvisoria preesistente."
+    },
+    {
+      "id": "sable",
+      "name": "Sable",
+      "type": "NPC",
+      "image": "assets/profiles/sable.svg",
+      "subtitle": "Ramo Discendente · taverniera",
+      "tags": [
+        "NPC",
+        "Ramo Discendente",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Anziana taverniera del Ramo Discendente, capelli bianchi in crocchia e pelle segnata dal sole. Nonna di Ivona.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto; visuale provvisoria preesistente."
+    },
+    {
+      "id": "ivona",
+      "name": "Ivona",
+      "type": "NPC",
+      "image": "assets/profiles/ivona.svg",
+      "subtitle": "Ramo Discendente · nipote di Sable",
+      "tags": [
+        "NPC",
+        "Ramo Discendente",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Nipote di Sable, lavora al Ramo Discendente. Indossa abiti cuciti ispirandosi allo stile dell’Era Atomica.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto; visuale provvisoria preesistente."
+    },
+    {
+      "id": "orren",
+      "name": "Fratello Orren",
+      "type": "NPC",
+      "image": "assets/profiles/orren.svg",
+      "subtitle": "Figli dell’Orizzonte · anziano membro",
+      "tags": [
+        "NPC",
+        "Figli dell’Orizzonte",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Convertito a sedici anni, crede realmente nel culto e protegge Dregan dalle pressioni per una conversione forzata.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto; visuale provvisoria preesistente."
+    },
+    {
+      "id": "zlatan",
+      "name": "Fratello Zlatan",
+      "type": "NPC",
+      "image": "assets/profiles/zlatan.svg",
+      "subtitle": "Figli dell’Orizzonte · autorità di Itoigawa",
+      "tags": [
+        "NPC",
+        "Figli dell’Orizzonte",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Fratello a volto scoperto incontrato al checkpoint. È abbastanza influente da intervenire su registri e movimenti della colonia.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto; visuale provvisoria preesistente."
+    },
+    {
+      "id": "vorath",
+      "name": "Vorath",
+      "type": "NPC",
+      "image": "assets/profiles/vorath.svg",
+      "subtitle": "Capo dei Figli dell’Orizzonte",
+      "tags": [
+        "NPC",
+        "Figli dell’Orizzonte",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Capo dei Figli dell’Orizzonte. Non è la divinità: il dio del culto è l’Occhio del Creatore.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Ruolo canonico; aspetto ancora provvisorio."
+    },
+    {
+      "id": "dren",
+      "name": "Dren",
+      "type": "NPC",
+      "image": "assets/profiles/dren.svg",
+      "subtitle": "Figli dell’Orizzonte · antagonista locale",
+      "tags": [
+        "NPC",
+        "Figli dell’Orizzonte",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Fratello legato alle pressioni su Dregan e all’invio di Marcus verso una spedizione che avrebbe dovuto ucciderlo.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto; dettagli incompleti."
+    },
+    {
+      "id": "torren",
+      "name": "Torren",
+      "type": "NPC",
+      "image": "assets/profiles/torren.svg",
+      "subtitle": "Itoigawa · contatto per rotte non registrate",
+      "tags": [
+        "NPC",
+        "Itoigawa",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Contatto di Sable capace di ottenere uscite fuori registro. Nel Riassunto è un uomo sui quarant’anni con cappello rosso.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto; visuale provvisoria preesistente."
+    },
+    {
+      "id": "fen",
+      "name": "Fen Borskov",
+      "type": "NPC",
+      "image": "assets/profiles/fen.svg",
+      "subtitle": "Itoigawa · capofamiglia",
+      "tags": [
+        "NPC",
+        "Itoigawa",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Capofamiglia partito a ovest alla ricerca del “tesoro” dei Williams. Conduce il gruppo al gigantesco relitto poi identificato come Nostromo.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canone dal Riassunto."
+    },
+    {
+      "id": "doubleb",
+      "name": "Edoardo Double-B",
+      "type": "NPC",
+      "image": "assets/profiles/doubleb.svg",
+      "subtitle": "Oceano · Il Buono e Bianco",
+      "tags": [
+        "NPC",
+        "Oceano",
+        "CONCEPT ESISTENTE"
+      ],
+      "text": "Figura storica del background di Oceano, legata al periodo successivo alla perdita dei contatti con Thrantir.",
+      "status": "Concept già presente nel progetto; non modificato.",
+      "known": "Canonico dal Background di Lucien."
+    },
+    {
+      "id": "otto",
+      "name": "Otto von Sieg Hail",
+      "type": "NPC",
+      "image": "assets/profiles_v019/otto_v019.svg",
+      "subtitle": "Baatezu · identità dichiarata",
+      "tags": [
+        "NPC",
+        "Mistero",
+        "PROVVISORIA DA VALIDARE"
+      ],
+      "text": "Nome scelto da un baatezu che sostiene di aver salvato Marcus. Dice che le coordinate sull’Oron Esgail sono essenziali alla sopravvivenza del gruppo.",
+      "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
+      "known": "Ruolo e natura dichiarati nel Riassunto; aspetto inventato provvisoriamente."
+    },
+    {
+      "id": "capitano_figli",
+      "name": "Capitano dei Figli",
+      "type": "NPC",
+      "image": "assets/profiles_v019/capitano_figli_v019.svg",
+      "subtitle": "Figli dell’Orizzonte · squadra d’abbordaggio",
+      "tags": [
+        "NPC",
+        "Figli dell’Orizzonte",
+        "PROVVISORIA DA VALIDARE"
+      ],
+      "text": "Comandante della squadra che abborda la Nostromo. È l’unico dei quattro a volto scoperto e porta un terminale sull’avambraccio.",
+      "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
+      "known": "Fatti canonici dal Riassunto; volto e dettagli estetici inventati provvisoriamente."
+    },
+    {
+      "id": "estrella",
+      "name": "Estrella",
+      "type": "NPC",
+      "image": "assets/profiles_v019/estrella_v019.svg",
+      "subtitle": "Itoigawa · tributaria",
+      "tags": [
+        "NPC",
+        "Itoigawa",
+        "PROVVISORIA DA VALIDARE"
+      ],
+      "text": "Donna poco più che trentenne, madre di figli malati. Il Riassunto la descrive con lunghi capelli biondi, pelle olivastra e volto segnato dalla vita a Itoigawa.",
+      "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
+      "known": "Descrizione parziale canonica; resto dell’aspetto inferito."
+    },
+    {
+      "id": "elena_ripli",
+      "name": "Dott.ssa Elena Ripli",
+      "type": "NPC",
+      "image": "assets/profiles_v019/elena_ripli_v019.svg",
+      "subtitle": "Nostromo · ultima sopravvissuta",
+      "tags": [
+        "NPC",
+        "Nostromo",
+        "PROVVISORIA DA VALIDARE"
+      ],
+      "text": "Autrice della DAM sulla fine della civiltà di Thrantir e ultima sopravvissuta registrata della Nostromo. Il suo corpo viene trovato nella nave.",
+      "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
+      "known": "Ruolo canonico; aspetto in vita inventato provvisoriamente."
+    }
+  ]
+}

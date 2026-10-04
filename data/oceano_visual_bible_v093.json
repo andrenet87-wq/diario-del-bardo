@@ -1,0 +1,33 @@
+{
+  "version": "0.9.3",
+  "world": "Oceano",
+  "status": "VISUAL_LOCK",
+  "canon": {
+    "planet": "Interamente oceanico",
+    "settlements": "Sistema verticale di cupole geodetiche subacquee; ciascuna paragonabile a una piccola città periferica.",
+    "cupola5": "Quinta cupola dall’alto; distretto dei manutentori.",
+    "connections": "Condotti e scale verticali in vetroceramica; LV-426 è un normale collegamento tra distretti/cupole.",
+    "population": "Principalmente umani e nani.",
+    "lighting": "Poca luce naturale; luce artificiale cerulea, tubazioni e sensori; oceano visibile attraverso la vetroceramica.",
+    "veleggianti": "Vivono principalmente su navi di superficie; estetica fantasy + tecnologia dell’Era Atomica.",
+    "horde": "Demoni; specie, gerarchie, aspetto e provenienza non definiti.",
+    "lucien_ship": "Piccola spelljammer, circa 10 persone massimo; scafo chiuso atomico-arcano, meno futuristico; adattata alla navigazione di superficie; NON è la Nostromo."
+  },
+  "assets": [
+    {
+      "id": "oceano_visual_bible",
+      "path": "assets/concepts/oceano/oceano_visual_bible.webp.png",
+      "status": "CONCEPT_APPROVATO"
+    },
+    {
+      "id": "lucien_ship_visual_bible",
+      "path": "assets/concepts/oceano/nave_lucien_visual_bible.png",
+      "status": "CONCEPT_APPROVATO"
+    }
+  ],
+  "unknowns": [
+    "Età esatta di Lucien alla partenza da Cupola 5 non confermata dal Background",
+    "Aspetto specifico dell’Orda",
+    "Conferma testuale che Lucien assista direttamente all’esplosione finale di Oceano"
+  ]
+}

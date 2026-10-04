@@ -1,0 +1,301 @@
+{
+  "npcs": [
+    {
+      "name": "Fagus",
+      "type": "PNG",
+      "status": "CANONICO",
+      "place": "Itoigawa",
+      "visual": "MANCANTE",
+      "role": "Anziano tributario; mette Lucien in guardia sui Fratelli e sul valore dei suoi averi.",
+      "known": [
+        "Ha nipoti",
+        "Conosce il sistema dei tributi",
+        "Critico verso i Figli dell’Orizzonte"
+      ],
+      "profile": "assets/profiles/fagus.svg"
+    },
+    {
+      "name": "Sable",
+      "type": "PNG",
+      "status": "CANONICO",
+      "place": "Ramo Discendente",
+      "visual": "MANCANTE",
+      "role": "Anziana taverniera del Ramo Discendente.",
+      "known": [
+        "Capelli bianchi in una crocchia",
+        "Pelle bruciata dal sole",
+        "Nonna di Ivona",
+        "Produce/serve distillato di lichene"
+      ],
+      "profile": "assets/profiles/sable.svg"
+    },
+    {
+      "name": "Ivona",
+      "type": "PNG",
+      "status": "CANONICO",
+      "place": "Ramo Discendente",
+      "visual": "MANCANTE",
+      "role": "Nipote di Sable; lavora nel locale.",
+      "known": [
+        "Vestito ispirato all’Era Atomica",
+        "Rapporto/intimità suggerita con Marcus nel testo"
+      ],
+      "profile": "assets/profiles/ivona.svg"
+    },
+    {
+      "name": "Fratello Orren",
+      "type": "PNG",
+      "status": "CANONICO",
+      "place": "Itoigawa",
+      "visual": "MANCANTE",
+      "role": "Anziano membro dei Figli dell’Orizzonte; protettore/mentore religioso di Dregan.",
+      "known": [
+        "Convertito a sedici anni",
+        "Credente sincero",
+        "Suona una chitarra proveniente da Kethara"
+      ],
+      "profile": "assets/profiles/orren.svg"
+    },
+    {
+      "name": "Fratello Zlatan",
+      "type": "PNG",
+      "status": "CANONICO",
+      "place": "Itoigawa",
+      "visual": "MANCANTE",
+      "role": "Fratello incontrato al rientro della Squadra #6.",
+      "known": [
+        "Unico del gruppo a volto scoperto nella scena",
+        "Xarion percepisce in lui una minaccia intangibile"
+      ],
+      "profile": "assets/profiles/zlatan.svg"
+    },
+    {
+      "name": "Vorath",
+      "type": "PNG",
+      "status": "CANONICO",
+      "place": "Kethara / ignoto",
+      "visual": "MANCANTE",
+      "role": "Capo dei Figli dell’Orizzonte. NON è la divinità.",
+      "known": [
+        "La divinità è l’Occhio del Creatore",
+        "Il suo covo/posizione non era noto al gruppo nelle prime sessioni"
+      ],
+      "profile": "assets/profiles/vorath.svg"
+    },
+    {
+      "name": "Dren",
+      "type": "PNG",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Itoigawa",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Citato nel rapporto tra Orren, Dregan e i Figli; dati insufficienti per una scheda completa.",
+      "known": [],
+      "profile": "assets/profiles/dren.svg"
+    },
+    {
+      "name": "Torren",
+      "type": "PNG",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Itoigawa",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Citato da Sable come persona che conosce rotte non registrate dai Fratelli.",
+      "known": [],
+      "profile": "assets/profiles/torren.svg"
+    },
+    {
+      "name": "Fen Borskov",
+      "type": "PNG",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Itoigawa / deserto",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Associato a una famiglia partita alla ricerca del ritrovamento dei Williams.",
+      "known": [],
+      "profile": "assets/profiles/fen.svg"
+    },
+    {
+      "name": "Famiglia Williams",
+      "type": "GRUPPO",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Deserto occidentale",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Famiglia inviata verso ovest; il figlio minore tornò solo, sotto shock.",
+      "known": [
+        "Gli altri membri morirono nel deserto",
+        "Il bambino ricordava di aver trovato qualcosa di molto grosso"
+      ],
+      "profile": "assets/profiles/williams.svg"
+    },
+    {
+      "name": "Edoardo Double-B “Il Buono e Bianco”",
+      "type": "PNG storico",
+      "status": "CANONICO",
+      "place": "Oceano",
+      "visual": "MANCANTE",
+      "role": "Re degli Abitatori del Profondo circa ottocento anni dopo l’ultimo segnale da Thrantir.",
+      "known": [
+        "Discendente della vecchia classe dirigente",
+        "Associato a feste e alga-birra",
+        "Le fonti interne divergono sulla sua effettiva capacità di governo"
+      ],
+      "profile": "assets/profiles/doubleb.svg"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Cupola Cinque",
+      "parent": "Oceano",
+      "status": "CANONICO",
+      "visual": "DA COSTRUIRE",
+      "description": "Distretto dei manutentori dove cresce Lucien.",
+      "features": [
+        "Cupola di vetroceramica",
+        "Archi metallici",
+        "Tubi scoperti nelle crepe",
+        "Luce cerulea dei sistemi come sole artificiale"
+      ]
+    },
+    {
+      "name": "Tunnel LV-426",
+      "parent": "Oceano",
+      "status": "CANONICO",
+      "visual": "DA COSTRUIRE",
+      "description": "Tunnel il cui crollo uccide i genitori di Lucien.",
+      "features": [
+        "Rete sotterranea nanica",
+        "Luogo traumatico del background di Lucien"
+      ]
+    },
+    {
+      "name": "Moli dell’Era Atomica",
+      "parent": "Oceano",
+      "status": "CANONICO",
+      "visual": "DA COSTRUIRE",
+      "description": "Area abbandonata da cui Lucien libera la spelljammer.",
+      "features": [
+        "Spelljammer inattive da millenni",
+        "Alghe e coralli sulle paratie",
+        "Pressione oceanica estrema"
+      ]
+    },
+    {
+      "name": "Superficie di Oceano",
+      "parent": "Oceano",
+      "status": "CANONICO",
+      "visual": "REFERENCE PARZIALE",
+      "description": "Mondo dei Veleggianti e della nave di Lucien.",
+      "features": [
+        "Oceano globale",
+        "Navi scientifiche e relitti alla deriva",
+        "Onde gigantesche durante l’attacco dell’Orda"
+      ]
+    },
+    {
+      "name": "Linea Termica",
+      "parent": "Thrantir",
+      "status": "CANONICO",
+      "visual": "DA COSTRUIRE",
+      "description": "Confine netto fra deserto e distesa ghiacciata.",
+      "features": [
+        "Nessuna transizione climatica",
+        "Serpeggia fino all’orizzonte"
+      ]
+    },
+    {
+      "name": "Ingresso di Itoigawa",
+      "parent": "Itoigawa",
+      "status": "CANONICO",
+      "visual": "DA COSTRUIRE",
+      "description": "Perimetro alla base della mesa.",
+      "features": [
+        "Maglia metallica e filo spinato",
+        "Controllo dei tributi",
+        "Fratelli in armatura bianca e maschere antigas"
+      ]
+    },
+    {
+      "name": "Ramo Discendente",
+      "parent": "Itoigawa",
+      "status": "CANONICO",
+      "visual": "REFERENCE DISPONIBILE",
+      "description": "Taverna scavata presso il promontorio e il ginepro.",
+      "features": [
+        "Vetrate oscurate dell’Era Atomica",
+        "Luce soffusa",
+        "Predella per esibizioni",
+        "Retrobottega con licheni e insetti fotogeni"
+      ]
+    },
+    {
+      "name": "Kethara",
+      "parent": "Thrantir",
+      "status": "CANONICO PARZIALE",
+      "visual": "DA COSTRUIRE",
+      "description": "Cittadella dei Figli dell’Orizzonte rilevata anche attraverso la rete.",
+      "features": [
+        "Topologia a cerchi concentrici",
+        "Nodo/pupilla centrale",
+        "Rete dati ancora operativa",
+        "Filtraggio acqua e apparato di polizia"
+      ]
+    },
+    {
+      "name": "Nostromo",
+      "parent": "Thrantir",
+      "status": "CANONICO",
+      "visual": "PLANIMETRIA DISPONIBILE",
+      "description": "Spelljammer/base attuale del gruppo.",
+      "features": [
+        "Zero-G",
+        "Porte controllabili",
+        "Banchi memoria ottica",
+        "Transponder planetari",
+        "Antenna principale danneggiata"
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "name": "Dren",
+      "type": "PNG",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Itoigawa",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Citato nel rapporto tra Orren, Dregan e i Figli; dati insufficienti per una scheda completa.",
+      "known": [],
+      "profile": "assets/profiles/dren.svg"
+    },
+    {
+      "name": "Torren",
+      "type": "PNG",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Itoigawa",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Citato da Sable come persona che conosce rotte non registrate dai Fratelli.",
+      "known": [],
+      "profile": "assets/profiles/torren.svg"
+    },
+    {
+      "name": "Fen Borskov",
+      "type": "PNG",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Itoigawa / deserto",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Associato a una famiglia partita alla ricerca del ritrovamento dei Williams.",
+      "known": [],
+      "profile": "assets/profiles/fen.svg"
+    },
+    {
+      "name": "Famiglia Williams",
+      "type": "GRUPPO",
+      "status": "PROFILO PROVVISORIO",
+      "place": "Deserto occidentale",
+      "visual": "INFERITO DAL CONTESTO",
+      "role": "Famiglia inviata verso ovest; il figlio minore tornò solo, sotto shock.",
+      "known": [
+        "Gli altri membri morirono nel deserto",
+        "Il bambino ricordava di aver trovato qualcosa di molto grosso"
+      ],
+      "profile": "assets/profiles/williams.svg"
+    }
+  ]
+}
