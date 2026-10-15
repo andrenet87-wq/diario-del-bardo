@@ -23,5 +23,35 @@
     "name": "Resheph",
     "state": "IDENTIFICATO",
     "text": "Drone ad alta energia dei Figli dell’Orizzonte: agile, resistente, immune a veleno/connessioni psioniche e capace di autodistruzione."
+  },
+  {
+    "name": "Ordini di Levin e informazione a Kethara",
+    "state": "PARZIALMENTE CHIARITO",
+    "text": "Il registro localizza la trasmissione pirata nel settore TOR-143 e prescrive di eliminare la squadra dopo il recupero dati. Vael e Lucien attribuiscono il mittente a Vorath. Come Kethara abbia acquisito le informazioni resta una domanda di Dregan."
+  },
+  {
+    "name": "Cronologia del Registro degli Ordini",
+    "state": "APERTO",
+    "text": "Gli ordini risultano vecchi di circa una settimana e mezza. Lucien interpreta la data come prova ulteriore dell’anomalia; meccanismo e cronologia assoluta restano sconosciuti."
+  },
+  {
+    "name": "Voce doppia e ginepro",
+    "state": "APERTO",
+    "text": "Sull’Ophanim la voce di Dregan si sdoppia e Marcus la sente. Il fenomeno richiama le interferenze della Nostromo e il messaggio sul ginepro. Dregan crede di aver ricavato il manico del martello dalle sue radici fossilizzate: convinzione del personaggio, legame non risolto."
+  },
+  {
+    "name": "Madre di Tael",
+    "state": "SCONOSCIUTO",
+    "text": "Tael dice che sua madre è rimasta a Itoigawa; Dregan gli dice che è morta. Il capitolo non fornisce una conferma indipendente del suo destino."
+  },
+  {
+    "name": "Due figure alla Linea Termica",
+    "state": "SCONOSCIUTO",
+    "text": "Due figure distorte dalla velocità con spade immense arrivano verso l’Ophanim. Il capitolo termina sull’allarme di Xarion: nessuna specie, identità o conseguenza viene inventata."
+  },
+  {
+    "name": "Dimensioni Ophanim",
+    "state": "FONTI DISCORDANTI",
+    "text": "Manuale Spelljammer: 24 × 6 × 4,5 m. Nuova planimetria del master del 12 ottobre: 55 × 17,5 × 12 m. Entrambe le misure restano attribuite alla propria fonte; in attesa di chiarimento del master."
   }
 ]

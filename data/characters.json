@@ -11,8 +11,8 @@
       "Oceano"
     ],
     "text": "Veleggiante originario di Oceano. Musicista, recuperatore di DAM e improvvisato tecnico dell’Era Atomica. Sopravvissuto alla distruzione del proprio mondo e allo schianto su Thrantir.",
-    "status": "A bordo della Nostromo. Ultima azione documentata: prepararsi a ripulire il sistema della spelljammer catturata per cancellare i legami con Kethara.",
-    "known": "Canonico: Background + Riassunto + documenti personali."
+    "status": "A bordo dell’Ophanim, ai sistemi di difesa. Ha letto gli ordini di Levin e riconosciuto la loro anomalia cronologica. Ultimo punto documentato: allarme di Xarion alla Linea Termica.",
+    "known": "Canonico: Background + Riassunto + documenti personali. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "xarion",
@@ -25,8 +25,8 @@
       "PG"
     ],
     "text": "Compagno di Lucien fin dall’atterraggio su Thrantir. Ha interagito profondamente con l’elmo della Nostromo, arrivando a percepire segnali e navi attraverso di essa.",
-    "status": "Sulla Nostromo. Ha individuato due droni Resheph e una spelljammer dei Figli dell’Orizzonte in avvicinamento.",
-    "known": "Canonico dal Riassunto."
+    "status": "Pilota l’Ophanim con leve e valvole manuali; non può fondersi con la nave. Dopo circa due settimane di volo dà l’allarme per due figure armate in arrivo alla Linea Termica.",
+    "known": "Canonico dal Riassunto. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "dregan",
@@ -39,8 +39,8 @@
       "PG"
     ],
     "text": "Membro del gruppo, pragmatico e incline a soluzioni dirette. Ha proposto di trasformare la Nostromo in un labirinto controllato durante l’abbordaggio.",
-    "status": "Ha ucciso il capitano nemico durante l’imboscata e negoziato la resa dei tre superstiti.",
-    "known": "Canonico dal Riassunto."
+    "status": "Ha predisposto la copertura della morte di Levin e portato Tael a bordo. Nella stiva la sua voce si è sdoppiata; Marcus conferma il fenomeno. Collegamento al ginepro ancora aperto.",
+    "known": "Canonico dal Riassunto. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "marcus",
@@ -53,8 +53,8 @@
       "PG"
     ],
     "text": "Membro del gruppo. Ha rivelato il proprio rapporto con un baatezu che chiama Otto von Sieg Hail, legato alle coordinate sull’Oron Esgail.",
-    "status": "Sulla Nostromo.",
-    "known": "Canonico dal Riassunto."
+    "status": "A bordo dell’Ophanim. Sente con Dregan la voce sdoppiata nella stiva; resta aperta la rotta alle coordinate dell’Oron Esgail.",
+    "known": "Canonico dal Riassunto. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "vael",
@@ -67,8 +67,8 @@
       "Figli dell’Orizzonte"
     ],
     "text": "Figura centrale nel rapporto del gruppo con i Figli dell’Orizzonte. Lucien lo ha proclamato, senza consenso, araldo dell’Occhio del Creatore durante l’incursione nelle reti di Kethara.",
-    "status": "Ha avvertito Lucien che il falso messaggio potrebbe causare scisma, purghe e condanne, rendendo chiunque gli sia vicino un bersaglio prioritario.",
-    "known": "Canonico dal Riassunto."
+    "status": "A bordo dell’Ophanim. Ha recuperato il terminale di Levin; traduce Sion e Hekhal Ha-Sod e conferma l’attribuzione degli ordini a Vorath. Resta ostile alla falsa proclamazione di Lucien.",
+    "known": "Canonico dal Riassunto. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "loox",
@@ -81,8 +81,8 @@
       "Alleato"
     ],
     "text": "Creatura/alleato usato da Lucien durante l’abbordaggio come manifestazione scenica dell’autorità di Vael e dell’Occhio del Creatore.",
-    "status": "Presente sulla Nostromo durante l’imboscata.",
-    "known": "Canonico dal Riassunto; reference AI Art."
+    "status": "A bordo dell’Ophanim. Conferma a Xarion il funzionamento della Troika Eterica.",
+    "known": "Canonico dal Riassunto; reference AI Art. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "fagus",
@@ -171,8 +171,8 @@
       "CONCEPT ESISTENTE"
     ],
     "text": "Capo dei Figli dell’Orizzonte. Non è la divinità: il dio del culto è l’Occhio del Creatore.",
-    "status": "Concept già presente nel progetto; non modificato.",
-    "known": "Ruolo canonico; aspetto ancora provvisorio."
+    "status": "Lucien e Vael gli attribuiscono il Registro degli Ordini recuperato dal terminale di Levin; Hekhal Ha-Sod è indicato come sede del potere di Kethara.",
+    "known": "Ruolo canonico; aspetto ancora provvisorio. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "dren",
@@ -216,8 +216,8 @@
       "CONCEPT ESISTENTE"
     ],
     "text": "Capofamiglia partito a ovest alla ricerca del “tesoro” dei Williams. Conduce il gruppo al gigantesco relitto poi identificato come Nostromo.",
-    "status": "Concept già presente nel progetto; non modificato.",
-    "known": "Canone dal Riassunto."
+    "status": "Sull’Ophanim con il figlio Tael, nella stiva. Il piano di lasciarlo alla Nostromo viene superato dalla partenza con il gruppo.",
+    "known": "Canone dal Riassunto. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "doubleb",
@@ -251,7 +251,7 @@
   },
   {
     "id": "capitano_figli",
-    "name": "Capitano dei Figli",
+    "name": "Capitano Levin",
     "type": "NPC",
     "image": "assets/profiles_v019/capitano_figli_v019.svg",
     "subtitle": "Figli dell’Orizzonte · squadra d’abbordaggio",
@@ -260,9 +260,9 @@
       "Figli dell’Orizzonte",
       "PROVVISORIA DA VALIDARE"
     ],
-    "text": "Comandante della squadra che abborda la Nostromo. È l’unico dei quattro a volto scoperto e porta un terminale sull’avambraccio.",
-    "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
-    "known": "Fatti canonici dal Riassunto; volto e dettagli estetici inventati provvisoriamente."
+    "text": "Comandante della squadra che abborda la Nostromo. È l’unico dei quattro a volto scoperto e porta un terminale sull’avambraccio. Il capitolo 6 ne esplicita il nome: Levin. Il ritratto resta una ricostruzione provvisoria.",
+    "status": "Morto nell’imboscata del capitolo 5. Nel capitolo 6 è identificato come Capitano Levin; il terminale recuperato da Vael rivela gli ordini di eliminare la sua squadra.",
+    "known": "Fatti canonici dal Riassunto; volto e dettagli estetici inventati provvisoriamente. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
   },
   {
     "id": "estrella",
@@ -293,5 +293,20 @@
     "text": "Autrice della DAM sulla fine della civiltà di Thrantir e ultima sopravvissuta registrata della Nostromo. Il suo corpo viene trovato nella nave.",
     "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
     "known": "Ruolo canonico; aspetto in vita inventato provvisoriamente."
+  },
+  {
+    "id": "tael",
+    "name": "Tael Borskov",
+    "type": "NPC",
+    "image": "assets/placeholders/human.svg",
+    "subtitle": "Figlio di Fen · passeggero dell’Ophanim",
+    "tags": [
+      "NPC",
+      "Ophanim",
+      "ASPETTO SCONOSCIUTO"
+    ],
+    "text": "Figlio di Fen, sale sull’Ophanim portato da Dregan con il braccio fasciato. Vorrebbe tornare dalla madre a Itoigawa; Dregan gli dice che è morta, senza conferma indipendente nel racconto.",
+    "status": "Nella stiva con Fen. Identità visiva non fornita: segnaposto neutro.",
+    "known": "CANONICO: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026. Aspetto: SCONOSCIUTO."
   }
 ]

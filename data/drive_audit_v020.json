@@ -1,0 +1,133 @@
+{
+  "version": "0.20.0",
+  "checked": "2026-10-15",
+  "base_commit": "2cec429",
+  "riassunto": {
+    "url": "https://docs.google.com/document/d/1_8devWgCCjIVlKP1Rwr7s6nf4ZcPjo9I00khgxLtSAM/edit",
+    "revision": "49701",
+    "previous_revision": "49694",
+    "modified": "2026-10-14T16:50:51.020Z",
+    "comparison": "Capitoli 1–5 invariati nel contenuto; aggiunte intestazioni e intero Capitolo 6."
+  },
+  "inventory": [
+    {
+      "id": "1VhuYLzn6mukhxLKclBiQpHQ98crrn2Qg",
+      "title": "La Nostromo",
+      "url": "https://drive.google.com/drive/folders/1VhuYLzn6mukhxLKclBiQpHQ98crrn2Qg",
+      "modified": "2026-09-27T10:02:11.009Z",
+      "type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1gvhUaDEzOfai4b-NC6e1dvE6eFc2qYJ2",
+      "title": "Itoigawa",
+      "url": "https://drive.google.com/drive/folders/1gvhUaDEzOfai4b-NC6e1dvE6eFc2qYJ2",
+      "modified": "2026-09-27T10:01:41.307Z",
+      "type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1ThXdswfgbhelCpDNckDw5vgyD87FPXu6",
+      "title": "Party",
+      "url": "https://drive.google.com/drive/folders/1ThXdswfgbhelCpDNckDw5vgyD87FPXu6",
+      "modified": "2026-09-27T09:57:12.740Z",
+      "type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1Ai_f4Mz_LDeZu26bGJh6YYVZmSNGXwdW",
+      "title": "Incrociatore Ophanim Map",
+      "url": "https://drive.google.com/file/d/1Ai_f4Mz_LDeZu26bGJh6YYVZmSNGXwdW/view?usp=drivesdk",
+      "modified": "2026-10-12T20:44:05.570Z",
+      "type": "image/png"
+    },
+    {
+      "id": "1PpsbRORsfeawPiiZd_Ic8bO2sQmjf6ak",
+      "title": "Incrociatore Ophanim 02",
+      "url": "https://drive.google.com/file/d/1PpsbRORsfeawPiiZd_Ic8bO2sQmjf6ak/view?usp=drivesdk",
+      "modified": "2026-10-12T20:43:22.110Z",
+      "type": "image/png"
+    },
+    {
+      "id": "1dFGQAVweHJNK3NlkG-XN4dmc9JSdlXA8",
+      "title": "Incrociatore Ophanim 01",
+      "url": "https://drive.google.com/file/d/1dFGQAVweHJNK3NlkG-XN4dmc9JSdlXA8/view?usp=drivesdk",
+      "modified": "2026-10-12T20:43:17.832Z",
+      "type": "image/png"
+    },
+    {
+      "id": "1taGUB1x8FHih76TVb-ndhKazxPhcNpSH",
+      "title": "Planimentria della Nostromo.png",
+      "url": "https://drive.google.com/file/d/1taGUB1x8FHih76TVb-ndhKazxPhcNpSH/view?usp=drivesdk",
+      "modified": "2026-09-27T09:55:03.230Z",
+      "type": "image/png"
+    },
+    {
+      "id": "19mNgwjaxFJbB4YLPLPrFP0vLWfktnnom",
+      "title": "Il Ramo Discendente (Interno)",
+      "url": "https://drive.google.com/file/d/19mNgwjaxFJbB4YLPLPrFP0vLWfktnnom/view?usp=drivesdk",
+      "modified": "2026-09-27T10:00:15.642Z",
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1ukckRAl9dIfgJGp01byq2S1UeFpnVxT8",
+      "title": "Xarion 02",
+      "url": "https://drive.google.com/file/d/1ukckRAl9dIfgJGp01byq2S1UeFpnVxT8/view?usp=drivesdk",
+      "modified": "2026-09-27T10:01:14.439Z",
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1-MFLV-fBqP6M8z88qzg6qNX4r85YjF--",
+      "title": "Dregan",
+      "url": "https://drive.google.com/file/d/1-MFLV-fBqP6M8z88qzg6qNX4r85YjF--/view?usp=drivesdk",
+      "modified": "2026-09-27T10:01:04.362Z",
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1bDcPOg6qafdQ2Q9GMil0CeaKN7v7IeOE",
+      "title": "Fratello Vael",
+      "url": "https://drive.google.com/file/d/1bDcPOg6qafdQ2Q9GMil0CeaKN7v7IeOE/view?usp=drivesdk",
+      "modified": "2026-09-27T10:00:56.442Z",
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1BoiG81fWkddLAAZZybkwhR5NYsFm5bZx",
+      "title": "Marcus",
+      "url": "https://drive.google.com/file/d/1BoiG81fWkddLAAZZybkwhR5NYsFm5bZx/view?usp=drivesdk",
+      "modified": "2026-09-27T10:00:50.777Z",
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1bV8KL1kLJDyfxIEspJ2ZwrClOMNRiAK5",
+      "title": "Xarion 01",
+      "url": "https://drive.google.com/file/d/1bV8KL1kLJDyfxIEspJ2ZwrClOMNRiAK5/view?usp=drivesdk",
+      "modified": "2026-09-27T10:00:44.197Z",
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1rWAjoOfylca_Kxifd3owBJ2LxMVmo1ng",
+      "title": "Lucien su Thrantir.png",
+      "url": "https://drive.google.com/file/d/1rWAjoOfylca_Kxifd3owBJ2LxMVmo1ng/view?usp=drivesdk",
+      "modified": "2026-09-27T09:58:24.225Z",
+      "type": "image/png"
+    },
+    {
+      "id": "12_xf8CoZSg9xekdNTDbA-tJ57z_yIP1-",
+      "title": "Lucien su Oceano.png",
+      "url": "https://drive.google.com/file/d/12_xf8CoZSg9xekdNTDbA-tJ57z_yIP1-/view?usp=drivesdk",
+      "modified": "2026-09-27T09:58:13.485Z",
+      "type": "image/png"
+    },
+    {
+      "id": "1KBsguisA7ajtzmXd2ftPtDWRTHrnv9Sa",
+      "title": "Loox Overloaded",
+      "url": "https://drive.google.com/file/d/1KBsguisA7ajtzmXd2ftPtDWRTHrnv9Sa/view?usp=drivesdk",
+      "modified": "2026-09-20T20:57:52.192Z",
+      "type": "image/png"
+    },
+    {
+      "id": "1hMESTI2RKovTuTPKsjhj8yC2dmL9BYcS",
+      "title": "Loox Prime.png",
+      "url": "https://drive.google.com/file/d/1hMESTI2RKovTuTPKsjhj8yC2dmL9BYcS/view?usp=drivesdk",
+      "modified": "2026-09-20T20:57:36.060Z",
+      "type": "image/png"
+    }
+  ]
+}

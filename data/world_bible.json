@@ -48,6 +48,33 @@
         "Sistemi dell’Era Atomica",
         "Antenna principale danneggiata"
       ]
+    },
+    {
+      "name": "Incrociatore Ophanim",
+      "status": "CANONICO / LACUNE DICHIARATE",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "visual": "REFERENCE MASTER",
+      "facts": [
+        "Incrociatore di scorta dei Figli catturato alla Nostromo e ora usato dal gruppo. Xarion alla guida manuale, Lucien alle difese, Loox alla Troika Eterica; Fen e Tael in stiva. Nuova planimetria del master: 55 × 17,5 × 12 m; manuale: 24 × 6 × 4,5 m. DISCREPANZA APERTA, nessuna misura unificata."
+      ]
+    },
+    {
+      "name": "Hekhal Ha-Sod",
+      "status": "CANONICO / LACUNE DICHIARATE",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "visual": "SCONOSCIUTO",
+      "facts": [
+        "Tempio del Segreto secondo Vael; struttura che da generazioni ospita il nucleo del potere di Kethara. Destinazione di rientro nel registro di Levin. Aspetto e posizione esatta SCONOSCIUTI."
+      ]
+    },
+    {
+      "name": "Linea Termica",
+      "status": "CANONICO / LACUNE DICHIARATE",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "visual": "SCONOSCIUTO",
+      "facts": [
+        "Confine netto fra deserto e lande di neve e ghiaccio. Ultimo punto documentato nel capitolo 6: dopo circa due settimane di volo sull’Ophanim, Xarion vede due figure con spade enormi arrivare contro la nave. Esito SCONOSCIUTO. Le coordinate della mappa del Diario restano schematiche."
+      ]
     }
   ],
   "rules": {

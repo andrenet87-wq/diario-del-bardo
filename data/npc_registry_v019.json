@@ -1,7 +1,35 @@
 {
-  "version": "0.19.0",
+  "version": "0.20.0",
   "rule": "Gli asset APPROVED restano immutati. I nuovi visual v0.19 sono solo PROVVISORI DA VALIDARE DAL MASTER.",
   "npcs": [
+    {
+      "id": "vael",
+      "name": "Fratello Vael",
+      "type": "NPC",
+      "image": "assets/characters/vael.jpg",
+      "subtitle": "Figura religiosa • Figli dell’Orizzonte",
+      "tags": [
+        "NPC",
+        "Figli dell’Orizzonte"
+      ],
+      "text": "Figura centrale nel rapporto del gruppo con i Figli dell’Orizzonte. Lucien lo ha proclamato, senza consenso, araldo dell’Occhio del Creatore durante l’incursione nelle reti di Kethara.",
+      "status": "A bordo dell’Ophanim. Ha recuperato il terminale di Levin; traduce Sion e Hekhal Ha-Sod e conferma l’attribuzione degli ordini a Vorath. Resta ostile alla falsa proclamazione di Lucien.",
+      "known": "Canonico dal Riassunto. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
+    },
+    {
+      "id": "loox",
+      "name": "Loox",
+      "type": "NPC",
+      "image": "assets/characters/loox.png",
+      "subtitle": "Alleato • “araldo” scenico",
+      "tags": [
+        "NPC",
+        "Alleato"
+      ],
+      "text": "Creatura/alleato usato da Lucien durante l’abbordaggio come manifestazione scenica dell’autorità di Vael e dell’Occhio del Creatore.",
+      "status": "A bordo dell’Ophanim. Conferma a Xarion il funzionamento della Troika Eterica.",
+      "known": "Canonico dal Riassunto; reference AI Art. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
+    },
     {
       "id": "fagus",
       "name": "Fagus",
@@ -89,8 +117,8 @@
         "CONCEPT ESISTENTE"
       ],
       "text": "Capo dei Figli dell’Orizzonte. Non è la divinità: il dio del culto è l’Occhio del Creatore.",
-      "status": "Concept già presente nel progetto; non modificato.",
-      "known": "Ruolo canonico; aspetto ancora provvisorio."
+      "status": "Lucien e Vael gli attribuiscono il Registro degli Ordini recuperato dal terminale di Levin; Hekhal Ha-Sod è indicato come sede del potere di Kethara.",
+      "known": "Ruolo canonico; aspetto ancora provvisorio. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
     },
     {
       "id": "dren",
@@ -134,8 +162,8 @@
         "CONCEPT ESISTENTE"
       ],
       "text": "Capofamiglia partito a ovest alla ricerca del “tesoro” dei Williams. Conduce il gruppo al gigantesco relitto poi identificato come Nostromo.",
-      "status": "Concept già presente nel progetto; non modificato.",
-      "known": "Canone dal Riassunto."
+      "status": "Sull’Ophanim con il figlio Tael, nella stiva. Il piano di lasciarlo alla Nostromo viene superato dalla partenza con il gruppo.",
+      "known": "Canone dal Riassunto. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
     },
     {
       "id": "doubleb",
@@ -169,7 +197,7 @@
     },
     {
       "id": "capitano_figli",
-      "name": "Capitano dei Figli",
+      "name": "Capitano Levin",
       "type": "NPC",
       "image": "assets/profiles_v019/capitano_figli_v019.svg",
       "subtitle": "Figli dell’Orizzonte · squadra d’abbordaggio",
@@ -178,9 +206,9 @@
         "Figli dell’Orizzonte",
         "PROVVISORIA DA VALIDARE"
       ],
-      "text": "Comandante della squadra che abborda la Nostromo. È l’unico dei quattro a volto scoperto e porta un terminale sull’avambraccio.",
-      "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
-      "known": "Fatti canonici dal Riassunto; volto e dettagli estetici inventati provvisoriamente."
+      "text": "Comandante della squadra che abborda la Nostromo. È l’unico dei quattro a volto scoperto e porta un terminale sull’avambraccio. Il capitolo 6 ne esplicita il nome: Levin. Il ritratto resta una ricostruzione provvisoria.",
+      "status": "Morto nell’imboscata del capitolo 5. Nel capitolo 6 è identificato come Capitano Levin; il terminale recuperato da Vael rivela gli ordini di eliminare la sua squadra.",
+      "known": "Fatti canonici dal Riassunto; volto e dettagli estetici inventati provvisoriamente. Aggiornamento testuale: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026."
     },
     {
       "id": "estrella",
@@ -211,6 +239,21 @@
       "text": "Autrice della DAM sulla fine della civiltà di Thrantir e ultima sopravvissuta registrata della Nostromo. Il suo corpo viene trovato nella nave.",
       "status": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master.",
       "known": "Ruolo canonico; aspetto in vita inventato provvisoriamente."
+    },
+    {
+      "id": "tael",
+      "name": "Tael Borskov",
+      "type": "NPC",
+      "image": "assets/placeholders/human.svg",
+      "subtitle": "Figlio di Fen · passeggero dell’Ophanim",
+      "tags": [
+        "NPC",
+        "Ophanim",
+        "ASPETTO SCONOSCIUTO"
+      ],
+      "text": "Figlio di Fen, sale sull’Ophanim portato da Dregan con il braccio fasciato. Vorrebbe tornare dalla madre a Itoigawa; Dregan gli dice che è morta, senza conferma indipendente nel racconto.",
+      "status": "Nella stiva con Fen. Identità visiva non fornita: segnaposto neutro.",
+      "known": "CANONICO: Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026. Aspetto: SCONOSCIUTO."
     }
   ]
 }

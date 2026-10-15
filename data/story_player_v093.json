@@ -1,5 +1,5 @@
 {
-  "version": "0.9.2",
+  "version": "0.20.0",
   "scenes": [
     {
       "id": "BG01",
@@ -628,6 +628,126 @@
         {
           "speaker": "Lucien",
           "text": "Marcus, Xarion, interrompete le ricerche! Qui dalla plancia risulta tutto esplorato. Muovete il culo! Ho appena inviato un messaggio a Kethara e la mia trovata potrebbe aver alzato un polverone."
+        }
+      ]
+    },
+    {
+      "id": "C601",
+      "title": "Levin e la copertura",
+      "place": "Ophanim / area della Nostromo",
+      "bg": "assets/ships/ophanim_01.png",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Il capitano ucciso è Levin. Dregan altera il cadavere e impone ai tre soldati superstiti una versione di copertura: frana, morte da detrito e rientro della nave per danni."
+        }
+      ]
+    },
+    {
+      "id": "C602",
+      "title": "Postazioni dell’Ophanim",
+      "place": "Ophanim / area della Nostromo",
+      "bg": "assets/ships/ophanim_map.png",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Xarion pilota a comandi manuali e non può fondersi con questa nave. Lucien opera ai sistemi di difesa; Loox controlla la Troika Eterica. La nave dispone di comm-link, circuito 1MC e videosorveglianza."
+        }
+      ]
+    },
+    {
+      "id": "C603",
+      "title": "Il terminale di Levin",
+      "place": "Ophanim / area della Nostromo",
+      "bg": "assets/ships/ophanim_map.png",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Vael recupera il terminale da avambraccio del capitano. Lucien legge il Registro degli Ordini: Kethara ha localizzato la trasmissione pirata nel relitto non censito del settore TOR-143."
+        }
+      ]
+    },
+    {
+      "id": "C604",
+      "title": "Ordini di bonifica",
+      "place": "Ophanim / area della Nostromo",
+      "bg": "assets/ships/ophanim_map.png",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Il registro HC6A\\\\3S1C-Magillat-Sod, priorità Defcon 2, prevede Resheph sul perimetro, fanti tenuti all’oscuro, recupero del nucleo dati ed eliminazione di tutta la squadra per contenimento biologico e informativo. Il rientro è previsto a Hekhal Ha-Sod."
+        }
+      ]
+    },
+    {
+      "id": "C605",
+      "title": "Tempo e partenza",
+      "place": "Ophanim / area della Nostromo",
+      "bg": "assets/ships/ophanim_01.png",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Lucien nota che gli ordini risalgono a circa una settimana e mezza prima e lo interpreta come un ulteriore indizio di squilibrio temporale. Fen e Tael vengono portati a bordo; il precedente accordo di lasciarli ai soldati non descrive più la loro posizione attuale."
+        }
+      ]
+    },
+    {
+      "id": "C606",
+      "title": "Sion e il Tempio del Segreto",
+      "place": "Ophanim / area della Nostromo",
+      "bg": "assets/ships/ophanim_map.png",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Secondo Vael, Sion significa colle fortificato ed è il nome in codice di Kethara. Hekhal Ha-Sod significa Tempio del Segreto, sede del nucleo del potere. Lucien e Vael attribuiscono gli ordini a Vorath."
+        }
+      ]
+    },
+    {
+      "id": "C607",
+      "title": "Fen, Tael e la voce doppia",
+      "place": "Ophanim / area della Nostromo",
+      "bg": "assets/ships/ophanim_map.png",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Nella stiva Tael vuole tornare dalla madre, rimasta a Itoigawa. Dregan gli dice che è morta: è una dichiarazione del personaggio, senza conferma indipendente nel testo. La sua voce si sdoppia e Marcus conferma di aver udito l’altra voce. Dregan ricollega il fenomeno al ginepro e si chiede come Kethara sapesse di loro."
+        }
+      ]
+    },
+    {
+      "id": "C608",
+      "title": "Linea Termica — situazione attuale",
+      "place": "Ophanim / Linea Termica",
+      "bg": "assets/placeholders/place.svg",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "status": "CANONICO · sintesi editoriale; immagine illustrativa",
+      "cast": [],
+      "dialogue": [
+        {
+          "speaker": "Cronaca · sintesi dal master",
+          "text": "Il gruppo ha lasciato la Nostromo sull’Incrociatore Ophanim catturato. Fen e Tael sono a bordo. Dopo circa due settimane di volo nel deserto, Xarion raggiunge la Linea Termica e vede due figure con spade enormi arrivare contro la nave: «Impatto!!!». Identità delle figure ed esito dello scontro: SCONOSCIUTI."
         }
       ]
     }

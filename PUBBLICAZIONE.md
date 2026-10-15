@@ -4,7 +4,7 @@ Il progetto è un sito statico: non richiede database o backend.
 
 ## GitHub Pages
 1. Crea un repository, ad esempio `diario-del-bardo`.
-2. Carica **il contenuto della cartella `Diario_del_Bardo_v0.19.0`** nella root del repository.
+2. Carica **il contenuto della cartella `Diario_del_Bardo_v0.20.0`** nella root del repository.
 3. In GitHub apri **Settings → Pages**.
 4. In **Build and deployment** scegli **Deploy from a branch**.
 5. Scegli `main` e cartella `/ (root)`, poi salva.

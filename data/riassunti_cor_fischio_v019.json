@@ -1,6 +1,6 @@
 {
-  "version": "0.19.0",
-  "source": "Google Drive · Riassunto · capitoli 1–5",
+  "version": "0.20.0",
+  "source": "Google Drive · Riassunto · capitoli 1–6 · 14/10/2026",
   "rule": "Solo eventi importanti per la trama. Nessun raccordo romanzato, nessuna battuta ornamentale, nessun dettaglio inventato.",
   "chapters": [
     {
@@ -116,6 +116,31 @@
         "Lucien inscena il tempio di Vael; Dregan uccide il capitano e costringe i tre superstiti ad accettare un accordo che protegga Fen e gli altri di Itoigawa.",
         "Lucien accede ai droni Resheph tramite la radio del capitano e invia a Kethara un falso segnale di rientro automatico della spelljammer catturata."
       ]
+    },
+    {
+      "id": "R6",
+      "source_chapter": "Capitolo 6",
+      "title": "Sorvolando il Deserto",
+      "session": "NON INDICATA NEL DOCUMENTO",
+      "fischio": [
+        "Il gruppo prende il largo sull’Ophanim; Xarion pilota, Lucien segue le difese e Loox la Troika Eterica.",
+        "Il capitano morto si chiama Levin. Il suo terminale rivela ordini di recupero dei dati e di eliminazione della stessa squadra dei Figli.",
+        "Gli ordini sono anteriori di circa una settimana e mezza: Lucien li collega all’anomalia temporale. Fen e Tael partono con il gruppo.",
+        "Vael chiarisce Sion/Kethara e Hekhal Ha-Sod; gli ordini vengono attribuiti a Vorath.",
+        "La voce di Dregan si sdoppia e Marcus la sente. Dopo circa due settimane di volo, due figure con spade enormi si avventano verso la nave alla Linea Termica."
+      ],
+      "normal": [
+        "Il capitano ucciso è Levin. Dregan altera il cadavere e impone ai tre soldati superstiti una versione di copertura: frana, morte da detrito e rientro della nave per danni.",
+        "Xarion pilota a comandi manuali e non può fondersi con questa nave. Lucien opera ai sistemi di difesa; Loox controlla la Troika Eterica. La nave dispone di comm-link, circuito 1MC e videosorveglianza.",
+        "Vael recupera il terminale da avambraccio del capitano. Lucien legge il Registro degli Ordini: Kethara ha localizzato la trasmissione pirata nel relitto non censito del settore TOR-143.",
+        "Il registro HC6A\\\\3S1C-Magillat-Sod, priorità Defcon 2, prevede Resheph sul perimetro, fanti tenuti all’oscuro, recupero del nucleo dati ed eliminazione di tutta la squadra per contenimento biologico e informativo. Il rientro è previsto a Hekhal Ha-Sod.",
+        "Lucien nota che gli ordini risalgono a circa una settimana e mezza prima e lo interpreta come un ulteriore indizio di squilibrio temporale. Fen e Tael vengono portati a bordo; il precedente accordo di lasciarli ai soldati non descrive più la loro posizione attuale.",
+        "Secondo Vael, Sion significa colle fortificato ed è il nome in codice di Kethara. Hekhal Ha-Sod significa Tempio del Segreto, sede del nucleo del potere. Lucien e Vael attribuiscono gli ordini a Vorath.",
+        "Nella stiva Tael vuole tornare dalla madre, rimasta a Itoigawa. Dregan gli dice che è morta: è una dichiarazione del personaggio, senza conferma indipendente nel testo. La sua voce si sdoppia e Marcus conferma di aver udito l’altra voce. Dregan ricollega il fenomeno al ginepro e si chiede come Kethara sapesse di loro.",
+        "Il gruppo ha lasciato la Nostromo sull’Incrociatore Ophanim catturato. Fen e Tael sono a bordo. Dopo circa due settimane di volo nel deserto, Xarion raggiunge la Linea Termica e vede due figure con spade enormi arrivare contro la nave: «Impatto!!!». Identità delle figure ed esito dello scontro: SCONOSCIUTI."
+      ],
+      "source_url": "https://docs.google.com/document/d/1_8devWgCCjIVlKP1Rwr7s6nf4ZcPjo9I00khgxLtSAM/edit",
+      "certainty": "CANONICO · sintesi degli eventi; interpretazioni e affermazioni attribuite ai personaggi"
     }
   ]
 }

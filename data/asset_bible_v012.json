@@ -1,5 +1,5 @@
 {
-  "version": "0.19.0-reference-lock",
+  "version": "0.20.0",
   "scope": "ASSET_BIBLE_COMPLETA_REFERENCE_STUDIO_ZOOM",
   "assets": [
     {
@@ -455,6 +455,42 @@
       "group": "NPC v0.19",
       "note": "NUOVA IDENTITÀ VISIVA PROVVISORIA · da validare dal master. Ruolo canonico; aspetto in vita inventato provvisoriamente.",
       "validation": "DA VALIDARE DAL MASTER"
+    },
+    {
+      "id": "ophanim_01",
+      "name": "Incrociatore Ophanim 01",
+      "type": "NAVE",
+      "state": "REFERENCE",
+      "path": "assets/ships/ophanim_01.png",
+      "group": "Ophanim",
+      "note": "Nuova reference originale del master · AI Art / La Nostromo · ottobre 2026. Non sostituisce la planimetria della Nostromo.",
+      "variants": [
+        "assets/ships/ophanim_01.png"
+      ]
+    },
+    {
+      "id": "ophanim_02",
+      "name": "Incrociatore Ophanim 02",
+      "type": "NAVE",
+      "state": "REFERENCE",
+      "path": "assets/ships/ophanim_02.png",
+      "group": "Ophanim",
+      "note": "Nuova reference originale del master · AI Art / La Nostromo · ottobre 2026. Non sostituisce la planimetria della Nostromo.",
+      "variants": [
+        "assets/ships/ophanim_02.png"
+      ]
+    },
+    {
+      "id": "ophanim_map",
+      "name": "Incrociatore Ophanim · planimetria",
+      "type": "NAVE",
+      "state": "REFERENCE",
+      "path": "assets/ships/ophanim_map.png",
+      "group": "Ophanim",
+      "note": "Nuova reference originale del master · AI Art / La Nostromo · ottobre 2026. Non sostituisce la planimetria della Nostromo.",
+      "variants": [
+        "assets/ships/ophanim_map.png"
+      ]
     }
   ],
   "scenes": [

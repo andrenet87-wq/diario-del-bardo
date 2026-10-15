@@ -22,7 +22,7 @@
     "name": "Kethara",
     "kind": "Cittadella",
     "image": null,
-    "text": "Kethara non è ancora stata visitata dal gruppo. Lucien ne ha ricostruito soltanto la topologia dei server/rete in anelli concentrici: non va trattata come una mappa urbana verificata.",
+    "text": "Kethara non è ancora stata visitata dal gruppo. Lucien ne ha ricostruito soltanto la topologia dei server/rete in anelli concentrici: non va trattata come una mappa urbana verificata. Nel capitolo 6 Vael spiega che Sion è il suo nome in codice e Hekhal Ha-Sod la sede del potere. Nessuna visita o nuova mappa urbana documentata.",
     "x": 70,
     "y": 30
   },
@@ -31,7 +31,7 @@
     "name": "La Nostromo",
     "kind": "Spelljammer",
     "image": "assets/ships/nostromo_plan.png",
-    "text": "Spelljammer utilizzata dal gruppo come base. La nave dispone di sistemi controllabili, gravità locale, porte e infrastrutture dell’Era Atomica.",
+    "text": "Spelljammer utilizzata dal gruppo come base. La nave dispone di sistemi controllabili, gravità locale, porte e infrastrutture dell’Era Atomica. Base precedente: nel capitolo 6 il gruppo la lascia a bordo dell’Ophanim. Settore TOR-143 nel registro di Levin. Il destino dei tre soldati rimasti non è confermato.",
     "x": 56,
     "y": 65
   },
@@ -52,5 +52,32 @@
     "text": "Pianeta interamente oceanico e patria di Lucien. Colonia dell’Impero Atomico, con Abitatori del Profondo e Veleggianti. Il mondo viene attaccato dall’Orda e Lucien fugge poco prima della catastrofe.",
     "x": 12,
     "y": 18
+  },
+  {
+    "id": "ophanim",
+    "name": "Incrociatore Ophanim",
+    "kind": "Spelljammer catturata",
+    "image": "assets/ships/ophanim_01.png",
+    "text": "Incrociatore di scorta dei Figli catturato alla Nostromo e ora usato dal gruppo. Xarion alla guida manuale, Lucien alle difese, Loox alla Troika Eterica; Fen e Tael in stiva. Nuova planimetria del master: 55 × 17,5 × 12 m; manuale: 24 × 6 × 4,5 m. DISCREPANZA APERTA, nessuna misura unificata.",
+    "x": 55,
+    "y": 49
+  },
+  {
+    "id": "hekhal",
+    "name": "Hekhal Ha-Sod",
+    "kind": "Sede del potere · posizione sconosciuta",
+    "image": null,
+    "text": "Tempio del Segreto secondo Vael; struttura che da generazioni ospita il nucleo del potere di Kethara. Destinazione di rientro nel registro di Levin. Aspetto e posizione esatta SCONOSCIUTI.",
+    "x": 73,
+    "y": 36
+  },
+  {
+    "id": "linea_termica",
+    "name": "Linea Termica",
+    "kind": "Confine ambientale",
+    "image": null,
+    "text": "Confine netto fra deserto e lande di neve e ghiaccio. Ultimo punto documentato nel capitolo 6: dopo circa due settimane di volo sull’Ophanim, Xarion vede due figure con spade enormi arrivare contro la nave. Esito SCONOSCIUTO. Le coordinate della mappa del Diario restano schematiche.",
+    "x": 65,
+    "y": 46
   }
 ]

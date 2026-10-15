@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "width": 360,
+      "errors": [],
+      "missing": [],
+      "chapters": 6,
+      "scenes": 50
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "missing": [],
+      "chapters": 6,
+      "scenes": 50
+    },
+    {
+      "width": 760,
+      "errors": [],
+      "missing": [],
+      "chapters": 6,
+      "scenes": 50
+    },
+    {
+      "width": 1440,
+      "errors": [],
+      "missing": [],
+      "chapters": 6,
+      "scenes": 50
+    }
+  ],
+  "offline": true,
+  "original_assets_unchanged": 67,
+  "base_files_preserved": 107,
+  "sha256_new_assets": {
+    "assets/ships/ophanim_01.png": "2f0ad75ca1464a3c84ac7fc1b58ea52c6d152329a11b53dcf49485900aefe94e",
+    "assets/ships/ophanim_02.png": "391715470485bdfad0cf188e1ec2968dcb3196d809b5eb4a70c8051b426d2a78",
+    "assets/ships/ophanim_map.png": "5a56f0f5db9eed9e9841293021d553af14cf46970391667d2071f01fb8ba5577"
+  }
+}

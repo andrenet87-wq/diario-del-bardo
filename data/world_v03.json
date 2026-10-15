@@ -251,6 +251,33 @@
         "Transponder planetari",
         "Antenna principale danneggiata"
       ]
+    },
+    {
+      "id": "ophanim",
+      "name": "Incrociatore Ophanim",
+      "parent": "Thrantir",
+      "status": "CANONICO",
+      "visual": "REFERENCE DISPONIBILE",
+      "description": "Incrociatore di scorta dei Figli catturato alla Nostromo e ora usato dal gruppo. Xarion alla guida manuale, Lucien alle difese, Loox alla Troika Eterica; Fen e Tael in stiva. Nuova planimetria del master: 55 × 17,5 × 12 m; manuale: 24 × 6 × 4,5 m. DISCREPANZA APERTA, nessuna misura unificata.",
+      "features": []
+    },
+    {
+      "id": "hekhal",
+      "name": "Hekhal Ha-Sod",
+      "parent": "Thrantir",
+      "status": "CANONICO",
+      "visual": "SCONOSCIUTO",
+      "description": "Tempio del Segreto secondo Vael; struttura che da generazioni ospita il nucleo del potere di Kethara. Destinazione di rientro nel registro di Levin. Aspetto e posizione esatta SCONOSCIUTI.",
+      "features": []
+    },
+    {
+      "id": "linea_termica",
+      "name": "Linea Termica",
+      "parent": "Thrantir",
+      "status": "CANONICO",
+      "visual": "SCONOSCIUTO",
+      "description": "Confine netto fra deserto e lande di neve e ghiaccio. Ultimo punto documentato nel capitolo 6: dopo circa due settimane di volo sull’Ophanim, Xarion vede due figure con spade enormi arrivare contro la nave. Esito SCONOSCIUTO. Le coordinate della mappa del Diario restano schematiche.",
+      "features": []
     }
   ],
   "unknowns": [

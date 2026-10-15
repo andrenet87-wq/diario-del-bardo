@@ -1,5 +1,5 @@
 {
-  "version": "0.17.0",
+  "version": "0.20.0",
   "storage_keys": [
     "lucien_music_6",
     "lucien_music_7",
@@ -31,5 +31,17 @@
     "shadows": 4,
     "thermal_line": "confine netto tra zona illuminata/desertica e zona gelata; spostamento lentissimo",
     "technology": "recuperi dell’Era Atomica riutilizzati; tecnologia avanzata funzionante soprattutto sotto controllo dei Figli"
+  },
+  "current_situation": {
+    "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+    "text": "Il gruppo ha lasciato la Nostromo sull’Incrociatore Ophanim catturato. Fen e Tael sono a bordo. Dopo circa due settimane di volo nel deserto, Xarion raggiunge la Linea Termica e vede due figure con spade enormi arrivare contro la nave: «Impatto!!!». Identità delle figure ed esito dello scontro: SCONOSCIUTI.",
+    "party_ship": "ophanim",
+    "unresolved": [
+      "Figure alla Linea Termica",
+      "Voce doppia",
+      "Cronologia ordini",
+      "Destino madre di Tael",
+      "Dimensioni Ophanim"
+    ]
   }
 }

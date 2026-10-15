@@ -231,6 +231,42 @@
       "type": "MINACCIA",
       "description": "Forza che attacca Oceano e tenta di raggiungerne il nucleo.",
       "view": "visual"
+    },
+    {
+      "name": "Incrociatore Ophanim",
+      "type": "Spelljammer catturata",
+      "description": "Incrociatore di scorta dei Figli catturato alla Nostromo e ora usato dal gruppo. Xarion alla guida manuale, Lucien alle difese, Loox alla Troika Eterica; Fen e Tael in stiva. Nuova planimetria del master: 55 × 17,5 × 12 m; manuale: 24 × 6 × 4,5 m. DISCREPANZA APERTA, nessuna misura unificata.",
+      "view": "nostromo"
+    },
+    {
+      "name": "Hekhal Ha-Sod",
+      "type": "Sede del potere · posizione sconosciuta",
+      "description": "Tempio del Segreto secondo Vael; struttura che da generazioni ospita il nucleo del potere di Kethara. Destinazione di rientro nel registro di Levin. Aspetto e posizione esatta SCONOSCIUTI.",
+      "view": "mysteries"
+    },
+    {
+      "name": "Linea Termica",
+      "type": "Confine ambientale",
+      "description": "Confine netto fra deserto e lande di neve e ghiaccio. Ultimo punto documentato nel capitolo 6: dopo circa due settimane di volo sull’Ophanim, Xarion vede due figure con spade enormi arrivare contro la nave. Esito SCONOSCIUTO. Le coordinate della mappa del Diario restano schematiche.",
+      "view": "mysteries"
+    },
+    {
+      "name": "Capitano Levin",
+      "type": "CAPITOLO 6",
+      "description": "Morto nell’imboscata del capitolo 5. Nel capitolo 6 è identificato come Capitano Levin; il terminale recuperato da Vael rivela gli ordini di eliminare la sua squadra.",
+      "view": "characters"
+    },
+    {
+      "name": "Tael Borskov",
+      "type": "CAPITOLO 6",
+      "description": "Figlio di Fen, sale sull’Ophanim portato da Dregan con il braccio fasciato. Vorrebbe tornare dalla madre a Itoigawa; Dregan gli dice che è morta, senza conferma indipendente nel racconto.",
+      "view": "characters"
+    },
+    {
+      "name": "Sion",
+      "type": "CAPITOLO 6",
+      "description": "Nome in codice di Kethara secondo Vael.",
+      "view": "characters"
     }
   ]
 }

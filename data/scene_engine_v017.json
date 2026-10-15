@@ -1,5 +1,5 @@
 {
-  "version": "0.17.0",
+  "version": "0.20.0",
   "schema": "scene-engine-v1",
   "principle": "Una scena conserva lo stesso ID attraverso storyboard, 2D, 3D e film export.",
   "scenes": [
@@ -2156,6 +2156,332 @@
           "type": "DIALOGUE",
           "label": "1 battute documentate disponibili",
           "canon": "CANONICO"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 43,
+      "id": "C601",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Levin e la copertura",
+      "place": "Ophanim / area della Nostromo",
+      "focus": "GRUPPO",
+      "summary": "Il capitano ucciso è Levin. Dregan altera il cadavere e impone ai tre soldati superstiti una versione di copertura: frana, morte da detrito e rientro della nave per danni.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/ships/ophanim_01.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "ophanim_01"
+      ],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Il capitano ucciso è Levin. Dregan altera il cadavere e impone ai tre soldati superstiti una versione di copertura: frana, morte da detrito e rientro della nave per danni.",
+          "canon": "CANONICO · sintesi"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 44,
+      "id": "C602",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Postazioni dell’Ophanim",
+      "place": "Ophanim / area della Nostromo",
+      "focus": "GRUPPO",
+      "summary": "Xarion pilota a comandi manuali e non può fondersi con questa nave. Lucien opera ai sistemi di difesa; Loox controlla la Troika Eterica. La nave dispone di comm-link, circuito 1MC e videosorveglianza.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/ships/ophanim_map.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "ophanim_map"
+      ],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Xarion pilota a comandi manuali e non può fondersi con questa nave. Lucien opera ai sistemi di difesa; Loox controlla la Troika Eterica. La nave dispone di comm-link, circuito 1MC e videosorveglianza.",
+          "canon": "CANONICO · sintesi"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 45,
+      "id": "C603",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Il terminale di Levin",
+      "place": "Ophanim / area della Nostromo",
+      "focus": "GRUPPO",
+      "summary": "Vael recupera il terminale da avambraccio del capitano. Lucien legge il Registro degli Ordini: Kethara ha localizzato la trasmissione pirata nel relitto non censito del settore TOR-143.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/ships/ophanim_map.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "ophanim_map"
+      ],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Vael recupera il terminale da avambraccio del capitano. Lucien legge il Registro degli Ordini: Kethara ha localizzato la trasmissione pirata nel relitto non censito del settore TOR-143.",
+          "canon": "CANONICO · sintesi"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 46,
+      "id": "C604",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Ordini di bonifica",
+      "place": "Ophanim / area della Nostromo",
+      "focus": "GRUPPO",
+      "summary": "Il registro HC6A\\\\3S1C-Magillat-Sod, priorità Defcon 2, prevede Resheph sul perimetro, fanti tenuti all’oscuro, recupero del nucleo dati ed eliminazione di tutta la squadra per contenimento biologico e informativo. Il rientro è previsto a Hekhal Ha-Sod.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/ships/ophanim_map.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "ophanim_map"
+      ],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Il registro HC6A\\\\3S1C-Magillat-Sod, priorità Defcon 2, prevede Resheph sul perimetro, fanti tenuti all’oscuro, recupero del nucleo dati ed eliminazione di tutta la squadra per contenimento biologico e informativo. Il rientro è previsto a Hekhal Ha-Sod.",
+          "canon": "CANONICO · sintesi"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 47,
+      "id": "C605",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Tempo e partenza",
+      "place": "Ophanim / area della Nostromo",
+      "focus": "GRUPPO",
+      "summary": "Lucien nota che gli ordini risalgono a circa una settimana e mezza prima e lo interpreta come un ulteriore indizio di squilibrio temporale. Fen e Tael vengono portati a bordo; il precedente accordo di lasciarli ai soldati non descrive più la loro posizione attuale.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/ships/ophanim_01.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "ophanim_01"
+      ],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Lucien nota che gli ordini risalgono a circa una settimana e mezza prima e lo interpreta come un ulteriore indizio di squilibrio temporale. Fen e Tael vengono portati a bordo; il precedente accordo di lasciarli ai soldati non descrive più la loro posizione attuale.",
+          "canon": "CANONICO · sintesi"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 48,
+      "id": "C606",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Sion e il Tempio del Segreto",
+      "place": "Ophanim / area della Nostromo",
+      "focus": "GRUPPO",
+      "summary": "Secondo Vael, Sion significa colle fortificato ed è il nome in codice di Kethara. Hekhal Ha-Sod significa Tempio del Segreto, sede del nucleo del potere. Lucien e Vael attribuiscono gli ordini a Vorath.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/ships/ophanim_map.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "ophanim_map"
+      ],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Secondo Vael, Sion significa colle fortificato ed è il nome in codice di Kethara. Hekhal Ha-Sod significa Tempio del Segreto, sede del nucleo del potere. Lucien e Vael attribuiscono gli ordini a Vorath.",
+          "canon": "CANONICO · sintesi"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 49,
+      "id": "C607",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Fen, Tael e la voce doppia",
+      "place": "Ophanim / area della Nostromo",
+      "focus": "GRUPPO",
+      "summary": "Nella stiva Tael vuole tornare dalla madre, rimasta a Itoigawa. Dregan gli dice che è morta: è una dichiarazione del personaggio, senza conferma indipendente nel testo. La sua voce si sdoppia e Marcus conferma di aver udito l’altra voce. Dregan ricollega il fenomeno al ginepro e si chiede come Kethara sapesse di loro.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/ships/ophanim_map.png",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [
+        "ophanim_map"
+      ],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Nella stiva Tael vuole tornare dalla madre, rimasta a Itoigawa. Dregan gli dice che è morta: è una dichiarazione del personaggio, senza conferma indipendente nel testo. La sua voce si sdoppia e Marcus conferma di aver udito l’altra voce. Dregan ricollega il fenomeno al ginepro e si chiede come Kethara sapesse di loro.",
+          "canon": "CANONICO · sintesi"
+        }
+      ],
+      "status": "READY_DATA"
+    },
+    {
+      "index": 50,
+      "id": "C608",
+      "chapter": "CAPITOLO 6 · SORVOLANDO IL DESERTO",
+      "title": "Linea Termica — situazione attuale",
+      "place": "Ophanim / Linea Termica",
+      "focus": "GRUPPO",
+      "summary": "Il gruppo ha lasciato la Nostromo sull’Incrociatore Ophanim catturato. Fen e Tael sono a bordo. Dopo circa due settimane di volo nel deserto, Xarion raggiunge la Linea Termica e vede due figure con spade enormi arrivare contro la nave: «Impatto!!!». Identità delle figure ed esito dello scontro: SCONOSCIUTI.",
+      "canon": "CANONICO · sintesi; interpretazioni attribuite",
+      "source": "Google Drive · Riassunto · Capitolo 6 · revisione 49701 del 14/10/2026",
+      "image": "assets/placeholders/place.svg",
+      "cast": [
+        "Lucien",
+        "Xarion",
+        "Dregan",
+        "Marcus",
+        "Vael",
+        "Loox",
+        "Fen",
+        "Tael"
+      ],
+      "dialogue": [],
+      "requirements": [],
+      "direction": {
+        "camera": "REGIA / RICOSTRUZIONE: consultazione della reference; nessuna nuova inquadratura canonica.",
+        "lighting": "SCONOSCIUTO per la scena specifica; rispettare il contratto visivo di Thrantir.",
+        "sound": "Nessuna voce browser; scena consultabile tramite testo.",
+        "note": "La reference della nave illustra il vascello, non prova la posizione di ciascun personaggio in questa scena."
+      },
+      "beats": [
+        {
+          "at": 0,
+          "type": "CANON",
+          "label": "Il gruppo ha lasciato la Nostromo sull’Incrociatore Ophanim catturato. Fen e Tael sono a bordo. Dopo circa due settimane di volo nel deserto, Xarion raggiunge la Linea Termica e vede due figure con spade enormi arrivare contro la nave: «Impatto!!!». Identità delle figure ed esito dello scontro: SCONOSCIUTI.",
+          "canon": "CANONICO · sintesi"
         }
       ],
       "status": "READY_DATA"
