@@ -1,5 +1,5 @@
 {
-  "version": "0.20.0",
+  "version": "0.20.1",
   "scope": "ASSET_BIBLE_COMPLETA_REFERENCE_STUDIO_ZOOM",
   "assets": [
     {
@@ -490,6 +490,18 @@
       "note": "Nuova reference originale del master · AI Art / La Nostromo · ottobre 2026. Non sostituisce la planimetria della Nostromo.",
       "variants": [
         "assets/ships/ophanim_map.png"
+      ]
+    },
+    {
+      "id": "cover_strato05",
+      "name": "Copertina · Capitolo 6 — Sorvolando il Deserto",
+      "type": "COPERTINA",
+      "state": "RICOSTRUZIONE",
+      "path": "assets/covers/strato05_sorvolando_il_deserto.png",
+      "group": "Copertine",
+      "note": "Illustrazione editoriale generata con ImageGen integrato, basata su Ophanim 01 e planimetria originali del master e sullo stile delle copertine precedenti. Non è una nuova reference canonica.",
+      "variants": [
+        "assets/covers/strato05_sorvolando_il_deserto.png"
       ]
     }
   ],

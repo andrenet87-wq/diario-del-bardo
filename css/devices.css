@@ -73,3 +73,6 @@
 
 /* v0.20 original master references */
 .ophanimPanel{margin:18px 0}.ophanimGallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.ophanimGallery figure{margin:0;min-width:0}.ophanimGallery figure:last-child{grid-column:1/-1}.ophanimGallery img{display:block;width:100%;height:auto;cursor:zoom-in}.ophanimGallery figcaption{font-size:.85rem;padding:8px;color:#aebdd0}@media(max-width:760px){.ophanimGallery{grid-template-columns:1fr}}
+
+/* v0.20.1 full chapter covers, readable labels below artwork */
+.chapterCover .overlay{position:relative;inset:auto;background:#09111a;padding:12px 14px}.chapterCover img{height:auto;object-fit:contain}.chapterCover .overlay small{min-height:0}

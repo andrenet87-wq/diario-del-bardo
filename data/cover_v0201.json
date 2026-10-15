@@ -1,0 +1,29 @@
+{
+  "version": "0.20.1",
+  "date": "2026-10-15",
+  "stratum": "strato05",
+  "source_chapter": 6,
+  "title": "Sorvolando il Deserto",
+  "scene_ids": [
+    "C601",
+    "C602",
+    "C603",
+    "C604",
+    "C605",
+    "C606",
+    "C607",
+    "C608"
+  ],
+  "cover": "assets/covers/strato05_sorvolando_il_deserto.png",
+  "classification": "RICOSTRUZIONE / COPERTINA EDITORIALE",
+  "tool": "Built-in ImageGen",
+  "prompt": "Tool: built-in ImageGen\nOutput: assets/covers/strato05_sorvolando_il_deserto.png\nClassification: RICOSTRUZIONE / COPERTINA EDITORIALE, derived from master references; not a new canonical reference.\n\nUse case: illustration-story. Create one finished landscape 16:9 chapter cover for the Italian sci-fantasy campaign Diario del Bardo. Input 1 and 2 are STYLE REFERENCES ONLY: match their fine ornate antique-gold border, compass ornaments at corners and midpoint, cinematic dark epic painterly realism, amber highlights and elegant embossed golden serif typography. Input 3 and 4 are SUBJECT REFERENCES from the master: preserve the Ophanim escort cruiser design, its low elongated industrial pale-metal hull, cockpit glazing at front, mechanical aft engines, central turret. Make this cruiser the main subject flying low over the rocky sandy desert toward the sharply defined thermal boundary, where sand abruptly becomes a cold glacial landscape. This is a symbolic chapter illustration, not a newly asserted event. Do not copy the giant ruined ship from background of input 3. No characters or enemies, no invented creatures, no combat, no swords, no explosion. Atmospheric desaturated blue-black cosmic sky and warm reflected amber lighting, colder blue ice along the distant horizon. Do not add a sun, water, cities, towers, magic castles or a giant black hole. Composition: cruiser prominent in left/lower half, ample dark clean space in right/upper area for legible titles in the style of cover references. Exact text: top small 'L’Eschaton di Thrantir — Diario del Bardo'; main large gold serif 'CAPITOLO 6'; second title in pale silver serif 'SORVOLANDO IL DESERTO'; smaller gold subtitle 'Ophanim e la Linea Termica'. Exact Italian spelling, refined hierarchy and no other text or watermark. Preserve frame with generous safe margins. This is new derivative editorial cover art; do not modify any input images.\n",
+  "references": [
+    "assets/covers/strato04_kethara.png",
+    "assets/covers/strato02_thrantir.png",
+    "assets/ships/ophanim_01.png",
+    "assets/ships/ophanim_map.png"
+  ],
+  "sha256": "5606482e4445dc25bfb7b97568205efad8d8b2f3286af0c693371877b2efa980",
+  "rule": "Nessun cambiamento alle reference approvate o alle fonti canoniche; la copertina è una ricostruzione editoriale."
+}

@@ -38,3 +38,7 @@ Reference precedenti immutate nei byte. Per Tael viene usato un segnaposto neutr
 ## Uso offline
 
 Estrarre tutto lo ZIP e aprire `index.html`. Nessuna dipendenza da Drive per caricare le immagini. La modalità Auto adatta la stessa versione completa a telefono e desktop; restano disponibili i selettori Android/PC.
+
+## v0.20.1 — copertina del nuovo capitolo
+
+Aggiunta la copertina dedicata «Capitolo 6 — Sorvolando il Deserto», nello stile delle precedenti, con Ophanim e Linea Termica. Creata con ImageGen integrato a partire dalle nuove reference del master; classificata RICOSTRUZIONE editoriale. Conservati i cinque strati: il quinto collega C601–C608 al capitolo 6 del master. Numerazioni spiegate nell’interfaccia; copertine interamente visibili nelle schede e apribili nel viewer con zoom. Tutte le reference originali e le quattro copertine precedenti restano immutate.

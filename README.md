@@ -1,4 +1,4 @@
-# Diario del Bardo v0.20.0
+# Diario del Bardo v0.20.1
 
 
 Aggiornamento completo al 15 ottobre 2026, basato su `main` (`2cec429`). Consultare [NOVITA_v0.20.md](NOVITA_v0.20.md) per fonti, differenze e discrepanze aperte. La versione funziona offline aprendo `index.html`; voce browser e simulazione bocche restano assenti.
